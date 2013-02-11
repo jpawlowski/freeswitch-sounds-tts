@@ -1,0 +1,1 @@
+Dieses System unterstützt mittels ZRTP verschlüsselte Telefonanrufe. Bitte entscheiden sie ob dieses System ihre Anrufe verschlüsseln soll. Sobald Sie fertig sind legen sie bitte auf.

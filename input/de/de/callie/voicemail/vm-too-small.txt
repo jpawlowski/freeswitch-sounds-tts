@@ -1,0 +1,1 @@
+"Ihre Nachricht ist zu kurz, bitte versuchen sie es noch einmal"
