@@ -1,1 +1,1 @@
-"Nur Telefone mit ZRTP können diese Nebenstelle nutzen. Ihr Telefon unterstützt kein ZRTR, diese Ruf ist damit ungeschützt."
+Nur Telefone mit ZRTP Verschlüsselung können diese Rufnummer nutzen. Ihr Telefon unterstützt diese Art der Verschlüsselung nicht, der Anruf ist damit ungeschützt.

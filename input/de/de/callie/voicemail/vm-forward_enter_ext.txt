@@ -1,1 +1,1 @@
-Bitte geben Sie die Nebenstellen ein, zu der diese Nachricht weitergeleitet werden soll.
+Bitte geben Sie die Rufnummer ein, zu der diese Nachricht weitergeleitet werden soll.
