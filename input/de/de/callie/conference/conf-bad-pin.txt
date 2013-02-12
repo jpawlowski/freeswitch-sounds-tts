@@ -1,1 +1,1 @@
-"ungültiger Pin, bitte versuchen Sie es erneut."
+Ungültige Pin. Bitte versuchen Sie es erneut.

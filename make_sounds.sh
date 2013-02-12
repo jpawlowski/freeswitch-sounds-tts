@@ -28,7 +28,7 @@ for FILE in $FILES; do
 	fi
 	
 	if [ "${LOCALE}" == "de" ]; then
-		VOICE="dfki-pavoque-neutral"
+		VOICE="bits3-hsmm"
 	elif [ "${LOCALE}" == "en" ]; then
 		VOICE="dfki-spike"
 		LOCALE="en_GB"

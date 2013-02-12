@@ -1,1 +1,1 @@
-Wählen sie eine Ansage zwischen 1 und 9.
+Wählen sie eine Ansage zwischen 1 und 9
