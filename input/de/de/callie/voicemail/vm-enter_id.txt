@@ -1,1 +1,1 @@
-"Bitte geben sie ihren Benutzernamen ein, gefolgt von"
+Bitte geben Sie ihre Benutzerkennung ein, gefolgt von

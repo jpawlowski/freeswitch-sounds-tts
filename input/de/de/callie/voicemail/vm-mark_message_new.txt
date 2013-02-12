@@ -1,1 +1,1 @@
-um diese Nachricht als neu zu markieren
+um diese Nachricht als "neu" zu markieren.

@@ -1,1 +1,1 @@
-"Bitte geben sie ihr Passwort ein, gefolgt von"
+Bitte geben sie ihre Pin ein, gefolgt von
