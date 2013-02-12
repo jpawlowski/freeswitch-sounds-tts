@@ -58,6 +58,6 @@ echo -e "\nCreating archive files ...\n"
 rm -f ./freeswitch-sounds-de-de-callie-*.tar-gz
 
 cd ./output
-find . -name '16000' -type d | xargs tar cfpzv ../freeswitch-sounds-de-de-callie-16000-0.0.1.tar.gz
-find . -name '8000' -type d | xargs tar cfpzv ../freeswitch-sounds-de-de-callie-8000-0.0.1.tar.gz
+find . -name '16000' -type d | xargs tar cfpzv ../freeswitch-sounds-de-de-callie-16000-0.0.2.tar.gz
+find . -name '8000' -type d | xargs tar cfpzv ../freeswitch-sounds-de-de-callie-8000-0.0.2.tar.gz
 cd -
