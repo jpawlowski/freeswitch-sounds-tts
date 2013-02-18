@@ -8,56 +8,61 @@ if [[ ! -d ./input || ! curl || ! sox || ! perl ]]; then
 fi
 
 MARYTTS_URL="https://tts.profhost.eu"
+MARYTTS_VOICESDE="bits1-hsmm bits3 bits3-hsmm dfki-pavoque-neutral dfki-pavoque-neutral-hsmm"
 FILES="`cd ./input; find . -name *.txt`"
 
 for FILE in $FILES; do
 	BASENAME="${FILE#.*/}"
 	FILENAME="${BASENAME%%.*}"
+	FILENAME_FLAT="${FILENAME#*/}"
 	LOCALE="${BASENAME%%/*}"
-	OUTPUT_DIR="./output/${FILENAME%/*}/16000"
-	OUTPUT_DIR8k="./output/${FILENAME%/*}/8000"
-	OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
-	OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
 
-	if [ -f "./input/${BASENAME}.maryxml" ]; then
-		INPUT_FILE="./input/${FILENAME}.maryxml"
-		INPUT_TYPE="RAWMARYXML"
-	else
-		INPUT_FILE="./input/${FILENAME}.txt"
-		INPUT_TYPE="TEXT"
-	fi
+	eval echo \${MARYTTS_VOICES${LOCALE^^}} > fs_voices.tmp
+	VOICES="`cat fs_voices.tmp`"
+	rm -rf fs_voices.tmp
+
+	for VOICE in $VOICES; do
 	
-	if [ "${LOCALE}" == "de" ]; then
-		VOICE="bits3-hsmm"
-	elif [ "${LOCALE}" == "en" ]; then
-		VOICE="dfki-spike"
-		LOCALE="en_GB"
-	else
-		echo "Unsupported language '${LOCALE}'. Aborting..."
-		exit 1
-	fi
-
-	if [ ! -f "${OUTPUT_FILE}" ]; then
-		echo "Processing ${FILENAME} ..."
-		mkdir -p "${OUTPUT_DIR}"
-		TEXT="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "`cat ${INPUT_FILE}`")"
-		curl -s "${MARYTTS_URL}/process?INPUT_TEXT=${TEXT}&INPUT_TYPE=${INPUT_TYPE}&OUTPUT_TYPE=AUDIO&AUDIO=WAVE_FILE&LOCALE=${LOCALE}&VOICE=${VOICE}" > "${OUTPUT_FILE}"
-	fi
-
-	if [[ ! -f "${OUTPUT_FILE8k}" && -f "${OUTPUT_FILE}" ]]; then
-		echo "Converting ${FILENAME} to 8kHz ..."
-		mkdir -p "${OUTPUT_DIR8k}"
-		sox -t wav "${OUTPUT_FILE}" -c1 -r8000 -b16 -e signed-integer "${OUTPUT_FILE8k}"
-	fi
+		OUTPUT_DIR="./output/${LOCALE}/${LOCALE}/${VOICE}/${FILENAME_FLAT%/*}/16000"
+		OUTPUT_DIR8k="./output/${LOCALE}/${LOCALE}/${VOICE}/${FILENAME_FLAT%/*}/8000"
+		OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
+		OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
+	
+		if [ -f "./input/${BASENAME}.maryxml" ]; then
+			INPUT_FILE="./input/${FILENAME}.maryxml"
+			INPUT_TYPE="RAWMARYXML"
+		else
+			INPUT_FILE="./input/${FILENAME}.txt"
+			INPUT_TYPE="TEXT"
+		fi
+	
+	
+		if [ ! -f "${OUTPUT_FILE}" ]; then
+			echo "Processing ${FILENAME} ..."
+			mkdir -p "${OUTPUT_DIR}"
+			TEXT="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "`cat ${INPUT_FILE}`")"
+			curl -s "${MARYTTS_URL}/process?INPUT_TEXT=${TEXT}&INPUT_TYPE=${INPUT_TYPE}&OUTPUT_TYPE=AUDIO&AUDIO=WAVE_FILE&LOCALE=${LOCALE}&VOICE=${VOICE}" > "${OUTPUT_FILE}"
+		fi
+	
+		if [[ ! -f "${OUTPUT_FILE8k}" && -f "${OUTPUT_FILE}" ]]; then
+			echo "Converting ${FILENAME} to 8kHz ..."
+			mkdir -p "${OUTPUT_DIR8k}"
+			sox -t wav "${OUTPUT_FILE}" -c1 -r8000 -b16 -e signed-integer "${OUTPUT_FILE8k}"
+		fi
+	done
 done
 
 echo "Processing complete."
 
 echo -e "\nCreating archive files ...\n"
 
-rm -f ./freeswitch-sounds-de-de-callie-*.tar-gz
+rm -f ./freeswitch-sounds-*.tar.gz
 
 cd ./output
-find . -name '16000' -type d | xargs tar cfpzv ../freeswitch-sounds-de-de-callie-16000-0.0.5.tar.gz
-find . -name '8000' -type d | xargs tar cfpzv ../freeswitch-sounds-de-de-callie-8000-0.0.5.tar.gz
-cd -
+for VOICE in `find . -type d -depth 3`; do
+	FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
+	find $VOICE -name '16000' -type d | xargs tar cfpzv ../freeswitch-sounds${FILENAME}-16000-0.0.6.tar.gz
+	find $VOICE -name '8000' -type d | xargs tar cfpzv ../freeswitch-sounds${FILENAME}-8000-0.0.6.tar.gz
+	cd - >/dev/null
+done
+cd ..
