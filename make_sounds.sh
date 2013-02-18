@@ -38,7 +38,7 @@ for FILE in $FILES; do
 	
 	
 		if [ ! -f "${OUTPUT_FILE}" ]; then
-			echo "Processing ${FILENAME} ..."
+			echo "Processing ${FILENAME} for voice ${VOICE} ..."
 			mkdir -p "${OUTPUT_DIR}"
 			TEXT="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "`cat ${INPUT_FILE}`")"
 			curl -s "${MARYTTS_URL}/process?INPUT_TEXT=${TEXT}&INPUT_TYPE=${INPUT_TYPE}&OUTPUT_TYPE=AUDIO&AUDIO=WAVE_FILE&LOCALE=${LOCALE}&VOICE=${VOICE}" > "${OUTPUT_FILE}"
@@ -61,8 +61,9 @@ rm -f ./freeswitch-sounds-*.tar.gz
 cd ./output
 for VOICE in `find . -type d -depth 3`; do
 	FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
-	find $VOICE -name '16000' -type d | xargs tar cfpzv ../freeswitch-sounds${FILENAME}-16000-0.0.6.tar.gz
-	find $VOICE -name '8000' -type d | xargs tar cfpzv ../freeswitch-sounds${FILENAME}-8000-0.0.6.tar.gz
-	cd - >/dev/null
+	echo "freeswitch-sounds${FILENAME}-16000"
+	find "$VOICE" -name '16000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-16000-0.0.6.tar.gz
+	echo "freeswitch-sounds${FILENAME}-8000"
+	find "$VOICE" -name '8000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-8000-0.0.6.tar.gz
 done
 cd ..
