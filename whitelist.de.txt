@@ -1,0 +1,5 @@
+voicemail/vm-saved2
+currency/cent-per-minute
+currency/euro
+currency/euros
+misc/de
