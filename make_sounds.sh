@@ -12,10 +12,19 @@ MARYTTS_VOICESDE="bits1-hsmm bits3 bits3-hsmm dfki-pavoque-neutral dfki-pavoque-
 FILES="`cd ./input; find . -name *.txt`"
 
 for FILE in $FILES; do
+
 	BASENAME="${FILE#.*/}"
 	FILENAME="${BASENAME%%.*}"
 	FILENAME_FLAT="${FILENAME#*/}"
 	LOCALE="${BASENAME%%/*}"
+	set +e
+	CHECK_TODO=`grep "#TODO" "./input/${BASENAME}"`
+	set -e
+
+	if [ x"${CHECK_TODO}" != x"" ]; then
+		echo "Ignoring ${FILENAME}"
+		continue;
+	fi
 
 	eval echo \${MARYTTS_VOICES${LOCALE^^}} > fs_voices.tmp
 	VOICES="`cat fs_voices.tmp`"
