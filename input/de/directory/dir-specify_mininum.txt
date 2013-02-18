@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in directory/dir-specify_mininum
-#TODO
+Sie müssen mindestens

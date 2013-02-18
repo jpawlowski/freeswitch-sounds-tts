@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in directory/dir-too_many_result
-#TODO
+Ihre Suche ergab zu viele Ergebnisse, bitte versuchen Sie es noch einmal.

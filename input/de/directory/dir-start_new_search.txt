@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in directory/dir-start_new_search
-#TODO
+um einen neue Suche zu starten

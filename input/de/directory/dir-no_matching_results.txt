@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in directory/dir-no_matching_results
-#TODO
+Ihre Suche brachte leider kein Ergebnis.
