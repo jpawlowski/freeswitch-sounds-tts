@@ -1,0 +1,2 @@
+Leere Datei: Bitte Text formulieren in ivr/ivr-not_accept_anonymous_calls
+#TODO

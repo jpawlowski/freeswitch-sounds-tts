@@ -1,0 +1,13 @@
+voicemail/vm-saved2
+currency/cent-per-minute
+currency/euro
+currency/euros
+misc/de
+ascii/200
+ascii/201
+ascii/202
+ascii/203
+phonetic-ascii/200
+phonetic-ascii/201
+phonetic-ascii/202
+phonetic-ascii/203

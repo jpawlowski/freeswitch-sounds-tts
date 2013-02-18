@@ -1,0 +1,2 @@
+Leere Datei: Bitte Text formulieren in ivr/ivr-phone_not_make_external_calls
+#TODO
