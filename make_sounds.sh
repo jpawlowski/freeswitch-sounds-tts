@@ -23,8 +23,8 @@ for FILE in $FILES; do
 
 	for VOICE in $VOICES; do
 	
-		OUTPUT_DIR="./output/${LOCALE}/${LOCALE}/${VOICE}/${FILENAME_FLAT%/*}/16000"
-		OUTPUT_DIR8k="./output/${LOCALE}/${LOCALE}/${VOICE}/${FILENAME_FLAT%/*}/8000"
+		OUTPUT_DIR="./output/${LOCALE}/tts/${VOICE}/${FILENAME_FLAT%/*}/16000"
+		OUTPUT_DIR8k="./output/${LOCALE}/tts/${VOICE}/${FILENAME_FLAT%/*}/8000"
 		OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
 		OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
 	
