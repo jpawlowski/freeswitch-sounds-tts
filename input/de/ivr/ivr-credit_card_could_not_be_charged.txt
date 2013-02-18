@@ -1,0 +1,2 @@
+Leere Datei: Bitte Text formulieren in ivr/ivr-credit_card_could_not_be_charged
+#TODO

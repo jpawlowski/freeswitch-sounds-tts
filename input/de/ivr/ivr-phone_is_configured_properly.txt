@@ -1,0 +1,2 @@
+Leere Datei: Bitte Text formulieren in ivr/ivr-phone_is_configured_properly
+#TODO
