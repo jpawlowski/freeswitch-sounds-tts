@@ -136,7 +136,7 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 
 		if [[ -f "${OUTPUT_FILE}" ]]; then
 			echo "Improving ${FILENAME} ..."
-			sox "${OUTPUT_FILE}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% tempo 1.3 reverse
+			sox "${OUTPUT_FILE}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% tempo 1.2 reverse
 			rm -f "${OUTPUT_FILE}"
 			sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}" silence 1 0.1 0.0% reverse
 			rm -f "${OUTPUT_FILE}.imp.wav"
