@@ -1,1 +1,1 @@
-Ihre Nachricht ist zu kurz, bitte wiederholen Sie die Aufnahme.
+Ihre Aufnahme unterschreitet die minimale Länge. Bitte versuchen Sie es nochmals.

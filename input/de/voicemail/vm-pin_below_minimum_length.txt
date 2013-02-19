@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in voicemail/vm-pin_below_minimum_length
-#TODO
+Die von Ihnen eingegebene Pin unterschreitet die Mindestlänge.

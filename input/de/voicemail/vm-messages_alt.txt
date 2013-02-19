@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in voicemail/vm-messages_alt
-#TODO
+Nachrichten
