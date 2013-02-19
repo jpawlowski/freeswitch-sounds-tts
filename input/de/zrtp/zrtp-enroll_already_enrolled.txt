@@ -1,1 +1,2 @@
-"Ihr Telefon ist hier bereits für ZRTP freigeschalten, sie müssen keine weiteren Schritte setzen."
+Die Vertrauensstellung Ihres Telefons mit der Telefonanlage ist bereits eingerichtet.
+Um ZRTP Gespräche zu führen sind keine weiteren Schritte notwendig.

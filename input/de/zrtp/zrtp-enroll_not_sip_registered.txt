@@ -1,1 +1,2 @@
-DIe ZRTP Verschlüssellung steht nur ausgewählten Telefonen zur Verfügung.
+Nur zugelassene Endgeräte können mit dieser Telefonanlage für ZRTP konfiguriert werden.
+Sie verwenden jedoch ein unbekanntes Endgerät.

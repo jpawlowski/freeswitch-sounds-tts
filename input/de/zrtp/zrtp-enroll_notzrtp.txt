@@ -1,1 +1,2 @@
 Dieser Anschluss kann nur mit ZRTP fähigen Endgeräten genutzt werden.
+Ihr Endgerät unterstützt diese Funktion jedoch nicht.
