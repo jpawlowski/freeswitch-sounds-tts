@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in conference/conf-members_in_conference
-#TODO
+Teilnehmer in dieser Konferenz.

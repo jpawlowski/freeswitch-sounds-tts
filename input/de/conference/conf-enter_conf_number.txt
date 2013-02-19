@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in conference/conf-enter_conf_number
-#TODO
+Bitte geben Sie die Konferenznummer ein, gefolgt von Raute.

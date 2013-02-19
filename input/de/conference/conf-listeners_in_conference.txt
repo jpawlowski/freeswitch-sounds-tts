@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in conference/conf-listeners_in_conference
-#TODO
+Mehrere Zuhörer sind in dieser Konferenz.

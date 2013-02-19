@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in conference/conf-one_other_person_conference
-#TODO
+Es befindet sich eine andere Person in dieser Konferenz.

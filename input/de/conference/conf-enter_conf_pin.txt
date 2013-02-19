@@ -1,1 +1,1 @@
-Bitte geben Sie die Konferenz Pin ein.
+Bitte geben Sie die Konferenz Pin ein, gefolgt von Raute.
