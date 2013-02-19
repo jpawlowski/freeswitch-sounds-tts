@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-invalid_extension_try_again
-#TODO
+ungültige Rufnummer

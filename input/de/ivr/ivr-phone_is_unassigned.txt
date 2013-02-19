@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-phone_is_unassigned
-#TODO
+Dieses Endgerät ist keinem Benutzer zugeordnet und kann keine externen Gespräche führen.

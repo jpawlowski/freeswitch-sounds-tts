@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-to_learn_more_about_freeswitch
-#TODO
+um mehr über Freeswitch zu erfahren

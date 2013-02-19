@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-perform_delayed_echo_test
-#TODO
+Um einen zeitverzögerten Echo Test durchzuführen, drücken Sie

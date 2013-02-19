@@ -1,1 +1,1 @@
-Die Pin oder die Rufnummer ist falsch.
+Ihre Pin oder die Rufnummer ist ungültig.

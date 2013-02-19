@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-read_each_key_press_back
-#TODO
+Drücken Sie einen oder mehrere Tasten, ich wiederhole sie für Sie.

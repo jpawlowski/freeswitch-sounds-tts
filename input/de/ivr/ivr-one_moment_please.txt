@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-one_moment_please
-#TODO
+Einen Moment bitte.

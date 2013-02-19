@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-to_reject_hangup
-#TODO
+um abzulehnen legen Sie einfach auf, ohne eine Taste zu drücken.

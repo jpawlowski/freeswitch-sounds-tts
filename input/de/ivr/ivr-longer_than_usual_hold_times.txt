@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-longer_than_usual_hold_times
-#TODO
+Die Wartezeit ist momentan länger als gewöhnlich.

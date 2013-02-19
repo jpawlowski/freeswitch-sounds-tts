@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-anonymous_caller
-#TODO
+Anonymer Anrufer

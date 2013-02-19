@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-modify_main_prompt
-#TODO
+um die Hauptansage zu ändern

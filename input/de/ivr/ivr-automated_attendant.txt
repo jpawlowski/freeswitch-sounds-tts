@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-automated_attendant
-#TODO
+Automatischer Teilnehmer

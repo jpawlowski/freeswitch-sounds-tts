@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-enter_destination_telephone_number
-#TODO
+Geben Sie die Zielrufnummer ein, gefolgt von Raute.

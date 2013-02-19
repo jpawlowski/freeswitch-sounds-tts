@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-request_or_use_pin
-#TODO
+Alternativ können Sie über die Weboberfläche einen Pin Code anfordern.

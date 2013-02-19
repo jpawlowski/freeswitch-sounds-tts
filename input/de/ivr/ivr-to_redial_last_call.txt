@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-to_redial_last_call
-#TODO
+um mit Ihrem letzten Gesprächspartner verbunden zu werden

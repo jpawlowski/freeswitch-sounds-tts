@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-perform_dtmf_test
-#TODO
+Um einen DTMF Ton Test durchzuführen, drücken Sie

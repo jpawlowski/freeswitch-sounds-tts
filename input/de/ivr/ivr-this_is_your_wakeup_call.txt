@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-this_is_your_wakeup_call
-#TODO
+Dies ist Ihr Weckanruf!

@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-send_fax_now
-#TODO
+Aktivieren Sie jetzt die Faxfunktion an Ihrem Gerät.

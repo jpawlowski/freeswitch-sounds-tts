@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-congratulations_you_pressed_star
-#TODO
+Herzlichen Glückwunsch! Sie haben soeben die Sterntaste gedrückt.

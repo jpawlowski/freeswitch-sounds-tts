@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-learn_more_freeguipydotorg
-#TODO
+Erfahren Sie mehr unter freeguipy.org

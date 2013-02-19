@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-ensure_service_keeps_working
-#TODO
+um sicherzustellen, dass Ihr Dienst erreichbar bleibt.

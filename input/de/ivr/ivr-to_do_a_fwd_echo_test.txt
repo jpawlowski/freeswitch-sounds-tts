@@ -1,1 +1,1 @@
-Um den forward echo test zu wählen
+um einen externen Echotest durchzuführen

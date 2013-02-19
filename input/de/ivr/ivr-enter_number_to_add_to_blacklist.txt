@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-enter_number_to_add_to_blacklist
-#TODO
+Bitte geben Sie die Rufnummer ein, welche auf die schwarze Liste gesetzt werden soll.

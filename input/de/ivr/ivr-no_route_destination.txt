@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-no_route_destination
-#TODO
+Keine Route für das Ziel vorhanden

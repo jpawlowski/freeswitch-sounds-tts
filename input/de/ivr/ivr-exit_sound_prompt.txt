@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-exit_sound_prompt
-#TODO
+Verlassen der Warteschlange

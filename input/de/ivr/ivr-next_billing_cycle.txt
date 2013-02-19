@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-next_billing_cycle
-#TODO
+Ihr nächster Abrechnungs Zyklus beginnt am

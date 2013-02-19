@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-call_cannot_be_completed_as_dialed
-#TODO
+Ihr Anruf kann nicht wie gewählt durchgeführt werden.
