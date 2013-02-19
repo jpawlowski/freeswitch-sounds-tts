@@ -67,6 +67,14 @@ if [[ x"$1" == x"marytts" || x"$1" == x"" ]]; then
 				 fi
 				 set -e
 			fi
+
+			if [[ -f "${OUTPUT_FILE}" ]]; then
+				echo "Improving ${FILENAME} ..."
+				sox "${OUTPUT_FILE}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
+				rm -f "${OUTPUT_FILE}"
+				sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}" silence 1 0.1 0.0% reverse
+				rm -f "${OUTPUT_FILE}.imp.wav"
+			fi
 	
 			if [[ ! -f "${OUTPUT_FILE8k}" && -f "${OUTPUT_FILE}" ]]; then
 				echo "Converting ${FILENAME} to 8kHz ..."
@@ -108,7 +116,6 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 			mkdir -p "${OUTPUT_DIR_TMP}"
 			TEXT="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "`cat ${INPUT_FILE}`")"
 			curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" -s "http://translate.google.com/translate_tts?tl=${LOCALE}&q=${TEXT}" > "${OUTPUT_FILE_TMP}"
-			sleep 1
 
 			set +e
 			CHECK_FILE="`file ${OUTPUT_FILE_TMP} | grep "MPEG"`"
@@ -125,6 +132,14 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 			echo "Converting ${FILENAME} to 16kHz ..."
 			mkdir -p "${OUTPUT_DIR}"
 			mpg123 -q -w ${OUTPUT_FILE} ${OUTPUT_FILE_TMP}
+		fi
+
+		if [[ -f "${OUTPUT_FILE}" ]]; then
+			echo "Improving ${FILENAME} ..."
+			sox "${OUTPUT_FILE}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% tempo 1.3 reverse
+			rm -f "${OUTPUT_FILE}"
+			sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}" silence 1 0.1 0.0% reverse
+			rm -f "${OUTPUT_FILE}.imp.wav"
 		fi
 
 		if [[ ! -f "${OUTPUT_FILE8k}" && -f "${OUTPUT_FILE}" ]]; then
@@ -176,6 +191,14 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 					echo "ok"
 				 fi
 				 set -e
+			fi
+
+			if [[ -f "${OUTPUT_FILE}" ]]; then
+				echo "Improving ${FILENAME} ..."
+				sox "${OUTPUT_FILE}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
+				rm -f "${OUTPUT_FILE}"
+				sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}" silence 1 0.1 0.0% reverse
+				rm -f "${OUTPUT_FILE}.imp.wav"
 			fi
 
 			if [[ ! -f "${OUTPUT_FILE8k}" && -f "${OUTPUT_FILE}" ]]; then
