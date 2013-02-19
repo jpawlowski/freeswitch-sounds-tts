@@ -52,10 +52,20 @@ if [[ x"$1" == x"marytts" || x"$1" == x"" ]]; then
 			fi
 	
 			if [ ! -f "${OUTPUT_FILE}" ]; then
-				echo "Processing ${FILENAME} for voice ${VOICE} ..."
+				echo -n "Processing ${FILENAME} for voice ${VOICE} ... "
 				mkdir -p "${OUTPUT_DIR}"
 				TEXT="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "`cat ${INPUT_FILE}`")"
 				curl -s "${MARYTTSURL}/process?INPUT_TEXT=${TEXT}&INPUT_TYPE=${INPUT_TYPE}&OUTPUT_TYPE=AUDIO&AUDIO=WAVE_FILE&LOCALE=${LOCALE}&VOICE=${VOICE}" > "${OUTPUT_FILE}"
+
+				set +e
+				CHECK_FILE="`file ${OUTPUT_FILE} | grep "WAVE audio"`"
+				if [ x"$CHECK_FILE" == x"" ]; then
+					echo "FAILED"
+					rm -f "${OUTPUT_FILE}"
+				else
+					echo "ok"
+				 fi
+				 set -e
 			fi
 	
 			if [[ ! -f "${OUTPUT_FILE8k}" && -f "${OUTPUT_FILE}" ]]; then
@@ -94,11 +104,21 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 		INPUT_FILE="./input/${FILENAME}.txt"
 	
 		if [ ! -f "${OUTPUT_FILE_TMP}" ]; then
-			echo "Processing ${FILENAME} ..."
+			echo -n "Processing ${FILENAME} ... "
 			mkdir -p "${OUTPUT_DIR_TMP}"
 			TEXT="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "`cat ${INPUT_FILE}`")"
 			curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" -s "http://translate.google.com/translate_tts?tl=${LOCALE}&q=${TEXT}" > "${OUTPUT_FILE_TMP}"
 			sleep 1
+
+			set +e
+			CHECK_FILE="`file ${OUTPUT_FILE_TMP} | grep "MPEG"`"
+			if [ x"$CHECK_FILE" == x"" ]; then
+				echo "FAILED"
+				rm -f "${OUTPUT_FILE_TMP}"
+			else
+				echo "ok"
+			 fi
+			 set -e
 		fi
 
 		if [[ ! -f "${OUTPUT_FILE}" && -f "${OUTPUT_FILE_TMP}" ]]; then
@@ -141,12 +161,21 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 			INPUT_FILE="./input/${FILENAME}.txt"
 	
 			if [ ! -f "${OUTPUT_FILE}" ]; then
-				echo "Processing ${FILENAME} ..."
+				echo -n "Processing ${FILENAME} ... "
 				BING_OAUTH_TOKEN="`php oauth_bingtts.php "${BING_OAUTH_CLIENTID}" "${BING_OAUTH_CLIENTSECRET}"`"
-				sleep 5
 				mkdir -p "${OUTPUT_DIR}"
 				TEXT="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "`cat ${INPUT_FILE}`")"
 				curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" -H "Authorization: Bearer ${BING_OAUTH_TOKEN}" -s "http://api.microsofttranslator.com/V2/Http.svc/Speak?language=${LOCALE}&format=audio/wav&options=MaxQuality&appid=&text=${TEXT}" > "${OUTPUT_FILE}"
+
+				set +e
+				CHECK_FILE="`file ${OUTPUT_FILE} | grep "WAVE audio"`"
+				if [ x"$CHECK_FILE" == x"" ]; then
+					echo "FAILED"
+					rm -f "${OUTPUT_FILE}"
+				else
+					echo "ok"
+				 fi
+				 set -e
 			fi
 
 			if [[ ! -f "${OUTPUT_FILE8k}" && -f "${OUTPUT_FILE}" ]]; then
