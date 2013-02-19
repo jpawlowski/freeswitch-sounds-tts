@@ -1,1 +1,1 @@
-Nur Telefone mit ZRTP Verschlüsselung können diese Rufnummer nutzen. Ihr Telefon unterstützt diese Art der Verschlüsselung nicht, der Anruf ist damit ungeschützt.
+Dieser Anschluss kann nur mit ZRTP fähigen Endgeräten genutzt werden.

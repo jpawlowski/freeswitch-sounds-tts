@@ -1,1 +1,1 @@
-Sie müssen die Authentifizierungszeichenkette mit ihrem Gesprächspartner prüfen. Wenn diese Überprüfung nicht erfolgreich abgeschlossen werden kann ist die Leitung nicht sicher.
+Verifizieren Sie die Zeichenkette mit Ihrem Gesprächspartner für eine sichere Leitung.
