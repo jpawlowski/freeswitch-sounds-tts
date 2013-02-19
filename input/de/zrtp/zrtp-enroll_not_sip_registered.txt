@@ -1,1 +1,1 @@
-"Nur erlaubte Telefone können für eine gesichere ZRTP Verbindung verwendet werden. Ihr Telefon ist hier nicht erlaubt, somit ist ZRTP nicht möglich."
+DIe ZRTP Verschlüssellung steht nur ausgewählten Telefonen zur Verfügung.
