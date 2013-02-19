@@ -33,5 +33,7 @@ dwsync.xml
 
 # generated files
 /output
+/output.tmp
+/input.new
 /*.tar.gz
 
