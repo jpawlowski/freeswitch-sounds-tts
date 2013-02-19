@@ -169,18 +169,20 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 				continue;
 			fi
 
+			OUTPUT_DIR_TMP="./output.tmp/${LOCALE}/tts/bing/${FILENAME_FLAT%/*}"
 			OUTPUT_DIR="./output/${LOCALE}/tts/bing/${FILENAME_FLAT%/*}/16000"
 			OUTPUT_DIR8k="./output/${LOCALE}/tts/bing/${FILENAME_FLAT%/*}/8000"
+			OUTPUT_FILE_TMP="${OUTPUT_DIR_TMP}/${FILENAME##*/}.wav"
 			OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
 			OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
 			INPUT_FILE="./input/${FILENAME}.txt"
 	
-			if [ ! -f "${OUTPUT_FILE}" ]; then
+			if [ ! -f "${OUTPUT_FILE_TMP}" ]; then
 				echo -n "Processing ${FILENAME} ... "
 				BING_OAUTH_TOKEN="`php oauth_bingtts.php "${BING_OAUTH_CLIENTID}" "${BING_OAUTH_CLIENTSECRET}"`"
-				mkdir -p "${OUTPUT_DIR}"
+				mkdir -p "${OUTPUT_DIR_TMP}"
 				TEXT="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "`cat ${INPUT_FILE}`")"
-				curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" -H "Authorization: Bearer ${BING_OAUTH_TOKEN}" -s "http://api.microsofttranslator.com/V2/Http.svc/Speak?language=${LOCALE}&format=audio/wav&options=MaxQuality&appid=&text=${TEXT}" > "${OUTPUT_FILE}"
+				curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" -H "Authorization: Bearer ${BING_OAUTH_TOKEN}" -s "http://api.microsofttranslator.com/V2/Http.svc/Speak?language=${LOCALE}&format=audio/wav&options=MaxQuality&appid=&text=${TEXT}" > "${OUTPUT_FILE_TMP}"
 
 				set +e
 				CHECK_FILE="`file ${OUTPUT_FILE} | grep "WAVE audio"`"
@@ -193,10 +195,10 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 				 set -e
 			fi
 
-			if [[ -f "${OUTPUT_FILE}" ]]; then
+			if [[ -f "${OUTPUT_FILE_TMP}" ]]; then
 				echo "Improving ${FILENAME} ..."
-				sox "${OUTPUT_FILE}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
-				rm -f "${OUTPUT_FILE}"
+				mkdir -p "${OUTPUT_DIR}"
+				sox "${OUTPUT_FILE_TMP}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
 				sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}" silence 1 0.1 0.0% reverse
 				rm -f "${OUTPUT_FILE}.imp.wav"
 			fi
