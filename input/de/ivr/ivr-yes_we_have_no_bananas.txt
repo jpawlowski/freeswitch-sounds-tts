@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-yes_we_have_no_bananas
-#TODO
+Ja, wir führen keine Bananen.

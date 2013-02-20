@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-your_caller_id_information_is
-#TODO
+Ihre übertragene Rufnummer lautet

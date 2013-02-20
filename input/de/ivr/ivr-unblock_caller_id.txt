@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-unblock_caller_id
-#TODO
+Die müssen die Rufnummernübertragung aktivieren, um ohne Pin Eingabe Zugriff zu erhalten.
