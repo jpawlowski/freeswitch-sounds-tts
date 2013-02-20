@@ -59,7 +59,7 @@ if [[ x"$1" == x"marytts" || x"$1" == x"" ]]; then
 
 				set +e
 				CHECK_FILE="`file ${OUTPUT_FILE} | grep "WAVE audio"`"
-				if [ x"$CHECK_FILE" == x"" ]; then
+				if [ x"${CHECK_FILE}" == x"" ]; then
 					echo "FAILED"
 					rm -f "${OUTPUT_FILE}"
 				else
@@ -119,7 +119,7 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 
 			set +e
 			CHECK_FILE="`file ${OUTPUT_FILE_TMP} | grep "MPEG"`"
-			if [ x"$CHECK_FILE" == x"" ]; then
+			if [ x"${CHECK_FILE}" == x"" ]; then
 				echo "FAILED"
 				rm -f "${OUTPUT_FILE_TMP}"
 			else
@@ -136,10 +136,11 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 
 		if [[ -f "${OUTPUT_FILE}" ]]; then
 			echo "Improving ${FILENAME} ..."
-			sox "${OUTPUT_FILE}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% tempo 1.2 reverse
+			sox "${OUTPUT_FILE}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
 			rm -f "${OUTPUT_FILE}"
-			sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}" silence 1 0.1 0.0% reverse
-			rm -f "${OUTPUT_FILE}.imp.wav"
+			sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}.imp2.wav" silence 1 0.1 0.0% reverse
+			sox "${OUTPUT_FILE}.imp2.wav" "${OUTPUT_FILE}" tempo 1.25
+			rm -f "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}.imp2.wav"
 		fi
 
 		if [[ ! -f "${OUTPUT_FILE8k}" && -f "${OUTPUT_FILE}" ]]; then
@@ -185,10 +186,10 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 				curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" -H "Authorization: Bearer ${BING_OAUTH_TOKEN}" -s "http://api.microsofttranslator.com/V2/Http.svc/Speak?language=${LOCALE}&format=audio/wav&options=MaxQuality&appid=&text=${TEXT}" > "${OUTPUT_FILE_TMP}"
 
 				set +e
-				CHECK_FILE="`file ${OUTPUT_FILE} | grep "WAVE audio"`"
-				if [ x"$CHECK_FILE" == x"" ]; then
+				CHECK_FILE="`file ${OUTPUT_FILE_TMP} | grep "WAVE audio"`"
+				if [ x"${CHECK_FILE}" == x"" ]; then
 					echo "FAILED"
-					rm -f "${OUTPUT_FILE}"
+					rm -f "${OUTPUT_FILE_TMP}"
 				else
 					echo "ok"
 				 fi
