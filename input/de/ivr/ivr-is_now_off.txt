@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-is_now_off
-#TODO
+ist nun ausgeschaltet.

@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-modify_option_prompts
-#TODO
+um die Optionshinweise zu ändern

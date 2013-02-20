@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-reset_usage_totals
-#TODO
+Um die Nutzungs Statistiken zurückzusetzen

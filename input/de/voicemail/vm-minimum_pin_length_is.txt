@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in voicemail/vm-minimum_pin_length_is
-#TODO
+Die Mindestlänge für eine Pin beträgt

@@ -1,1 +1,1 @@
-"Herzlich Willkommen zu FreeSWITCH, der Zukunft der Telefonie"
+Willkommen zu FreeSWITCH, der Zukunft der Telefonie.

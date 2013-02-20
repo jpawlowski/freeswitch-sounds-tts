@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in voicemail/vm-not_available_no_voicemail
-#TODO
+Die Person, die Sie versuchen zu erreichen, ist nicht erreichbar und hat keine Sprachbox aktiviert.

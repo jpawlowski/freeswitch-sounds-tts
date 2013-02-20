@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-by_dialing
-#TODO
+wählen Sie

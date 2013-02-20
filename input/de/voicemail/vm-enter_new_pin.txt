@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in voicemail/vm-enter_new_pin
-#TODO
+Bitte geben Sie Ihre neue Pin ein, gefolgt von Raute.

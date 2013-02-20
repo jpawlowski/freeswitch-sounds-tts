@@ -1,1 +1,3 @@
-Das System unterstützt verschlüsselte Anrufe nach ZRTP. Ihre Anrufe werden verschlüsselt.
+Diese Telefonanlage unterstützt geschützte Anrufe nach ZRTP.
+Gespräche können jedoch über die Anlage selbst mitgehört oder überwacht werden.
+Falls Sie damit nicht einverstanden sind, legen Sie jetzt auf.

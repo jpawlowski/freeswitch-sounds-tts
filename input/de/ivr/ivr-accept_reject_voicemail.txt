@@ -1,1 +1,1 @@
-Drücken Sie 1 für ok. Drücken Sie 2 für ablehnen. Drücken Sie 3 für Sprachbox.
+Drücken Sie 1 zum annehmen, 2 zum ablehnen und 3 für die Umleitung zur Sprachbox.

@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-press_key_of_prompt_to_modify
-#TODO
+Tippen Sie die ID Nummer des Hinweistextes, den Sie ändern möchten.

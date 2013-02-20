@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-accept_reject
-#TODO
+Drücken Sie 1 zum annehmen oder 2 zum ablehnen.

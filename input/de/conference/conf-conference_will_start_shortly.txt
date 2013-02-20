@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in conference/conf-conference_will_start_shortly
-#TODO
+Die Konferenz beginnt in Kürze, bitte bleiben Sie in der Leitung.

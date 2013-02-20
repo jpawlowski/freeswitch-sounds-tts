@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-has_been_added_to_the_blacklist
-#TODO
+wurde auf die schwarze Liste gesetzt.

@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-if_you_would_like_us_to_call_back
-#TODO
+Wenn Sie einen Rückruf wünschen, drücken Sie

@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-record_invalid_sound
-#TODO
+Bitte nehmen Sie den Ton für eine ungültige Eingabe auf.

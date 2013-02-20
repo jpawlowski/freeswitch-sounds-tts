@@ -1,1 +1,1 @@
-die Sicherung ihrers Anrufes wird durchgeführt.
+Der Anruf wird geschützt.

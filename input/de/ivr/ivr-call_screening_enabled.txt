@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-call_screening_enabled
-#TODO
+Rufnummernübermittlung eingeschaltet

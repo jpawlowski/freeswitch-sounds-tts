@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-please_enter_the_number_where_we_can_reach_you
-#TODO
+Bitte geben Sie eine Rückrufnummer ein.

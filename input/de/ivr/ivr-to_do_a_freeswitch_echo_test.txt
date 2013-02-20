@@ -1,1 +1,1 @@
-Um den FreeSWITCH echo test zu wählen
+um einen Echo Test durchzuführen

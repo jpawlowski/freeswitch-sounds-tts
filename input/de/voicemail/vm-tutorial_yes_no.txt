@@ -1,1 +1,2 @@
-Willkommen, möchten Sie eine Einführung zur Sprachbox? Drücken Sie eins für ja, zwei für nein.
+Willkommen zu Ihrer neuen Sprachbox!
+Zur Einführung und Einrichtung drücken Sie 1, zum überspringen die 2.

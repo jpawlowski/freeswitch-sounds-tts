@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-to_accept_press
-#TODO
+um dies zu bestätigen, drücken Sie

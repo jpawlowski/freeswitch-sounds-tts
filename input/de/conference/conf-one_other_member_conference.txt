@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in conference/conf-one_other_member_conference
-#TODO
+Es befindet sich ein weiterer Teilnehmer in dieser Konferenz.

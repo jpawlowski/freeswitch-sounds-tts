@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-to_wait_stay_on_the_line
-#TODO
+Bitte warten Sie, der nächste freie Gesprächspartner ist für Sie reserviert.

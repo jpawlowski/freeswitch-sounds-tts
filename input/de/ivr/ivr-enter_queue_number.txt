@@ -1,1 +1,1 @@
-Bitte geben sie die Warteschlangennummer ein und drücken Sie die Raute Taste.
+Bitte geben Sie die Warteschlangennummer ein, gefolgt von Stern oder Raute.

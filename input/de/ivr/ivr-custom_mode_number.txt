@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-custom_mode_number
-#TODO
+Kundenmodus Nummer

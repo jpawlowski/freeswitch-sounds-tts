@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in conference/conf-conference_is_full
-#TODO
+Dieser Konferenzraum ist voll. Bitte kontaktieren Sie den Moderator.

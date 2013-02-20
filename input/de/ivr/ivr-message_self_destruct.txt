@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-message_self_destruct
-#TODO
+Diese Nachricht zerstört sich selbst in Fünf, Vier, Drei, Zwei, Eins ...

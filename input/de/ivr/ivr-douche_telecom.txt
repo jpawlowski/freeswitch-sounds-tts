@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-douche_telecom
-#TODO
+Danke für Ihren Anruf bei Dusch Telekom.

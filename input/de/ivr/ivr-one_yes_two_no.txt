@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-one_yes_two_no
-#TODO
+Drücken Sie Eins für ja, Zwei für nein.

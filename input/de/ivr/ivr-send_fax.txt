@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-send_fax
-#TODO
+Um ein Fax zu senden, drücken Sie

@@ -1,1 +1,2 @@
-Verifizieren Sie die Zeichenkette mit Ihrem Gesprächspartner für eine sichere Leitung.
+Überprüfen Sie den Authentifizierungs Code mit Ihrem Gesprächspartner.
+Stimmt dieser nicht überein, deutet dies auf einen Angriff hin.

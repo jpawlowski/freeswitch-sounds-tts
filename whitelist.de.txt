@@ -11,3 +11,5 @@ phonetic-ascii/200
 phonetic-ascii/201
 phonetic-ascii/202
 phonetic-ascii/203
+digits/s-1
+digits/1_f

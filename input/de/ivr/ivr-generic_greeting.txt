@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-generic_greeting
-#TODO
+Danke für Ihren Anruf.

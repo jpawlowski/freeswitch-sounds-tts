@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-record_short_greeting
-#TODO
+Bitte nehmen Sie eine kurze Begrüßung auf.

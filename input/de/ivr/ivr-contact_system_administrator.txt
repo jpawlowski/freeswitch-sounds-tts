@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-contact_system_administrator
-#TODO
+Bitte wenden Sie sich an den System Administrator für Unterstützung.

@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-unallocated_number
-#TODO
+Diese Rufnummer ist nicht vergeben.

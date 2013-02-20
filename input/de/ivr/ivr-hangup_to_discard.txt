@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-hangup_to_discard
-#TODO
+Legen Sie ohne das Drücken einer Taste auf, um die Aufnahme zu verwerfen.

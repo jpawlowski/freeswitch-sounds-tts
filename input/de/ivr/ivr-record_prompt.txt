@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-record_prompt
-#TODO
+Bitte nehmen Sie den Haupthinweistext auf.

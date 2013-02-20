@@ -1,1 +1,1 @@
-Um die FreeSWITCH Konferenz zu rufen
+um mit dem Konferenzsystem verbunden zu werden

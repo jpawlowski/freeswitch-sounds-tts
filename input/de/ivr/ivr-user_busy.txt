@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-user_busy
-#TODO
+Teilnehmer besetzt

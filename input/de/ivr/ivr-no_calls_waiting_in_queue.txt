@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-no_calls_waiting_in_queue
-#TODO
+Keine wartenden Anrufer in dieser Warteschlange.

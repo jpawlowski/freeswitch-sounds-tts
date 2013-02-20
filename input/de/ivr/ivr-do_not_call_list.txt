@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-do_not_call_list
-#TODO
+Diese Rufnummer ist auf der schwarzen Liste.

@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-or_press
-#TODO
+oder drücken Sie

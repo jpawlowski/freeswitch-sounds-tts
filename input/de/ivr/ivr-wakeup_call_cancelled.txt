@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-wakeup_call_cancelled
-#TODO
+Ihr Weckanruf wurde storniert.

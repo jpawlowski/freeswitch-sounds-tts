@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in conference/conf-number_of_listeners
-#TODO
+Geben Sie die Anzahl von Zuhörern ein, gefolgt von Raute.

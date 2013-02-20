@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-no_questions_in_queue
-#TODO
+Keine Fragen in der Warteschlange.

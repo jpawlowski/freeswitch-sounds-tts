@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-please_enjoy_music_while_party_reached
-#TODO
+Genießen Sie die Musik, während Ihr Anruf durchgestellt wird.

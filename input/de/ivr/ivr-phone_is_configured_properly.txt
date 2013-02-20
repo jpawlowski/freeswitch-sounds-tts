@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ivr/ivr-phone_is_configured_properly
-#TODO
+Bravo! Dieses Telefon ist vollständig konfiguriert und kann nun einem Benutzer zugeordnet werden.
