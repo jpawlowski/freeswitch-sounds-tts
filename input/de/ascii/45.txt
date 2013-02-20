@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in ascii/45
-#TODO
+Bindestrich
