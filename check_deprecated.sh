@@ -1,10 +1,20 @@
-#!/bin/bash
+#
+# FreeSwitch
+# TTS Voice Prompt Generator
+# - Identify potentially deprecated voice prompts -
+#
+# Copyright (c) 2013, Julian Pawlowski <jp@jps-networks.eu>
+# See LICENSE file for details.
+#
 
-[ ! -d output/en/us/callie ] && exit 1
+if [ ! -d output/en/us/callie ]; then
+	echo "Voice prompt files from callie not found in output/en/us/callie. Aborting ..."
+	exit 1
+fi
 
 DE_LIST="`find ./input/de -type f -name "*.txt"`"
 
-echo "You might want to check on the following files if they are not language specific:"
+echo -e "\n\nThe following files were not found in callie and might be deprecated for this language also:\n(if they are not german language specific)\n"
 
 for FILE in $DE_LIST; do
 	BASENAME="${FILE#.*/}"
@@ -23,3 +33,6 @@ for FILE in $DE_LIST; do
 		echo "$FILENAME_FLAT"
 	fi
 done
+
+echo -e "\nTo suppress files from this list (e.g. for language specific files) you may add them to whitelist.*.txt.\n"
+

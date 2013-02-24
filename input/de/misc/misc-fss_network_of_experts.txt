@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in misc/misc-fss_network_of_experts
-#TODO
+Wir haben Ein Netzwerk von FreeSwitch Experten, inlusive des FreeSwitch Kern Entwickler Teams.

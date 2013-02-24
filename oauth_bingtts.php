@@ -1,4 +1,10 @@
 <?php
+/* 
+ * This file is not affected by the license mentioned in the LICENSE file.
+ *
+ * Source code from http://msdn.microsoft.com/en-us/library/hh454950.aspx
+ *
+ */
 
 class AccessTokenAuthentication {
     /*

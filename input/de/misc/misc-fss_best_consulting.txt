@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in misc/misc-fss_best_consulting
-#TODO
+FreeSwitch Lösungen bieten die beste FreeSwitch Unterstützung, die man für Geld kaufen kann.
