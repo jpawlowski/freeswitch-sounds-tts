@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in misc/misc-learn_more_about_cudatel
-#TODO
+Um mehr über CudaTel zu erfahren

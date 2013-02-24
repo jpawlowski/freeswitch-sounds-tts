@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in misc/misc-freeswitch_is_state_of_the_art
-#TODO
+FreeSwitch ist eine hochmoderne Telefonie Plattform.

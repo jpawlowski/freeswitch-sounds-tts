@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in misc/misc-information_about_freeswitch
-#TODO
+Für Informationen über FreeSwitch

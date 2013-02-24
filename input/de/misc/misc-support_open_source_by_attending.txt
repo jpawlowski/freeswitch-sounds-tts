@@ -1,2 +1,2 @@
-Leere Datei: Bitte Text formulieren in misc/misc-support_open_source_by_attending
-#TODO
+Mit Ihrer Teilnahme an der ClueCon unterstützen Sie nicht nur FreeSwitch,
+sondern auch das gesamte Spektrum an OpenSource Telefonie Software.

@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in misc/misc-freeswitch_dot_org_more
-#TODO
+Besuchen Sie www Punkt freeswitch Punkt org, um mehr über das Projekt und seine weltweite Community zu erfahren.

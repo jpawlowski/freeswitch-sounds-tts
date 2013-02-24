@@ -1,2 +1,1 @@
-Leere Datei: Bitte Text formulieren in misc/misc-it_is_stable_scalable_extensible
-#TODO
+Es ist stabil, hoch skalier- und erweiterbar.

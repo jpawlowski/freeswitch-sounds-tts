@@ -1,2 +1,2 @@
-Leere Datei: Bitte Text formulieren in misc/misc-cudatel_communication_server_from_barracuda
-#TODO
+Der CudaTel Kommunikations Server fron Barracuda Networks ist die moderne IP PBX;
+betrieben mit FreeSwitch und entwickelt vom Kern Entwicklerteam von FreeSwitch.

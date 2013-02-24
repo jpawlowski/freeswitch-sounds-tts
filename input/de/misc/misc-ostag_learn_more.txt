@@ -1,2 +1,2 @@
-Leere Datei: Bitte Text formulieren in misc/misc-ostag_learn_more
-#TODO
+OSTAG bietet hochmoderne Telefonie der nächsten Generation über OpenSource Software.
+Erfahren Sie mehr unter w w w Punkt OSTAG Punkt org.
