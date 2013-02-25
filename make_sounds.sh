@@ -134,6 +134,7 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 	done
 fi
 
+
 # BING TTS
 #
 if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
@@ -238,7 +239,88 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 	fi
 fi
 
-echo "Processing complete."
+
+# Add static tone files
+#
+echo -e "\n\nNOW PROCESSING STATIC TONES AND MUSIC\n"
+
+# Search for compiled voices
+VOICES="`cd ./output; find . -type d -depth 3`"
+
+# Search for static tones
+TONES="`cd ./tone; find . -type f -name "*.wav"`"
+
+# Search for static music
+MUSIC="`cd ./music; find . -type f -name "*.wav"`"
+
+for FILE in $TONES; do
+	BASENAME="${FILE#.*/}"
+	FILENAME="${BASENAME%%.*}"
+	FILENAME_FLAT="${FILENAME#*/}"
+
+	OUTPUT_DIR_TMP8k="./cache/tone/${FILENAME%%/*}/8000"
+	OUTPUT_FILE_TMP8k="${OUTPUT_DIR_TMP8k}/${FILENAME##*/}.wav"
+
+	if [ ! -f "${OUTPUT_FILE_TMP8k}" ]; then
+		echo "Converting ${BASENAME} to 8kHz ..."
+		mkdir -p "${OUTPUT_DIR_TMP8k}"
+		sox -t wav "./tone/${FILE}" -c1 -r8000 -b16 -e signed-integer "${OUTPUT_FILE_TMP8k}"
+	fi
+
+	for VOICE in $VOICES; do
+		VBASENAME="${VOICE#.*/}"
+
+		OUTPUT_DIR="./output/${VBASENAME}/${FILENAME%%/*}/16000"
+		OUTPUT_DIR8k="./output/${VBASENAME}/${FILENAME%%/*}/8000"
+		OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
+		OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
+		
+		mkdir -p "${OUTPUT_DIR}"
+		mkdir -p "${OUTPUT_DIR8k}"
+
+		echo "Copy ${FILENAME} to ${VBASENAME}"
+		set +e
+		cp -n "./tone/${BASENAME}" "${OUTPUT_FILE}"
+		cp -n "${OUTPUT_FILE_TMP8k}" "${OUTPUT_FILE8k}"
+		set -e
+	done
+done
+
+for FILE in $MUSIC; do
+	BASENAME="${FILE#.*/}"
+	FILENAME="${BASENAME%%.*}"
+	FILENAME_FLAT="${FILENAME#*/}"
+
+	OUTPUT_DIR_TMP8k="./cache/music/${FILENAME%%/*}/8000"
+	OUTPUT_FILE_TMP8k="${OUTPUT_DIR_TMP8k}/${FILENAME##*/}.wav"
+
+	if [ ! -f "${OUTPUT_FILE_TMP8k}" ]; then
+		echo "Converting ${BASENAME} to 8kHz ..."
+		mkdir -p "${OUTPUT_DIR_TMP8k}"
+		sox -t wav "./music/${FILE}" -c1 -r8000 -b16 -e signed-integer "${OUTPUT_FILE_TMP8k}"
+	fi
+
+	for VOICE in $VOICES; do
+		VBASENAME="${VOICE#.*/}"
+
+		OUTPUT_DIR="./output/${VBASENAME}/${FILENAME%%/*}/16000"
+		OUTPUT_DIR8k="./output/${VBASENAME}/${FILENAME%%/*}/8000"
+		OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
+		OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
+		
+		mkdir -p "${OUTPUT_DIR}"
+		mkdir -p "${OUTPUT_DIR8k}"
+
+		echo "Copy ${FILENAME} to ${VBASENAME}"
+		set +e
+		cp -n "./music/${BASENAME}" "${OUTPUT_FILE}"
+		cp -n "${OUTPUT_FILE_TMP8k}" "${OUTPUT_FILE8k}"
+		set -e
+	done
+done
+
+
+echo -e "\n\nProcessing complete.\n\n"
 
 echo -e "\nCreating archive files ...\n"
 
@@ -253,4 +335,3 @@ for VOICE in `find . -type d -depth 3`; do
 	find "$VOICE" -name '8000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
 done
 cd ..
-
