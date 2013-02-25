@@ -31,6 +31,9 @@ dwsync.xml
 .hg
 .svn
 
+# import/export stuff
+/import
+
 # generated files
 /output
 /cache
