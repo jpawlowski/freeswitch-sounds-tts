@@ -1,14 +1,15 @@
 #!/usr/bin/php
-#
-# FreeSwitch
-# TTS Voice Prompt Generator
-# - Convert XML files to structured flat text files -
-#
-# Copyright (c) 2013, Julian Pawlowski <jp@jps-networks.eu>
-# See LICENSE file for details.
-#
-
 <?php
+/*
+ * FreeSwitch
+ * TTS Voice Prompt Generator
+ * - Convert XML files to structured flat text files -
+ *
+ * Copyright (c) 2013, Julian Pawlowski <jp@jps-networks.eu>
+ * See LICENSE file for details.
+ *
+ */
+
 $url = "http://git.freeswitch.org/git/freeswitch/plain/docs/phrase/phrase_" . $argv[1] . ".xml";
 
 $xml = simplexml_load_file($url);
