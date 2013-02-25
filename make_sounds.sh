@@ -115,6 +115,8 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 					count2=$(( count2 + 1 ))
 				done
 			fi
+		else
+			echo "Processing on cached file for ${FILENAME} ..."
 		fi
 
 		if [[ ! -f "${OUTPUT_FILE}" && -f "${OUTPUT_FILE_TMP}" ]]; then
@@ -224,6 +226,8 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 					rm -f ${OUTPUT_FILE_TMP}.*
 					echo " OK"
 				fi
+			else
+				echo "Processing on cached file for ${FILENAME} ..."
 			fi
 
 			if [[ ! -f "${OUTPUT_FILE}" && -f "${OUTPUT_FILE_TMP}" ]]; then
