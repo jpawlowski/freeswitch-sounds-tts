@@ -15,6 +15,8 @@ if [[ ! -d ./input || ! curl || ! sox || ! mpg123 || ! perl || ! php ]]; then
 	exit 1
 fi
 
+FAILED=false
+
 # Read configuration if existing
 [ -e ./config ] && . ./config
 VERSION="`git tag | sort | tail -1`"
@@ -82,6 +84,7 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 					if [ x"${CHECK_FILE}" == x"" ]; then
 						echo " FAILED"
 						rm -f "${OUTPUT_FILE_TMP}."*
+						FAILED="true"
 						break
 					else
 						echo -n " file${count}"
@@ -89,6 +92,7 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 				else
 					echo " FAILED"
 					rm -f "${OUTPUT_FILE_TMP}."*
+					FAILED=true
 					break
 				fi
 			done
@@ -189,6 +193,7 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 						if [ x"${CHECK_FILE}" == x"" ]; then
 							echo " FAILED"
 							rm -f "${OUTPUT_FILE_TMP}."*
+							FAILED=true
 							break
 						else
 							echo -n " file${count}"
@@ -196,6 +201,7 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 					else
 						echo " FAILED"
 						rm -f "${OUTPUT_FILE_TMP}."*
+						FAILED=true
 						break
 					fi
 				done
@@ -317,19 +323,23 @@ for FILE in $MUSIC; do
 	done
 done
 
+if [ "${FAILED}" == "true" ]; then
+	echo -e "\n\nThere were errors during TTS conversation, therefore no archive files will be generated.\nYou may try to run the script again to generate missing files.\n"
+	exit 1
+else
+	echo -e "\n\nProcessing complete.\n\n"
 
-echo -e "\n\nProcessing complete.\n\n"
+	echo -e "\nCreating archive files ...\n"
 
-echo -e "\nCreating archive files ...\n"
+	rm -f ./freeswitch-sounds-*.tar.gz
 
-rm -f ./freeswitch-sounds-*.tar.gz
-
-cd ./output
-for VOICE in `find . -type d -depth 3`; do
-	FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
-	echo "freeswitch-sounds${FILENAME}-16000"
-	find "$VOICE" -name '16000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
-	echo "freeswitch-sounds${FILENAME}-8000"
-	find "$VOICE" -name '8000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
-done
-cd ..
+	cd ./output
+	for VOICE in `find . -type d -depth 3`; do
+		FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
+		echo "freeswitch-sounds${FILENAME}-16000"
+		find "$VOICE" -name '16000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
+		echo "freeswitch-sounds${FILENAME}-8000"
+		find "$VOICE" -name '8000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
+	done
+	cd ..
+fi
