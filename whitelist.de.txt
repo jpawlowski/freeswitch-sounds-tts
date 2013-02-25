@@ -1,7 +1,5 @@
 voicemail/vm-saved2
-currency/cent-per-minute
 currency/euro
-currency/euros
 ascii/200
 ascii/201
 ascii/202
