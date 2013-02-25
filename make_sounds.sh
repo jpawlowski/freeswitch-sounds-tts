@@ -76,6 +76,8 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 
 				curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" \
 					-s "http://translate.google.com/translate_tts?tl=${LOCALE}&q=${LINE_ENCODED}" > "${OUTPUT_FILE_TMP}.${count}.mp3"
+				
+				sleep 2s
 
 				if [ -e "${OUTPUT_FILE_TMP}.${count}.mp3" ]; then
 					set +e
