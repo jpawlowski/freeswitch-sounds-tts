@@ -1,0 +1,1 @@
+Only phones equipped with the ZRTP protocol can use this extension. Your phone is not a ZRTP-enable phone, so this call will have no effect.

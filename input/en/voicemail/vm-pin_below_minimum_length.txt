@@ -1,0 +1,1 @@
+The PIN you entered is below the minimum length.
