@@ -80,7 +80,7 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 					CHECK_FILE="`file ${OUTPUT_FILE_TMP}.${count}.mp3 | grep "MPEG"`"
 					set -e
 					if [ x"${CHECK_FILE}" == x"" ]; then
-						echo " FAILED-33"
+						echo " FAILED"
 						rm -f "${OUTPUT_FILE_TMP}."*
 						break
 					else
