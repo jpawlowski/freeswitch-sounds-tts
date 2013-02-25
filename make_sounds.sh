@@ -251,7 +251,7 @@ fi
 echo -e "\n\nNOW PROCESSING STATIC TONES AND MUSIC\n"
 
 # Search for compiled voices
-VOICES="`cd ./output; find . -type d -depth 3`"
+VOICES="`cd ./output; find . -maxdepth 3 -type d`"
 
 # Search for static tones
 TONES="`cd ./tone; find . -type f -name "*.wav"`"
