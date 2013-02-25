@@ -1,2 +1,1 @@
-Empty file, please enter text in misc/call_monitoring_blurb
-#TODO
+This call may be monitored or recorded for quality and training purposes.
