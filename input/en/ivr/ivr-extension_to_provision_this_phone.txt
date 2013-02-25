@@ -1,1 +1,2 @@
-Please enter the extension number to which you would like to provision this phone, followed by the pound sign.
+Please enter the extension number to which you would like to
+provision this phone, followed by the pound sign.

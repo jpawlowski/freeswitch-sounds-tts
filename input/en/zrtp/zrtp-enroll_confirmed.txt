@@ -1,1 +1,4 @@
-This system is equipped to handle ZRTP encrypted phone calls. You must decide if you want to allow this system to be in a position to intercept and possibly monitor your secure phone calls. You may hang up after you've done this.
+This system is equipped to handle ZRTP encrypted phone calls.
+You must decide if you want to allow this system to be in a position
+to intercept and possibly monitor your secure phone calls.
+You may hang up after you've done this.

@@ -1,1 +1,2 @@
-By attending ClueCon, you are showing support not only for FreeSWITCH but also the entire spectrum of open source telephony software.
+By attending ClueCon, you are showing support not only for FreeSWITCH
+but also the entire spectrum of open source telephony software.

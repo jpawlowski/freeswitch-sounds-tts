@@ -1,1 +1,2 @@
-OSTAG is advancing the next generation of telephony through open-source software. Learn more at www.ostag.org.
+OSTAG is advancing the next generation of telephony
+through open-source software. Learn more at www.ostag.org.

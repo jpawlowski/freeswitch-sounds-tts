@@ -1,1 +1,3 @@
-Only phones that are authenticated can be configured to trust this system to relay ZRTP secured calls. Your phone is not authenticated with this system, so this call will have no effect.
+Only phones that are authenticated can be configured to trust this system
+to relay ZRTP secured calls.
+Your phone is not authenticated with this system, so this call will have no effect.

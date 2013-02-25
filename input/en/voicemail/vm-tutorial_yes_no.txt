@@ -1,1 +1,3 @@
-Welcome to your new voicemail. To listen to a tutorial and setup your voice mail box, press 1. To skip, press 2.
+Welcome to your new voicemail.
+To listen to a tutorial and setup your voice mail box, press 1.
+To skip, press 2.
