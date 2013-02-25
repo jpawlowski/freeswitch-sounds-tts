@@ -20,7 +20,7 @@ fi
 VERSION="`git tag | sort | tail -1`"
 
 # Search for voice text files
-FILES="`cd ./input; find . -name *.txt`"
+FILES="`cd ./input; find . -name "*.txt"`"
 
 ##
 ##
@@ -80,14 +80,15 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 					CHECK_FILE="`file ${OUTPUT_FILE_TMP}.${count}.mp3 | grep "MPEG"`"
 					set -e
 					if [ x"${CHECK_FILE}" == x"" ]; then
-						echo " FAILED"
-						rm -f "${OUTPUT_FILE_TMP}.*"
+						echo " FAILED-33"
+						rm -f "${OUTPUT_FILE_TMP}."*
 						break
 					else
 						echo -n " file${count}"
 					fi
 				else
 					echo " FAILED"
+					rm -f "${OUTPUT_FILE_TMP}."*
 					break
 				fi
 			done
@@ -96,9 +97,7 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 				if [ -e "${OUTPUT_FILE_TMP}.1.mp3" ]; then
 				       mv -f "${OUTPUT_FILE_TMP}.1.mp3" "${OUTPUT_FILE_TMP}"
 				       echo " OK"
-			       else
-				       echo " FAILED"
-			       fi
+                fi
 			else
 				count2=2
 				cat "${OUTPUT_FILE_TMP}.1.mp3" > "${OUTPUT_FILE_TMP}"
@@ -189,13 +188,14 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 						set -e
 						if [ x"${CHECK_FILE}" == x"" ]; then
 							echo " FAILED"
-							rm -f "${OUTPUT_FILE_TMP}.*"
+							rm -f "${OUTPUT_FILE_TMP}."*
 							break
 						else
 							echo -n " file${count}"
 						fi
 					else
 						echo " FAILED"
+						rm -f "${OUTPUT_FILE_TMP}."*
 						break
 					fi
 				done
@@ -204,8 +204,6 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 					if [ -e "${OUTPUT_FILE_TMP}.1.wav" ]; then
 						mv -f "${OUTPUT_FILE_TMP}.1.wav" "${OUTPUT_FILE_TMP}"
 						echo " OK"
-					else
-						echo " FAILED"
 					fi
 				else
 					count2=2
