@@ -248,9 +248,9 @@ cd ./output
 for VOICE in `find . -type d -depth 3`; do
 	FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
 	echo "freeswitch-sounds${FILENAME}-16000"
-	find "$VOICE" -name '16000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
+	find "$VOICE" -name '16000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
 	echo "freeswitch-sounds${FILENAME}-8000"
-	find "$VOICE" -name '8000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
+	find "$VOICE" -name '8000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
 done
 cd ..
 
