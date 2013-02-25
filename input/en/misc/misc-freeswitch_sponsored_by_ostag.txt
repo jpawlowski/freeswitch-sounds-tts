@@ -1,0 +1,2 @@
+FreeSWITCH is open source software that is sponsored by OSTAG.
+The Open Source Telephony Advancement Group.

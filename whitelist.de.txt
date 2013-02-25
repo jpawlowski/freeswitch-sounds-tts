@@ -1,8 +1,5 @@
 voicemail/vm-saved2
-currency/cent-per-minute
 currency/euro
-currency/euros
-misc/de
 ascii/200
 ascii/201
 ascii/202
@@ -15,3 +12,5 @@ phonetic-ascii/203
 phonetic-ascii/204
 digits/s-1
 digits/1_f
+base256
+ivr/ivr-gemeinschaft_pbx

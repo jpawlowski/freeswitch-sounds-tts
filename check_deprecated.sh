@@ -7,32 +7,40 @@
 # See LICENSE file for details.
 #
 
-if [ ! -d output/en/us/callie ]; then
-	echo "Voice prompt files from callie not found in output/en/us/callie. Aborting ..."
+if [ ! -d input/en ]; then
+	echo "English voice prompt text files not found in input/en. Aborting ..."
 	exit 1
 fi
 
-DE_LIST="`find ./input/de -type f -name "*.txt"`"
+if [ x"$1" == x"" ]; then
+	echo "Paramter missing: locale. Aborting ..."
+	exit 1
+fi
 
-echo -e "\n\nThe following files were not found in callie and might be deprecated for this language also:\n(if they are not german language specific)\n"
+if [ ! -d "./input/$1" ]; then
+	echo "Locale directory not found in ./input/$1. Aborting ..."
+	exit 1
+fi
 
-for FILE in $DE_LIST; do
+LIST_LOCALE="`find ./input/$1 -type f -name "*.txt"`"
+
+echo -e "\n\nThe following files were not found in english language and might be deprecated for this language also:\n(if they are not $1 language specific)\n"
+
+for FILE in $LIST_LOCALE; do
 	BASENAME="${FILE#.*/}"
 	FILENAME="${BASENAME%%.*}"
 	FILENAME_FLAT="${FILENAME#*/}"
 	FILENAME_FLAT="${FILENAME_FLAT#*/}"
-	FILENAME_CALLIE="`echo $FILENAME_FLAT | sed -e "s/\//\/8000\//g"`"
 
-	if [ -e whitelist.de.txt ]; then
-		WHITELIST="`cat whitelist.de.txt | grep ${FILENAME_FLAT}`"
+	if [ -e whitelist.$1.txt ]; then
+		WHITELIST="`cat whitelist.$1.txt | grep ${FILENAME_FLAT}`"
 	else
 		WHITELIST=""
 	fi
 
-	if [[ ! -e output/en/us/callie/${FILENAME_CALLIE}.wav && x"${WHITELIST}" == x"" ]]; then
+	if [[ ! -e input/en/${FILENAME_FLAT}.txt && x"${WHITELIST}" == x"" ]]; then
 		echo "$FILENAME_FLAT"
 	fi
 done
 
-echo -e "\nTo suppress files from this list (e.g. for language specific files) you may add them to whitelist.*.txt.\n"
-
+echo -e "\nTo suppress files from this list (e.g. for language specific files) you may add them to whitelist.$1.txt.\n"

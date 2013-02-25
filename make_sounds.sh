@@ -15,12 +15,14 @@ if [[ ! -d ./input || ! curl || ! sox || ! mpg123 || ! perl || ! php ]]; then
 	exit 1
 fi
 
+FAILED=false
+
 # Read configuration if existing
 [ -e ./config ] && . ./config
 VERSION="`git tag | sort | tail -1`"
 
 # Search for voice text files
-FILES="`cd ./input; find . -name *.txt`"
+FILES="`cd ./input; find . -name "*.txt"`"
 
 ##
 ##
@@ -74,6 +76,8 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 
 				curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" \
 					-s "http://translate.google.com/translate_tts?tl=${LOCALE}&q=${LINE_ENCODED}" > "${OUTPUT_FILE_TMP}.${count}.mp3"
+				
+				sleep 2s
 
 				if [ -e "${OUTPUT_FILE_TMP}.${count}.mp3" ]; then
 					set +e
@@ -81,13 +85,16 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 					set -e
 					if [ x"${CHECK_FILE}" == x"" ]; then
 						echo " FAILED"
-						rm -f "${OUTPUT_FILE_TMP}.*"
+						rm -f "${OUTPUT_FILE_TMP}."*
+						FAILED="true"
 						break
 					else
 						echo -n " file${count}"
 					fi
 				else
 					echo " FAILED"
+					rm -f "${OUTPUT_FILE_TMP}."*
+					FAILED=true
 					break
 				fi
 			done
@@ -96,9 +103,7 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 				if [ -e "${OUTPUT_FILE_TMP}.1.mp3" ]; then
 				       mv -f "${OUTPUT_FILE_TMP}.1.mp3" "${OUTPUT_FILE_TMP}"
 				       echo " OK"
-			       else
-				       echo " FAILED"
-			       fi
+                fi
 			else
 				count2=2
 				cat "${OUTPUT_FILE_TMP}.1.mp3" > "${OUTPUT_FILE_TMP}"
@@ -110,6 +115,8 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 					count2=$(( count2 + 1 ))
 				done
 			fi
+		else
+			echo "Processing on cached file for ${FILENAME} ..."
 		fi
 
 		if [[ ! -f "${OUTPUT_FILE}" && -f "${OUTPUT_FILE_TMP}" ]]; then
@@ -133,6 +140,7 @@ if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
 		fi
 	done
 fi
+
 
 # BING TTS
 #
@@ -188,13 +196,16 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 						set -e
 						if [ x"${CHECK_FILE}" == x"" ]; then
 							echo " FAILED"
-							rm -f "${OUTPUT_FILE_TMP}.*"
+							rm -f "${OUTPUT_FILE_TMP}."*
+							FAILED=true
 							break
 						else
 							echo -n " file${count}"
 						fi
 					else
 						echo " FAILED"
+						rm -f "${OUTPUT_FILE_TMP}."*
+						FAILED=true
 						break
 					fi
 				done
@@ -203,8 +214,6 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 					if [ -e "${OUTPUT_FILE_TMP}.1.wav" ]; then
 						mv -f "${OUTPUT_FILE_TMP}.1.wav" "${OUTPUT_FILE_TMP}"
 						echo " OK"
-					else
-						echo " FAILED"
 					fi
 				else
 					count2=2
@@ -217,6 +226,8 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 					rm -f ${OUTPUT_FILE_TMP}.*
 					echo " OK"
 				fi
+			else
+				echo "Processing on cached file for ${FILENAME} ..."
 			fi
 
 			if [[ ! -f "${OUTPUT_FILE}" && -f "${OUTPUT_FILE_TMP}" ]]; then
@@ -238,19 +249,103 @@ if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
 	fi
 fi
 
-echo "Processing complete."
 
-echo -e "\nCreating archive files ...\n"
+# Add static tone files
+#
+echo -e "\n\nNOW PROCESSING STATIC TONES AND MUSIC\n"
 
-rm -f ./freeswitch-sounds-*.tar.gz
+# Search for compiled voices
+VOICES="`cd ./output; find . -maxdepth 3 -mindepth 3 -type d`"
 
-cd ./output
-for VOICE in `find . -type d -depth 3`; do
-	FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
-	echo "freeswitch-sounds${FILENAME}-16000"
-	find "$VOICE" -name '16000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
-	echo "freeswitch-sounds${FILENAME}-8000"
-	find "$VOICE" -name '8000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
+# Search for static tones
+TONES="`cd ./tone; find . -type f -name "*.wav"`"
+
+# Search for static music
+MUSIC="`cd ./music; find . -type f -name "*.wav"`"
+
+for FILE in $TONES; do
+	BASENAME="${FILE#.*/}"
+	FILENAME="${BASENAME%%.*}"
+	FILENAME_FLAT="${FILENAME#*/}"
+
+	OUTPUT_DIR_TMP8k="./cache/tone/${FILENAME%%/*}/8000"
+	OUTPUT_FILE_TMP8k="${OUTPUT_DIR_TMP8k}/${FILENAME##*/}.wav"
+
+	if [ ! -f "${OUTPUT_FILE_TMP8k}" ]; then
+		echo "Converting ${BASENAME} to 8kHz ..."
+		mkdir -p "${OUTPUT_DIR_TMP8k}"
+		sox -t wav "./tone/${FILE}" -c1 -r8000 -b16 -e signed-integer "${OUTPUT_FILE_TMP8k}"
+	fi
+
+	for VOICE in $VOICES; do
+		VBASENAME="${VOICE#.*/}"
+
+		OUTPUT_DIR="./output/${VBASENAME}/${FILENAME%%/*}/16000"
+		OUTPUT_DIR8k="./output/${VBASENAME}/${FILENAME%%/*}/8000"
+		OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
+		OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
+		
+		mkdir -p "${OUTPUT_DIR}"
+		mkdir -p "${OUTPUT_DIR8k}"
+
+		echo "Copy ${FILENAME} to ${VBASENAME}"
+		set +e
+		cp -n "./tone/${BASENAME}" "${OUTPUT_FILE}"
+		cp -n "${OUTPUT_FILE_TMP8k}" "${OUTPUT_FILE8k}"
+		set -e
+	done
 done
-cd ..
 
+for FILE in $MUSIC; do
+	BASENAME="${FILE#.*/}"
+	FILENAME="${BASENAME%%.*}"
+	FILENAME_FLAT="${FILENAME#*/}"
+
+	OUTPUT_DIR_TMP8k="./cache/music/${FILENAME%%/*}/8000"
+	OUTPUT_FILE_TMP8k="${OUTPUT_DIR_TMP8k}/${FILENAME##*/}.wav"
+
+	if [ ! -f "${OUTPUT_FILE_TMP8k}" ]; then
+		echo "Converting ${BASENAME} to 8kHz ..."
+		mkdir -p "${OUTPUT_DIR_TMP8k}"
+		sox -t wav "./music/${FILE}" -c1 -r8000 -b16 -e signed-integer "${OUTPUT_FILE_TMP8k}"
+	fi
+
+	for VOICE in $VOICES; do
+		VBASENAME="${VOICE#.*/}"
+
+		OUTPUT_DIR="./output/${VBASENAME}/${FILENAME%%/*}/16000"
+		OUTPUT_DIR8k="./output/${VBASENAME}/${FILENAME%%/*}/8000"
+		OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
+		OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
+		
+		mkdir -p "${OUTPUT_DIR}"
+		mkdir -p "${OUTPUT_DIR8k}"
+
+		echo "Copy ${FILENAME} to ${VBASENAME}"
+		set +e
+		cp -n "./music/${BASENAME}" "${OUTPUT_FILE}"
+		cp -n "${OUTPUT_FILE_TMP8k}" "${OUTPUT_FILE8k}"
+		set -e
+	done
+done
+
+if [ "${FAILED}" == "true" ]; then
+	echo -e "\n\nThere were errors during TTS conversation, therefore no archive files will be generated.\nYou may try to run the script again to generate missing files.\n"
+	exit 1
+else
+	echo -e "\n\nProcessing complete.\n\n"
+
+	echo -e "\nCreating archive files ...\n"
+
+	rm -f ./freeswitch-sounds-*.tar.gz
+
+	cd ./output
+	for VOICE in `find . -maxdepth 3 -mindepth 3 -type d`; do
+		FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
+		echo "freeswitch-sounds${FILENAME}-16000"
+		find "$VOICE" -name '16000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
+		echo "freeswitch-sounds${FILENAME}-8000"
+		find "$VOICE" -name '8000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
+	done
+	cd ..
+fi
