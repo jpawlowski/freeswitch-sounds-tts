@@ -251,7 +251,7 @@ fi
 echo -e "\n\nNOW PROCESSING STATIC TONES AND MUSIC\n"
 
 # Search for compiled voices
-VOICES="`cd ./output; find . -maxdepth 3 -type d`"
+VOICES="`cd ./output; find . -maxdepth 3 -mindepth 3 -type d`"
 
 # Search for static tones
 TONES="`cd ./tone; find . -type f -name "*.wav"`"
@@ -336,7 +336,7 @@ else
 	rm -f ./freeswitch-sounds-*.tar.gz
 
 	cd ./output
-	for VOICE in `find . -type d -depth 3`; do
+	for VOICE in `find . -maxdepth 3 -mindepth 3 -type d`; do
 		FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
 		echo "freeswitch-sounds${FILENAME}-16000"
 		find "$VOICE" -name '16000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
