@@ -1,0 +1,1 @@
+Ce menu interactif vous permet de tester certaines des fonctionalités de votre système FreeSWITCH.

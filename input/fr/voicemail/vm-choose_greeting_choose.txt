@@ -1,0 +1,1 @@
+Choisissez un message d'accueil entre 1 et 9
