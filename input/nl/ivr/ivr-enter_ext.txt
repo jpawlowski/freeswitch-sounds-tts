@@ -1,0 +1,1 @@
+Toets een toestel nummer in, gevolgd door een hekje
