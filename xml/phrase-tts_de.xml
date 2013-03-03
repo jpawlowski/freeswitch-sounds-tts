@@ -874,6 +874,9 @@
     <prompt phrase="wurde von der schwarzen Liste entfernt." filename="ivr-has_been_removed_from_blacklist.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-has_been_removeded.wav" link="ivr-has_been_removed.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="hat den Notruf gew&#xE4;hlt" filename="ivr-has_called_emergency_services.wav">
       <prompt/>
     </prompt>
@@ -1846,6 +1849,9 @@
     <prompt phrase="F&#xFC;r erweiterte Optionen" filename="vm-advanced.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-advanced_alt.wav" link="vm-advanced.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="um Ihre Pin zu &#xE4;ndern" filename="vm-change_password.wav">
       <prompt/>
     </prompt>
@@ -1942,6 +1948,9 @@
     <prompt phrase="f&#xFC;r das Hauptmen&#xFC;." filename="vm-main_menu.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-main_menu_alt.wav" link="vm-main_menu.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="um diese Nachricht als 'dringend' zu markieren." filename="vm-mark-urgent.wav">
       <prompt/>
     </prompt>
@@ -1957,6 +1966,9 @@
     <prompt phrase="Nachricht" filename="vm-message.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-message_alt.wav" link="vm-message.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="um die Sprachnotiz zu h&#xF6;ren." filename="vm-message_envelope.wav">
       <prompt/>
     </prompt>
@@ -1967,6 +1979,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="Nachrichten" filename="vm-messages.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-messages_alt.wav" link="vm-messages.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Die Mindestl&#xE4;nge f&#xFC;r eine Pin betr&#xE4;gt" filename="vm-minimum_pin_length_is.wav">
@@ -2063,6 +2078,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="Zum Verlassen" filename="vm-to_exit.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-to_exit_alt.wav" link="vm-to_exit.wav">
       <prompt/>
     </prompt>
     <prompt phrase="um diese Nachricht weiterzuleiten." filename="vm-to_forward.wav">
