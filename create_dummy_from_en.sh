@@ -41,7 +41,6 @@ done
 
 LIST="`find ./input/en -type l -name "*.txt"`"
 
-i=0
 for FILE in $LIST; do
 	BASENAME="${FILE#.*/}"
 	FILENAME="${BASENAME%%.*}"
@@ -54,8 +53,8 @@ for FILE in $LIST; do
 			mkdir -p "./input/$1/${FILENAME_FLAT%/*}"
 		fi
 		if [ -e "./input/$1/${FILENAME_FLAT}.txt" ]; then
-			rm -f "./input/$1/${FILENAME_FLAT}.txt"
+			rm "./input/$1/${FILENAME_FLAT}.txt"
 		fi
-		cp -a $FILE "./input/$1/${FILENAME_FLAT}.txt"
+		cp -R $FILE "./input/$1/${FILENAME_FLAT}.txt"
 	fi
 done
