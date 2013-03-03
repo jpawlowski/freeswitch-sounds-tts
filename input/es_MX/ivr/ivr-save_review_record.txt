@@ -1,0 +1,1 @@
+Pulse 1 para guardar su grabación. Pulse 2 para escuchar su grabación. Pulse 3 para volver a grabar.

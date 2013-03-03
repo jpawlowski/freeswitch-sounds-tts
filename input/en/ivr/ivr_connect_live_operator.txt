@@ -1,1 +1,1 @@
-Please hold while we connect you to a live operator.
+ivr-connect_live_operator.txt

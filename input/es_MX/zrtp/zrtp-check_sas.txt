@@ -1,0 +1,1 @@
+Usted debe verificar la cadena de carácteres con su destino. Si no coincide, indica la presencia de una escucha telefónica.
