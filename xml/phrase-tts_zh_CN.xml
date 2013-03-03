@@ -676,6 +676,9 @@
     <prompt phrase="...&#x5DF2;&#x5220;&#x9664;" filename="ivr-has_been_removed.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-has_been_removeded.wav" link="ivr-has_been_removed.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="...&#x547C;&#x53EB;&#x4E86;&#x7D27;&#x6025;&#x670D;&#x52A1;" filename="ivr-has_called_emergency_services.wav">
       <prompt/>
     </prompt>
@@ -1291,6 +1294,9 @@
     <prompt phrase="&#x9AD8;&#x7EA7;&#x9009;&#x9879;" filename="vm-advanced.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-advanced_alt.wav" link="vm-advanced.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x4FEE;&#x6539;&#x5BC6;&#x7801;" filename="vm-change_password.wav">
       <prompt/>
     </prompt>
@@ -1357,6 +1363,9 @@
     <prompt phrase="&#x4E3B;&#x83DC;&#x5355;" filename="vm-main_menu.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-main_menu_alt.wav" link="vm-main_menu.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x5C06;&#x8BE5;&#x7559;&#x8A00;&#x8BBE;&#x7F6E;&#x4E3A;&#x7D27;&#x6025;" filename="vm-mark-urgent.wav">
       <prompt/>
     </prompt>
@@ -1366,10 +1375,16 @@
     <prompt phrase="&#x4FE1;&#x606F;" filename="vm-message.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-message_alt.wav" link="vm-message.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x7559;&#x8A00;&#x53F7;&#x7801;" filename="vm-message_number.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x4FE1;&#x606F;" filename="vm-messages.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-messages_alt.wav" link="vm-messages.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x65B0;" filename="vm-new.wav">
@@ -1418,6 +1433,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="&#x9000;&#x51FA;" filename="vm-to_exit.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-to_exit_alt.wav" link="vm-to_exit.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8F6C;&#x53D1;&#x7559;&#x8A00;" filename="vm-to_forward.wav">

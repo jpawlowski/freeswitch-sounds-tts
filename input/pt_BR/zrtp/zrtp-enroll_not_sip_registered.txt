@@ -1,1 +1,0 @@
-Somente aqueles telefones que estem autentificados podem ser configurados de maneira segura neste sistema para retransmitir as ligações em ZRTP. O seu telefone nao esta autentificado com este sistema, esta ligação não sera realizada.

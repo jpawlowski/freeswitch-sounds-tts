@@ -706,6 +706,9 @@
     <prompt phrase="pour les options avanc&#xE9;es" filename="vm-advanced.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-advanced_alt.wav" link="vm-advanced.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Pour modifier votre code d'acc&#xE8;s" filename="vm-change_password.wav">
       <prompt/>
     </prompt>
@@ -769,6 +772,9 @@
     <prompt phrase="pour le menu principal" filename="vm-main_menu.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-main_menu_alt.wav" link="vm-main_menu.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Pour marquer ce message urgent" filename="vm-mark_urgent.wav">
       <prompt/>
     </prompt>
@@ -778,10 +784,16 @@
     <prompt phrase="message" filename="vm-message.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-message_alt.wav" link="vm-message.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="message num&#xE9;ro" filename="vm-message_number.wav">
       <prompt/>
     </prompt>
     <prompt phrase="messages" filename="vm-messages.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-messages_alt.wav" link="vm-messages.wav">
       <prompt/>
     </prompt>
     <prompt phrase="nouveau" filename="vm-new.wav">
@@ -827,6 +839,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="pour quitter" filename="vm-to_exit.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-to_exit_alt.wav" link="vm-to_exit.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Votre enregistrement est trop court, veuillez r&#xE9;essayer" filename="vm-too-small.wav">

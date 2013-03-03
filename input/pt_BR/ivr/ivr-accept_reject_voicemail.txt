@@ -1,1 +1,0 @@
-Para aceitar, digite 1. Para rejeitar, digite 2. Para enviar para o correio de voz, digite 3.

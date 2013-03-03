@@ -1,1 +1,0 @@
-Bem-vindo ao agente de registro de segurança ZRTP.

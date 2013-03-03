@@ -1,1 +1,0 @@
-O seu telefone indica que é seguro este sistema para realizar ligações seguras em ZRTP, você não precisa fazer nada mais.

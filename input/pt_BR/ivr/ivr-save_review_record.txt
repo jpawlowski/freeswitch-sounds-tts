@@ -1,1 +1,0 @@
-Digite 1 para guardar a sua gravação. Digite 2 para ouvir á sua gravação. Digite 3 para gravar novamente.

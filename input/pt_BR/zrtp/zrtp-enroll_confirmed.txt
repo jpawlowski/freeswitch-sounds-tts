@@ -1,1 +1,0 @@
-Este sistema está configurado para realizar ligações telefonicas encriptadas em ZRTP. Você deve decidir se permitira que este sistema possa interceptar e monitorizar as suas ligações telefonicas seguras. Pode finalizar a ligação depois disso.
