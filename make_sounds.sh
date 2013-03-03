@@ -22,7 +22,7 @@ FAILED=false
 VERSION="`git tag | sort | tail -1`"
 
 # Search for voice text files
-FILES="`cd ./input; find . -name "*.txt"`"
+FILES="`cd ./input; find . -name "*.txt" ! -iname "locale_specific_texts.txt"`"
 
 ##
 ##
@@ -329,8 +329,11 @@ for FILE in $MUSIC; do
 	done
 done
 
+# Write current flat files into XML
+./xml_write.php
+
 if [ "${FAILED}" == "true" ]; then
-	echo -e "\n\nThere were errors during TTS conversation, therefore no archive files will be generated.\nYou may try to run the script again to generate missing files.\n"
+	echo -e "\n\nThere were errors during TTS conversion, therefore no archive files will be generated.\nYou may try to run the script again to generate missing files.\n"
 	exit 1
 else
 	echo -e "\n\nProcessing complete.\n\n"
@@ -343,9 +346,9 @@ else
 	for VOICE in `find . -maxdepth 3 -mindepth 3 -type d`; do
 		FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
 		echo "freeswitch-sounds${FILENAME}-16000"
-		find "$VOICE" -name '16000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
+		find "$VOICE" -name '16000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
 		echo "freeswitch-sounds${FILENAME}-8000"
-		find "$VOICE" -name '8000' -type d | xargs tar cfpzh ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
+		find "$VOICE" -name '8000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
 	done
 	cd ..
 fi

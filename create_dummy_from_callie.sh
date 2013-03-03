@@ -9,7 +9,10 @@
 #
 
 
-[ ! -d import/en/us/callie ] && exit 1
+if [ ! -d import/en/us/callie ]; then
+	echo "ERROR: Callie 8kHz files must be in ./import/en/us/callie. Aborting ..."
+	exit 1
+fi
 
 CALLIE_LIST="`find ./import/en/us/callie -type f -name "*.wav"`"
 

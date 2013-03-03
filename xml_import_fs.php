@@ -3,14 +3,24 @@
 /*
  * FreeSwitch
  * TTS Voice Prompt Generator
- * - Convert XML files to structured flat text files -
+ * - Import from FreeSwitch phrase XML files -
  *
  * Copyright (c) 2013, Julian Pawlowski <jp@jps-networks.eu>
  * See LICENSE file for details.
  *
  */
 
-$url = "http://git.freeswitch.org/git/freeswitch/plain/docs/phrase/phrase_" . $argv[1] . ".xml";
+ $locale = $argv[1];
+ $import_file = "./import/phrase_".$locale.".xml";
+
+ if(empty($locale)) {
+ 	print ("ERROR: Please enter locale name as parameter.\n");
+ 	exit;
+ } elseif(is_file($import_file)) {
+	 $url = $import_file;
+ } else {
+	 $url = "http://git.freeswitch.org/git/freeswitch/plain/docs/phrase/phrase_" . $locale . ".xml";
+ }
 
 $xml = simplexml_load_file($url);
 
@@ -29,13 +39,14 @@ foreach($xml as $locale => $xml_locale)
 
 			if ($prompt[type])
 			{
-				$dirname = "./" . $prompt[type] . "/" . $category;
-				$filename = "./" . $prompt[type] . "/" . $category . "/" . $filename_base;
-				$filename_check = $inputdir . "/" . $category . "/" . $filename_base;
+				$inputdir = "./" . $prompt[type] . ".new/";
+				$dirname = $inputdir . $category;
+				$filename = $inputdir . $category . "/" . $filename_base;
+				$filename_check = "./" . $prompt[type] . "/" . $category . "/" . $filename_base;
 			} else {
 				$inputdir = "./input.new/";
-				$dirname = "./input.new/" . $locale . "/" . $category;
-				$filename = "./input.new/" . $locale . "/" . $category . "/" . $filename_base;
+				$dirname = $inputdir . $locale . "/" . $category;
+				$filename = $inputdir . $locale . "/" . $category . "/" . $filename_base;
 				$filename_check = "./input/" . $locale . "/" . $category . "/" . $filename_base;
 			}
 
@@ -50,7 +61,7 @@ foreach($xml as $locale => $xml_locale)
 				{
 					$phrase = "This text is missing #TODO";
 				} else {
-					$phrase = $prompt[phrase];			
+					$phrase = $prompt[phrase];
 				}
 
 				$fhandle = fopen($filename, "w");

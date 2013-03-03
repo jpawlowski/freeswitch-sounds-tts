@@ -23,8 +23,8 @@ for FILE in $LIST; do
 	FILENAME_FLAT="${FILENAME_FLAT#*/}"
 	FILENAME_CALLIE="`echo $FILENAME_FLAT | sed -e "s/\//\/8000\//g"`"
 
-	if [ -e whitelist.de.txt ]; then
-		WHITELIST="`cat whitelist.de.txt | grep ${FILENAME_FLAT}`"
+	if [ -e input/$1/locale_specific_texts.txt ]; then
+		WHITELIST="`cat input/$1/locale_specific_texts.txt | grep ${FILENAME_FLAT}`"
 	else
 		WHITELIST=""
 	fi
@@ -34,4 +34,4 @@ for FILE in $LIST; do
 	fi
 done
 
-echo -e "\nTo suppress files from this list (e.g. for language specific files) you may add them to whitelist.en.txt.\n"
+echo -e "\nTo suppress files from this list (e.g. for language specific files) you may add them to input/$1/locale_specific_texts.txt\n"

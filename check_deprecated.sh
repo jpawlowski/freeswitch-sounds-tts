@@ -32,8 +32,8 @@ for FILE in $LIST_LOCALE; do
 	FILENAME_FLAT="${FILENAME#*/}"
 	FILENAME_FLAT="${FILENAME_FLAT#*/}"
 
-	if [ -e whitelist.$1.txt ]; then
-		WHITELIST="`cat whitelist.$1.txt | grep ${FILENAME_FLAT}`"
+	if [ -e input/$1/locale_specific_texts.txt ]; then
+		WHITELIST="`cat input/$1/locale_specific_texts.txt | grep ${FILENAME_FLAT}`"
 	else
 		WHITELIST=""
 	fi
@@ -43,4 +43,4 @@ for FILE in $LIST_LOCALE; do
 	fi
 done
 
-echo -e "\nTo suppress files from this list (e.g. for language specific files) you may add them to whitelist.$1.txt.\n"
+echo -e "\nTo suppress files from this list (e.g. for language specific files) you may add them to input/$1/locale_specific_texts.txt.\n"
