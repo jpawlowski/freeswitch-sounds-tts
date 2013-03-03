@@ -1,0 +1,1 @@
+Marque um para sim. Marque dois para não.

@@ -1,0 +1,1 @@
+Apenas telefones que estão autenticados podem ser configurados para usarem este sistema de retransmissão ZRTP para chamadas com modo de segurança activo. Se o seu telefone não está autenticado com o sistema, esta chamada não terá qualquer efeito.

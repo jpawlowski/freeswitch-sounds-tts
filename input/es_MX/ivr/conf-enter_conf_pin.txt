@@ -1,0 +1,1 @@
+Introduzca el PIN de la conferencia, seguido de la tecla almohadilla.

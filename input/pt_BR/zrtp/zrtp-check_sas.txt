@@ -1,0 +1,1 @@
+Você deve verificar a autentificação com o seu destinatário. Se não coincidir, isso indica presença de um dispositivo de escuta telefonica.

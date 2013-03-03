@@ -2,14 +2,17 @@
 #
 # FreeSwitch
 # TTS Voice Prompt Generator
-# - Create dummies for missing textfiles which are enclosed in english files -
+# - Create dummies for missing textfiles in foreign language which are enclosed in english files -
 #
 # Copyright (c) 2013, Julian Pawlowski <jp@jps-networks.eu>
 # See LICENSE file for details.
 #
 
-[ ! -d input/en ] && exit 1
-[ ! -d input/$1 ] && exit 1
+if [ ! -d input/en ]; then
+	echo "ERROR: English language files do not exist in ./input/en. Aborting ..."
+	exit 1
+fi
+[ ! -d input/$1 ] && echo "ATTENTION:: No foreign language files existing yet. This language will be a complete dummy!"
 
 LIST="`find ./input/en -type f -name "*.txt"`"
 
@@ -20,10 +23,9 @@ for FILE in $LIST; do
 	FILENAME_FLAT="${FILENAME_FLAT#*/}"
 
 	if [ ! -e input/$1/${FILENAME_FLAT}.txt ]; then
-		echo "$FILENAME_STATELESS not found in input files, creating dummy ..."
-		mkdir -p input.new/$1/${FILENAME_STATELESS%/*}
-		echo -e "Please tranlate the following text:\n" > ./input.new/$1/${FILENAME_STATELESS}.txt
-		cat $FILE >> ./input.new/$1/${FILENAME_STATELESS}.txt
-		echo -e "\n#TODO" >> ./input.new/$1/${FILENAME_STATELESS}.txt
+		echo "$FILENAME_FLAT not found in input files, creating dummy ..."
+		mkdir -p input.new/$1/${FILENAME_FLAT%/*}
+		echo -e "#TODO Please translate the following text:" > ./input.new/$1/${FILENAME_FLAT}.txt
+		cat $FILE >> ./input.new/$1/${FILENAME_FLAT}.txt
 	fi
 done

@@ -1,0 +1,1 @@
+Ceci est un example de menu. FreeSWITCH est très flexible dans la conception de système interactifs.

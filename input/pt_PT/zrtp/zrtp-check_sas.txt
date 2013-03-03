@@ -1,0 +1,1 @@
+Deve verificar a chave de autenticação com destinatário. Se não for igual, indica a presença de uma escuta.
