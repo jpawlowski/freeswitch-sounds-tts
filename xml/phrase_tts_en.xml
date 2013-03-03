@@ -2179,6 +2179,9 @@
     <prompt phrase="Please hold while we connect you to an actual human being." filename="ivr-connect_actual_human_being.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Please hold while we connect you to a live operator." filename="ivr-connect_live_operator.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Connect to caller" filename="ivr-connect_to_caller.wav">
       <prompt/>
     </prompt>
@@ -3001,7 +3004,7 @@
     <prompt phrase="Y U NO Silent Drill?!" filename="ivr-yuno_silent_drill.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Please hold while we connect you to a live operator." filename="ivr_connect_live_operator.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr_connect_live_operator.wav" link="ivr-connect_live_operator.wav">
       <prompt/>
     </prompt>
     <ivr/>

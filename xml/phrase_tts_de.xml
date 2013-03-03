@@ -652,7 +652,16 @@
     <prompt phrase="Konzentrieren Sie sich! Immer das Ziel im Blickfeld behalten, behalten Sie das im Hinterkopf!" filename="ivr-concentrate.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Um einen Weckanruf zu best&#xE4;tigen ..." filename="ivr-confirm_wakeup_call.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Herzlichen Gl&#xFC;ckwunsch! Sie haben soeben die Sterntaste gedr&#xFC;ckt." filename="ivr-congratulations_you_pressed_star.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Bitte legen Sie nicht auf, wir verbinden Sie zu einem richtigen Menschen." filename="ivr-connect_actual_human_being.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Bitte legen Sie nicht auf, wir verbinden Sie zur Vermittlungsstelle." filename="ivr-connect_live_operator.wav">
       <prompt/>
     </prompt>
     <prompt phrase="mit Anrufer verbinden" filename="ivr-connect_to_caller.wav">
@@ -730,6 +739,15 @@
     <prompt phrase="Wenn Sie die richtige Durchwahl kennen, geben Sie diese jetzt ein." filename="ivr-enter_ext_pound.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Geben Sie die ersten Buchstaben des Vornamens der Person ein." filename="ivr-enter_letters_first_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Geben Sie die ersten Buchstaben des For oder Nachnamens der Person ein." filename="ivr-enter_letters_first_or_last_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Geben Sie die ersten Buchstaben des Nachnamens der Person ein." filename="ivr-enter_letters_last_name.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Bitte geben Sie die Zielrufnummer f&#xFC;r dieses Fax ein, gefolgt von Raute." filename="ivr-enter_number_send_fax.wav">
       <prompt/>
     </prompt>
@@ -803,6 +821,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="f&#xFC;r weitere Optionen dr&#xFC;cken Sie" filename="ivr-for_other_options.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="F&#xFC;r Spanisch, dr&#xFC;cken Sie ..." filename="ivr-for_spanish_press.wav">
       <prompt/>
     </prompt>
     <prompt phrase="F&#xFC;r diese Person" filename="ivr-for_this_person.wav">
@@ -1006,6 +1027,9 @@
     <prompt phrase="Sie hatten keinen Weckanruf angefordert." filename="ivr-not_requested_wakeup_call.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Nichts." filename="ivr-nothing.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Nummer" filename="ivr-number.wav">
       <prompt/>
     </prompt>
@@ -1027,7 +1051,7 @@
     <prompt phrase="Dr&#xFC;cken Sie Eins f&#xFC;r ja, Zwei f&#xFC;r nein." filename="ivr-one_yes_two_no.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Administrator" filename="ivr-operator.wav">
+    <prompt phrase="Vermittlung" filename="ivr-operator.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Option" filename="ivr-option.wav">
@@ -1138,6 +1162,12 @@
     <prompt phrase="Dr&#xFC;cken Sie einen oder mehrere Tasten, ich wiederhole sie f&#xFC;r Sie." filename="ivr-read_each_key_press_back.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Bitte nehmen Sie den Hinweistext auf." filename="ivr-record_prompt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Bitte nehmen Sie eine kurze Begr&#xFC;&#xDF;ung auf." filename="ivr-record_short_greeting.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Aufnahme gel&#xF6;scht." filename="ivr-recording_deleted.wav">
       <prompt/>
     </prompt>
@@ -1220,6 +1250,12 @@
       <prompt/>
     </prompt>
     <prompt phrase="Schei&#xDF;e!" filename="ivr-sucks.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Das System wird wieder funktionieren in voraussichtlich ..." filename="ivr-system_back_up_in_approximately.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Das System wird gerade f&#xFC;r Wartungsarbeiten heruntergefahren." filename="ivr-system_down_for_maintenance.wav">
       <prompt/>
     </prompt>
     <prompt phrase="eine Nachricht aufsprechen" filename="ivr-take_a_message.wav">
@@ -1307,6 +1343,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="ab&#xE4;ndern von" filename="ivr-to_modify.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Im den Haupthinweistext zu &#xE4;ndern ..." filename="ivr-to_modify_main_prompt.wav">
       <prompt/>
     </prompt>
     <prompt phrase="um mit Ihrem letzten Gespr&#xE4;chspartner verbunden zu werden" filename="ivr-to_redial_last_call.wav">
@@ -1450,6 +1489,9 @@
     <prompt phrase="Warum sind Sie nicht einmal kurz still?" filename="ivr-yuno_silent_drill.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr_connect_live_operator.wav" link="ivr-connect_live_operator.wav">
+      <prompt/>
+    </prompt>
     <ivr/>
   </ivr>
   <misc>
@@ -1496,6 +1538,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="Der CudaTel Kommunikations Server fron Barracuda Networks ist die moderne IP PBX;&#10;betrieben mit FreeSwitch und entwickelt vom Kern Entwicklerteam von FreeSwitch." filename="misc-cudatel_communication_server_from_barracuda.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Danke f&#xFC;r den Anruf beim CudaTel Test System." filename="misc-cudatel_test_system.wav">
       <prompt/>
     </prompt>
     <prompt phrase="CudaTel! Du weisst, dass du sie willst!" filename="misc-cudatel_you_know_you_want_one.wav">
