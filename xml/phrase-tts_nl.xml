@@ -124,10 +124,19 @@
     <prompt phrase="U bent verwijderd uit deze conferentie." filename="conf-kicked.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="...luisteraars in deze conferentie." filename="conf-listeners_in_conference.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Deze conferentie is vergrendeld." filename="conf-locked.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="...leden in deze conferentie." filename="conf-members_in_conference.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="U bent nu gedempt." filename="conf-muted.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Geef het aantal luisteraars op, gevolgd door een hekje." filename="conf-number_of_listeners.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Geef de conferentie pincode op." filename="conf-pin.wav">
@@ -412,15 +421,6 @@
     <directory/>
   </directory>
   <ivr>
-    <prompt phrase="...luisteraars in deze conferentie." filename="conf-listeners_in_conference.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="...leden in deze conferentie." filename="conf-members_in_conference.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Geef het aantal luisteraars op, gevolgd door een hekje." filename="conf-number_of_listeners.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="Om te accepteren toets 1. Om te weigeren toets 2. Om een voicemail te sturen toets 3" filename="ivr-accept_reject_voicemail.wav">
       <prompt/>
     </prompt>

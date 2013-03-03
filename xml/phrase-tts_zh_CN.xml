@@ -151,6 +151,9 @@
     <prompt phrase="&#x5BC6;&#x7801;&#x9519;&#x8BEF;&#xFF0C;&#x8BF7;&#x91CD;&#x65B0;&#x8F93;&#x5165;" filename="conf-bad-pin.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="&#x4F1A;&#x8BAE;&#x5BA4;&#x5DF2;&#x6EE1;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x7BA1;&#x7406;&#x5458;" filename="conf-conference_is_full.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x4F1A;&#x8BAE;&#x53F7;&#x7801;&#xFF0C;&#x6309;#&#x53F7;&#x7ED3;&#x675F;" filename="conf-enter_conf_number.wav">
       <prompt/>
     </prompt>
@@ -487,9 +490,6 @@
     <directory/>
   </directory>
   <ivr>
-    <prompt phrase="&#x4F1A;&#x8BAE;&#x5BA4;&#x5DF2;&#x6EE1;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x7BA1;&#x7406;&#x5458;" filename="conf-conference_is_full.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="&#x63A5;&#x53D7;&#x8BF7;&#x6309;1&#xFF0C;&#x62D2;&#x7EDD;&#x8BF7;&#x6309;2&#xFF0C;&#x8F6C;&#x8BED;&#x97F3;&#x90AE;&#x7BB1;&#x8BF7;&#x6309;3" filename="ivr-accept_reject_voicemail.wav">
       <prompt/>
     </prompt>

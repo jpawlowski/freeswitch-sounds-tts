@@ -100,7 +100,19 @@
     <prompt phrase="PIN inv&#xE1;lido, tente novamente." filename="conf-bad-pin.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Por favor marque o n&#xFA;mero da confer&#xEA;ncia, seguido de cardinal" filename="conf-enter_conf_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Introduza o n&#xFA;mero PIN da confer&#xEA;ncia, seguido de cardinal." filename="conf-enter_conf_pin.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="At&#xE9; breve." filename="conf-goodbye.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...entrou na confer&#xEA;ncia." filename="conf-has_joined.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...abandonou a confer&#xEA;ncia." filename="conf-has_left.wav">
       <prompt/>
     </prompt>
     <prompt phrase="A confer&#xEA;ncia est&#xE1; agora bloqueada." filename="conf-is-locked.wav">
@@ -125,6 +137,12 @@
       <prompt/>
     </prompt>
     <prompt phrase="Bem-vindo &#xE0; confer&#xEA;ncia." filename="conf-welcome.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Voc&#xEA; j&#xE1; est&#xE1; em sil&#xEA;ncio." filename="conf-you_are_already_muted.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Voc&#xEA; est&#xE1; agora em sil&#xEA;ncio em ambos sentidos." filename="conf-you_are_now_bidirectionally_muted.wav">
       <prompt/>
     </prompt>
     <conference/>
@@ -349,6 +367,9 @@
     <prompt phrase="Por favor introduza as primeiras letras do nome da pessoa." filename="dir-enter-person.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Por favor, introduza as primeiras letras do primeiro ou &#xFA;ltimo nome da pessoa" filename="dir-enter_person_first_or_last.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="...primeiro nome..." filename="dir-first_name.wav">
       <prompt/>
     </prompt>
@@ -397,27 +418,6 @@
     <directory/>
   </directory>
   <ivr>
-    <prompt phrase="Por favor marque o n&#xFA;mero da confer&#xEA;ncia, seguido de cardinal" filename="conf-enter_conf_number.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Introduza o n&#xFA;mero PIN da confer&#xEA;ncia, seguido de cardinal." filename="conf-enter_conf_pin.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="...entrou na confer&#xEA;ncia." filename="conf-has_joined.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="...abandonou a confer&#xEA;ncia." filename="conf-has_left.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Voc&#xEA; j&#xE1; est&#xE1; em sil&#xEA;ncio." filename="conf-you_are_already_muted.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Voc&#xEA; est&#xE1; agora em sil&#xEA;ncio em ambos sentidos." filename="conf-you_are_now_bidirectionally_muted.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Por favor, introduza as primeiras letras do primeiro ou &#xFA;ltimo nome da pessoa" filename="dir-enter_person_first_or_last.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="Para aceitar, marque 1. Para rejeitar, marque 2. Para enviar para o correio de voz, marque 3." filename="ivr-accept_reject_voicemail.wav">
       <prompt/>
     </prompt>
@@ -880,6 +880,24 @@
     <prompt phrase="Voc&#xEA; pode sair a qualquer altura, simplesmente terminando a chamada." filename="ivr-you_may_exit_by_hanging_up.wav">
       <prompt/>
     </prompt>
+    <ivr/>
+  </ivr>
+  <misc>
+    <prompt phrase="Foi activada a seguran&#xE7;a para esta chamada." filename="call_secured.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Ocorreu um erro, por favor entre em contacto com o administrador." filename="error.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...seguido de cardinal." filename="followed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Se voc&#xEA; &#xE9; esta pessoa..." filename="if_you_are_this_person.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Se voc&#xEA; deseja..." filename="if_you_would_like_to.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Andrew Thompson" filename="misc-Andrew_Thompson.wav">
       <prompt/>
     </prompt>
@@ -914,27 +932,6 @@
       <prompt/>
     </prompt>
     <prompt phrase="William King" filename="misc-William_King.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="O destino que deseja contactar n&#xE3;o est&#xE1; dispon&#xED;vel e n&#xE3;o tem correio de voz." filename="vm-not_available_no_voicemail.wav">
-      <prompt/>
-    </prompt>
-    <ivr/>
-  </ivr>
-  <misc>
-    <prompt phrase="Foi activada a seguran&#xE7;a para esta chamada." filename="call_secured.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Ocorreu um erro, por favor entre em contacto com o administrador." filename="error.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="...seguido de cardinal." filename="followed.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Se voc&#xEA; &#xE9; esta pessoa..." filename="if_you_are_this_person.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Se voc&#xEA; deseja..." filename="if_you_would_like_to.wav">
       <prompt/>
     </prompt>
     <prompt phrase="A sua chamada foi conclu&#xED;da." filename="misc-your_call_has_been_terminated.wav">
@@ -1250,6 +1247,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="N&#xE3;o est&#xE1; dispon&#xED;vel." filename="vm-not_available.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="O destino que deseja contactar n&#xE3;o est&#xE1; dispon&#xED;vel e n&#xE3;o tem correio de voz." filename="vm-not_available_no_voicemail.wav">
       <prompt/>
     </prompt>
     <prompt phrase="A pessoa na extens&#xE3;o..." filename="vm-person.wav">

@@ -103,7 +103,19 @@
     <prompt phrase="PIN inv&#xE1;lido, intente de nuevo." filename="conf-bad-pin.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Por favor introduzca el n&#xFA;mero de conferencia, seguido de la tecla almohadilla." filename="conf-enter_conf_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Introduzca el PIN de la conferencia, seguido de la tecla almohadilla." filename="conf-enter_conf_pin.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Hasta luego." filename="conf-goodbye.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...se incorpor&#xF3; a la conferencia." filename="conf-has_joined.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...ha abandonado la conferencia." filename="conf-has_left.wav">
       <prompt/>
     </prompt>
     <prompt phrase="La conferencia est&#xE1; ahora bloqueada." filename="conf-is-locked.wav">
@@ -128,6 +140,12 @@
       <prompt/>
     </prompt>
     <prompt phrase="Bienvenido a la conferencia." filename="conf-welcome.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Su llamada ya est&#xE1; silenciada." filename="conf-you_are_already_muted.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Su llamada ha sido silenciada en ambos sentidos." filename="conf-you_are_now_bidirectionally_muted.wav">
       <prompt/>
     </prompt>
     <conference/>
@@ -367,6 +385,9 @@
     <prompt phrase="Por favor introduzca las primeras letras del nombre buscado." filename="dir-enter_person.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Por favor introduzca las primeras letras del nombre o apellido de la persona." filename="dir-enter_person_first_or_last.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="...nombre..." filename="dir-first_name.wav">
       <prompt/>
     </prompt>
@@ -418,27 +439,6 @@
     <directory/>
   </directory>
   <ivr>
-    <prompt phrase="Por favor introduzca el n&#xFA;mero de conferencia, seguido de la tecla almohadilla." filename="conf-enter_conf_number.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Introduzca el PIN de la conferencia, seguido de la tecla almohadilla." filename="conf-enter_conf_pin.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="...se incorpor&#xF3; a la conferencia." filename="conf-has_joined.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="...ha abandonado la conferencia." filename="conf-has_left.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Su llamada ya est&#xE1; silenciada." filename="conf-you_are_already_muted.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Su llamada ha sido silenciada en ambos sentidos." filename="conf-you_are_now_bidirectionally_muted.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Por favor introduzca las primeras letras del nombre o apellido de la persona." filename="dir-enter_person_first_or_last.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="Para aceptar, pulse 1. Para rechazar, pulse 2. Para enviar al buz&#xF3;n de voz, pulse 3." filename="ivr-accept_reject_voicemail.wav">
       <prompt/>
     </prompt>
@@ -901,6 +901,24 @@
     <prompt phrase="Usted puede colgar en cualquier momento para salir." filename="ivr-you_may_exit_by_hanging_up.wav">
       <prompt/>
     </prompt>
+    <ivr/>
+  </ivr>
+  <misc>
+    <prompt phrase="Esta llamada est&#xE1; ahora protegida." filename="call_secured.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Ha ocurrido un error, por favor contacte con el administrador." filename="error.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...seguido de la tecla almohadilla." filename="followed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Si usted es esta persona..." filename="if_you_are_this_person.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Si usted desea..." filename="if_you_would_like_to.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Andrew Thompson" filename="misc-Andrew_Thompson.wav">
       <prompt/>
     </prompt>
@@ -935,27 +953,6 @@
       <prompt/>
     </prompt>
     <prompt phrase="William King" filename="misc-William_King.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="La persona con la que intenta hablar no est&#xE1; disponible y no tiene buz&#xF3;n de voz." filename="vm-not_available_no_voicemail.wav">
-      <prompt/>
-    </prompt>
-    <ivr/>
-  </ivr>
-  <misc>
-    <prompt phrase="Esta llamada est&#xE1; ahora protegida." filename="call_secured.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Ha ocurrido un error, por favor contacte con el administrador." filename="error.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="...seguido de la tecla almohadilla." filename="followed.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Si usted es esta persona..." filename="if_you_are_this_person.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Si usted desea..." filename="if_you_would_like_to.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Su llamada ha sido terminada." filename="misc-your_call_has_been_terminated.wav">
@@ -1271,6 +1268,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="...no est&#xE1; disponible." filename="vm-not_available.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="La persona con la que intenta hablar no est&#xE1; disponible y no tiene buz&#xF3;n de voz." filename="vm-not_available_no_voicemail.wav">
       <prompt/>
     </prompt>
     <prompt phrase="La persona en la extensi&#xF3;n..." filename="vm-person.wav">
