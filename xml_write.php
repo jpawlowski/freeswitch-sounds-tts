@@ -80,7 +80,7 @@ $xml = new SimpleXMLElement("<language></language>");
 data2XML($texts, $xml, "prompt");
 
 foreach($xml->children() as $key => $node) {
-	$export_file = 	"./xml/phrase_tts_".$key.".xml";
+	$export_file = 	"./xml/phrase-tts_".$key.".xml";
 
 	$dom = new DOMDocument('1.0', 'utf-8');
 	$dom->encoding = 'UTF-8';

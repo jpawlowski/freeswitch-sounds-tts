@@ -11,7 +11,7 @@
  */
 
 $locale = $argv[1];
-$import_file = "./xml/phrase_tts_".$locale.".xml";
+$import_file = "./xml/phrase-tts_".$locale.".xml";
 
 if(empty($locale)) {
 	print ("ERROR: Please enter locale name as parameter.\n");
