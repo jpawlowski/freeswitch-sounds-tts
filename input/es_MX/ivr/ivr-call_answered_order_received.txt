@@ -1,1 +1,0 @@
-Su llamada será atendida según el orden de entrada.

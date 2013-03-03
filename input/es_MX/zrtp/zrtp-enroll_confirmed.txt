@@ -1,1 +1,0 @@
-Este sistema esta configurado para manejar llamadas cifradas con ZRTP. Decida si permite al sistema tener la posibilidad de interceptar o monitorizar su llamada. Puede colgar una vez confirmado.

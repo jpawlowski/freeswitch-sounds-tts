@@ -1,1 +1,0 @@
-Somente os telefones equipados com protocolo ZRTP podem usar este ramal.O seu telefone não esta configurado para ZRTP, esta ligação não sera completada.

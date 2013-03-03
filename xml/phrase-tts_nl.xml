@@ -1129,6 +1129,9 @@
     <prompt phrase="voor speciale opties" filename="vm-advanced.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-advanced_alt.wav" link="vm-advanced.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="om uw wachtwoord te wijzigen" filename="vm-change_password.wav">
       <prompt/>
     </prompt>
@@ -1192,6 +1195,9 @@
     <prompt phrase="voor het hoofd menu" filename="vm-main_menu.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-main_menu_alt.wav" link="vm-main_menu.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="om dit bericht als dringend te markeren" filename="vm-mark_urgent.wav">
       <prompt/>
     </prompt>
@@ -1201,10 +1207,16 @@
     <prompt phrase="bericht" filename="vm-message.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-message_alt.wav" link="vm-message.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="bericht nummer" filename="vm-message_number.wav">
       <prompt/>
     </prompt>
     <prompt phrase="berichten" filename="vm-messages.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-messages_alt.wav" link="vm-messages.wav">
       <prompt/>
     </prompt>
     <prompt phrase="nieuw" filename="vm-new.wav">
@@ -1253,6 +1265,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="om te be&#xEB;indigen" filename="vm-to_exit.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-to_exit_alt.wav" link="vm-to_exit.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Uw opname is korter dan de minimaal aanvaardbare lengte, probeer het opnieuw" filename="vm-too-small.wav">
