@@ -1345,7 +1345,7 @@
     <prompt phrase="ab&#xE4;ndern von" filename="ivr-to_modify.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Im den Haupthinweistext zu &#xE4;ndern ..." filename="ivr-to_modify_main_prompt.wav">
+    <prompt phrase="Um den Haupthinweistext zu &#xE4;ndern ..." filename="ivr-to_modify_main_prompt.wav">
       <prompt/>
     </prompt>
     <prompt phrase="um mit Ihrem letzten Gespr&#xE4;chspartner verbunden zu werden" filename="ivr-to_redial_last_call.wav">
