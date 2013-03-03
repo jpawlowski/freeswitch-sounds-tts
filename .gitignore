@@ -38,6 +38,8 @@ dwsync.xml
 /output
 /cache
 /input.new
+/tone.new
+/music.new
 /*.tar.gz
 
 # custom files
