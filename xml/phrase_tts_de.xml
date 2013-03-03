@@ -1138,12 +1138,6 @@
     <prompt phrase="Dr&#xFC;cken Sie einen oder mehrere Tasten, ich wiederhole sie f&#xFC;r Sie." filename="ivr-read_each_key_press_back.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Bitte nehmen Sie den Ton beim Verlassen auf." filename="ivr-record_exit_sound.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Bitte nehmen Sie den Ton f&#xFC;r eine ung&#xFC;ltige Eingabe auf." filename="ivr-record_invalid_sound.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="Aufnahme gel&#xF6;scht." filename="ivr-recording_deleted.wav">
       <prompt/>
     </prompt>

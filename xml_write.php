@@ -39,8 +39,14 @@ function create_txt_array($filename) {
 	$category = $file_pattern[3];
 	if($category != "locale_specific_texts.txt" ) {
 		$file = trim(str_replace(".txt", ".wav", $file_pattern[4]));
-		$text = file_get_contents($filename);
-		$texts[$language][$category][] = array(phrase => $text, filename => $file);
+		if(is_link($filename)) {
+			$text = "This file was renamed or is just an alternate intonation which is not possible with TTS.";
+			$link = trim(str_replace(".txt", ".wav", readlink($filename)));
+			$texts[$language][$category][] = array(phrase => $text, filename => $file, link => $link);
+		} else {
+			$text = file_get_contents($filename);
+			$texts[$language][$category][] = array(phrase => $text, filename => $file);
+		}
 	}
 }
 

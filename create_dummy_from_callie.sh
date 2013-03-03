@@ -9,8 +9,8 @@
 #
 
 
-if [ ! -d import/en/us/callie ]; then
-	echo "ERROR: Callie 8kHz files must be in ./import/en/us/callie. Aborting ..."
+if [ ! -d ./import/en/us/callie ]; then
+	echo "ERROR: Callie 8kHz files must be in ./import/en/us/callie/*/8000. Aborting ..."
 	exit 1
 fi
 

@@ -38,7 +38,7 @@ for FILE in $LIST_LOCALE; do
 		WHITELIST=""
 	fi
 
-	if [[ ! -e input/en/${FILENAME_FLAT}.txt && x"${WHITELIST}" == x"" ]]; then
+	if [[ ! -e input/en/${FILENAME_FLAT}.txt && x"${WHITELIST}" == x"" && x"${FILENAME_FLAT}" != x"locale_specific_texts" ]]; then
 		echo "$FILENAME_FLAT"
 	fi
 done

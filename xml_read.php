@@ -34,16 +34,9 @@ foreach($xml as $category => $xml_category)
 			continue;
 		}
 
-		if ($prompt[type])
-		{
-			$dirname = "./" . $prompt[type] . "/" . $category;
-			$filename = "./" . $prompt[type] . "/" . $category . "/" . $filename_base;
-			$filename_check = $inputdir . "/" . $category . "/" . $filename_base;
-		} else {
-			$inputdir = "./input/";
-			$dirname = "./input/" . $locale . "/" . $category;
-			$filename = "./input/" . $locale . "/" . $category . "/" . $filename_base;
-		}
+		$inputdir = "./input/";
+		$dirname = "./input/" . $locale . "/" . $category;
+		$filename = "./input/" . $locale . "/" . $category . "/" . $filename_base;
 
 		if (!is_dir($dirname))
 		{
@@ -57,25 +50,43 @@ foreach($xml as $category => $xml_category)
 			$phrase = utf8_decode($prompt[phrase]);
 		}
 
-		$fhandle = fopen($filename, "w");
-		if (fwrite($fhandle, $prompt[phrase]))
+		if ($prompt[link])
 		{
-			if ($prompt[phrase] == "")
+			if (is_link($filename))
 			{
-				print "Created file $filename with EMPTY phrase";
-			} else {
-				print "Created file $filename";
+				unlink($filename);
+			} elseif (is_file($filename)) {
+				delete($filename);
 			}
 
-			if ($prompt[type])
+			if (symlink($prompt[link], $filename))
 			{
-				print " (type: ".$prompt[type].")\n";
+				print "Created link $filename to $prompt[link]\n";
 			} else {
-				print "\n";
+				print ("ERROR on file $filename\n");
+				print_r ($prompt);
 			}
 		} else {
-			print ("ERROR on file $filename\n");
-			print_r ($prompt);
+			$fhandle = fopen($filename, "w");
+			if (fwrite($fhandle, $prompt[phrase]))
+			{
+				if ($prompt[phrase] == "")
+				{
+					print "Created file $filename with EMPTY phrase";
+				} else {
+					print "Created file $filename";
+				}
+
+				if ($prompt[type])
+				{
+					print " (type: ".$prompt[type].")\n";
+				} else {
+					print "\n";
+				}
+			} else {
+				print ("ERROR on file $filename\n");
+				print_r ($prompt);
+			}
 		}
 	}
 }

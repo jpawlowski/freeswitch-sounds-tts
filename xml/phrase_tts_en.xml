@@ -2674,6 +2674,12 @@
     <prompt phrase="Press one or more keys. I will read each key press back to you." filename="ivr-read_each_key_press_back.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Please record the prompt." filename="ivr-record_prompt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Please record a short greeting." filename="ivr-record_short_greeting.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Recording deleted." filename="ivr-recording_deleted.wav">
       <prompt/>
     </prompt>
