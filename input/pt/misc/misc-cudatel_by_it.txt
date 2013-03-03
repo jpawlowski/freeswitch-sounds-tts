@@ -1,0 +1,2 @@
+#TODO Please translate the following text:
+CudaTel is the IP PBX designed by I.T. professionals, for I.T. professionals.

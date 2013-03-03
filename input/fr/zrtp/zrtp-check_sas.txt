@@ -1,0 +1,3 @@
+#TODO Please translate the following text:
+You must check the authentication string with your partner.
+If it doesn't match, it indicates the presence of a wire tapper.

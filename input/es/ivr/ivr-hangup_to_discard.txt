@@ -1,0 +1,2 @@
+#TODO Please translate the following text:
+Hang up the call without pressing a key to discard the recording.
