@@ -1,0 +1,3430 @@
+<?xml version="1.0"?>
+<ru>
+  <ascii>
+    <prompt phrase="D" filename="100.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="E" filename="101.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="F" filename="102.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="G" filename="103.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="H" filename="104.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="I" filename="105.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="J" filename="106.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="K" filename="107.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="L" filename="108.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="M" filename="109.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="N" filename="110.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="O" filename="111.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="P" filename="112.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Q" filename="113.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="R" filename="114.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="S" filename="115.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="T" filename="116.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="U" filename="117.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="V" filename="118.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="W" filename="119.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="X" filename="120.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Y" filename="121.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Z" filename="122.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x440;&#x43E;&#x431;&#x435;&#x43B;" filename="32.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x420;&#x435;&#x448;&#x451;&#x442;&#x43A;&#x430;" filename="35.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x417;&#x432;&#x435;&#x437;&#x434;&#x43E;&#x447;&#x43A;&#x430;" filename="42.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x43E;&#x447;&#x43A;&#x430;" filename="46.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="A" filename="97.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="B" filename="98.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="C" filename="99.wav">
+      <prompt/>
+    </prompt>
+    <ascii/>
+  </ascii>
+  <base256>
+    <prompt phrase="aardvark" filename="aardvark.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="absurd" filename="absurd.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="accrue" filename="accrue.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="acme" filename="acme.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="adrift" filename="adrift.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="adroitness" filename="adroitness.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="adult" filename="adult.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="adviser" filename="adviser.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="afflict" filename="afflict.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="aftermath" filename="aftermath.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="aggregate" filename="aggregate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="ahead" filename="ahead.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="aimless" filename="aimless.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Algol" filename="Algol.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="alkali" filename="alkali.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="allow" filename="allow.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="almighty" filename="almighty.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="alone" filename="alone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="ammo" filename="ammo.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="amulet" filename="amulet.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="amusement" filename="amusement.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="ancient" filename="ancient.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="antenna" filename="antenna.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Apollo" filename="Apollo.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="apple" filename="apple.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="applicant" filename="applicant.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="armistice" filename="armistice.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="article" filename="article.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="artist" filename="artist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="assume" filename="assume.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="asteroid" filename="asteroid.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Athens" filename="Athens.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Atlantic" filename="Atlantic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="atlas" filename="atlas.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="atmosphere" filename="atmosphere.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="autopsy" filename="autopsy.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Aztec" filename="Aztec.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="baboon" filename="baboon.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Babylon" filename="Babylon.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="backfield" filename="backfield.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="backward" filename="backward.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="backwater" filename="backwater.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="banjo" filename="banjo.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="barbecue" filename="barbecue.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="beaming" filename="beaming.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bedlamp" filename="bedlamp.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="beehive" filename="beehive.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="beeswax" filename="beeswax.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="befriend" filename="befriend.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Belfast" filename="Belfast.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="belowground" filename="belowground.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="berserk" filename="berserk.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bifocals" filename="bifocals.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="billiard" filename="billiard.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bison" filename="bison.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="blackjack" filename="blackjack.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="blockade" filename="blockade.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="blowtorch" filename="blowtorch.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bluebird" filename="bluebird.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bodyguard" filename="bodyguard.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bombast" filename="bombast.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bookseller" filename="bookseller.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bookshelf" filename="bookshelf.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="borderline" filename="borderline.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bottomless" filename="bottomless.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="brackish" filename="brackish.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Bradbury" filename="Bradbury.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="bravado" filename="bravado.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Brazilian" filename="Brazilian.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="breadline" filename="breadline.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="breakaway" filename="breakaway.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="breakup" filename="breakup.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="brickyard" filename="brickyard.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="briefcase" filename="briefcase.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Burbank" filename="Burbank.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Burlington" filename="Burlington.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="businessman" filename="businessman.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="butterfat" filename="butterfat.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="button" filename="button.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="buzzard" filename="buzzard.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Camelot" filename="Camelot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="candidate" filename="candidate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="cannonball" filename="cannonball.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Capricorn" filename="Capricorn.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="caravan" filename="caravan.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="caretaker" filename="caretaker.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="celebrate" filename="celebrate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="cellulose" filename="cellulose.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="cement" filename="cement.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="certify" filename="certify.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="chairlift" filename="chairlift.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="chambermaid" filename="chambermaid.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="chatter" filename="chatter.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="checkup" filename="checkup.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Cherokee" filename="Cherokee.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Chicago" filename="Chicago.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="chisel" filename="chisel.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="choking" filename="choking.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="chopper" filename="chopper.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Christmas" filename="Christmas.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="clamshell" filename="clamshell.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="classic" filename="classic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="classroom" filename="classroom.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="cleanup" filename="cleanup.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="clergyman" filename="clergyman.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="clockwork" filename="clockwork.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="cobra" filename="cobra.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="coherence" filename="coherence.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="combustion" filename="combustion.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="commando" filename="commando.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="commence" filename="commence.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="company" filename="company.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="component" filename="component.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="concert" filename="concert.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="concurrent" filename="concurrent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="confidence" filename="confidence.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="conformist" filename="conformist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="congregate" filename="congregate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="consensus" filename="consensus.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="consulting" filename="consulting.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="corporate" filename="corporate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="corrosion" filename="corrosion.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="councilman" filename="councilman.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="cowbell" filename="cowbell.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="crackdown" filename="crackdown.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="cranky" filename="cranky.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="crossover" filename="crossover.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="crowfoot" filename="crowfoot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="crucial" filename="crucial.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="crucifix" filename="crucifix.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="crumpled" filename="crumpled.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="crusade" filename="crusade.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="cubic" filename="cubic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="cumbersome" filename="cumbersome.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="customer" filename="customer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Dakota" filename="Dakota.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="dashboard" filename="dashboard.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="deadbolt" filename="deadbolt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="decadence" filename="decadence.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="December" filename="December.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="decimal" filename="decimal.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="deckhand" filename="deckhand.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="designing" filename="designing.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="detector" filename="detector.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="detergent" filename="detergent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="determine" filename="determine.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="dictator" filename="dictator.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="dinosaur" filename="dinosaur.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="direction" filename="direction.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="disable" filename="disable.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="disbelief" filename="disbelief.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="disruptive" filename="disruptive.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="distortion" filename="distortion.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="document" filename="document.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="dogsled" filename="dogsled.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="dragnet" filename="dragnet.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="drainage" filename="drainage.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="dreadful" filename="dreadful.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="drifter" filename="drifter.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="dropper" filename="dropper.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="drumbeat" filename="drumbeat.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="drunken" filename="drunken.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Dupont" filename="Dupont.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="dwelling" filename="dwelling.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="eating" filename="eating.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="edict" filename="edict.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="egghead" filename="egghead.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="eightball" filename="eightball.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="embezzle" filename="embezzle.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="enchanting" filename="enchanting.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="endorse" filename="endorse.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="endow" filename="endow.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="enlist" filename="enlist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="enrollment" filename="enrollment.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="enterprise" filename="enterprise.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="equation" filename="equation.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="equipment" filename="equipment.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="erase" filename="erase.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="escapade" filename="escapade.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="escape" filename="escape.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Eskimo" filename="Eskimo.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="everyday" filename="everyday.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="examine" filename="examine.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="exceed" filename="exceed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="existence" filename="existence.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="exodus" filename="exodus.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="eyeglass" filename="eyeglass.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="eyetooth" filename="eyetooth.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="facial" filename="facial.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="fallout" filename="fallout.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="fascinate" filename="fascinate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="filament" filename="filament.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="finicky" filename="finicky.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="flagpole" filename="flagpole.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="flatfoot" filename="flatfoot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="flytrap" filename="flytrap.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="forever" filename="forever.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="fortitude" filename="fortitude.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="fracture" filename="fracture.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="framework" filename="framework.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="freedom" filename="freedom.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="frequency" filename="frequency.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="frighten" filename="frighten.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="gadgetry" filename="gadgetry.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Galveston" filename="Galveston.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="gazelle" filename="gazelle.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Geiger" filename="Geiger.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="getaway" filename="getaway.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="glitter" filename="glitter.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="glossary" filename="glossary.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="glucose" filename="glucose.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="goggles" filename="goggles.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="goldfish" filename="goldfish.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="gossamer" filename="gossamer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="graduate" filename="graduate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="gravity" filename="gravity.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="gremlin" filename="gremlin.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="guidance" filename="guidance.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="guitarist" filename="guitarist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="hamburger" filename="hamburger.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Hamilton" filename="Hamilton.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="hamlet" filename="hamlet.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="handiwork" filename="handiwork.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="hazardous" filename="hazardous.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="headwaters" filename="headwaters.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="hemisphere" filename="hemisphere.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="hesitate" filename="hesitate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="hideaway" filename="hideaway.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="highchair" filename="highchair.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="hockey" filename="hockey.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="holiness" filename="holiness.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="hurricane" filename="hurricane.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="hydraulic" filename="hydraulic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="impartial" filename="impartial.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="impetus" filename="impetus.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="inception" filename="inception.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="indigo" filename="indigo.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="indoors" filename="indoors.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="indulge" filename="indulge.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="inertia" filename="inertia.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="infancy" filename="infancy.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="inferno" filename="inferno.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="informant" filename="informant.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="insincere" filename="insincere.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="insurgent" filename="insurgent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="integrate" filename="integrate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="intention" filename="intention.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="inventive" filename="inventive.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="inverse" filename="inverse.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="involve" filename="involve.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="island" filename="island.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Istanbul" filename="Istanbul.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Jamaica" filename="Jamaica.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="jawbone" filename="jawbone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Jupiter" filename="Jupiter.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="keyboard" filename="keyboard.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="kickoff" filename="kickoff.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="kiwi" filename="kiwi.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="klaxon" filename="klaxon.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="leprosy" filename="leprosy.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="letterhead" filename="letterhead.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="liberty" filename="liberty.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="locale" filename="locale.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="lockup" filename="lockup.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="maritime" filename="maritime.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="matchmaker" filename="matchmaker.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="maverick" filename="maverick.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Medusa" filename="Medusa.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="megaton" filename="megaton.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="merit" filename="merit.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="microscope" filename="microscope.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="microwave" filename="microwave.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="midsummer" filename="midsummer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="millionaire" filename="millionaire.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="minnow" filename="minnow.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="miracle" filename="miracle.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="miser" filename="miser.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="misnomer" filename="misnomer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Mohawk" filename="Mohawk.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="molasses" filename="molasses.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="molecule" filename="molecule.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Montana" filename="Montana.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="monument" filename="monument.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="mosquito" filename="mosquito.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="mural" filename="mural.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="music" filename="music.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="narrative" filename="narrative.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="nebula" filename="nebula.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="necklace" filename="necklace.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Neptune" filename="Neptune.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="newborn" filename="newborn.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="newsletter" filename="newsletter.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="nightbird" filename="nightbird.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Norwegian" filename="Norwegian.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Oakland" filename="Oakland.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="obtuse" filename="obtuse.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="October" filename="October.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="offload" filename="offload.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Ohio" filename="Ohio.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="onlooker" filename="onlooker.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="optic" filename="optic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="opulent" filename="opulent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="orca" filename="orca.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Orlando" filename="Orlando.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="outfielder" filename="outfielder.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Pacific" filename="Pacific.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pandemic" filename="pandemic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Pandora" filename="Pandora.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="paperweight" filename="paperweight.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="paragon" filename="paragon.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="paragraph" filename="paragraph.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="paramount" filename="paramount.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="passenger" filename="passenger.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="payday" filename="payday.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="peachy" filename="peachy.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pedigree" filename="pedigree.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Pegasus" filename="Pegasus.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="penetrate" filename="penetrate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="perceptive" filename="perceptive.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="performance" filename="performance.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pharmacy" filename="pharmacy.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pheasant" filename="pheasant.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="phonetic" filename="phonetic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="photograph" filename="photograph.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="physique" filename="physique.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pioneer" filename="pioneer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="playhouse" filename="playhouse.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Pluto" filename="Pluto.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pocketful" filename="pocketful.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="politeness" filename="politeness.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="positive" filename="positive.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="potato" filename="potato.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="preclude" filename="preclude.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="prefer" filename="prefer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="preshrunk" filename="preshrunk.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="printer" filename="printer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="processor" filename="processor.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="provincial" filename="provincial.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="prowler" filename="prowler.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="proximate" filename="proximate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="puberty" filename="puberty.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="publisher" filename="publisher.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pupil" filename="pupil.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="puppy" filename="puppy.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pyramid" filename="pyramid.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="python" filename="python.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="quadrant" filename="quadrant.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="quantity" filename="quantity.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="quiver" filename="quiver.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="quota" filename="quota.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="racketeer" filename="racketeer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="ragtime" filename="ragtime.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="ratchet" filename="ratchet.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="rebellion" filename="rebellion.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="rebirth" filename="rebirth.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="recipe" filename="recipe.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="recover" filename="recover.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="reform" filename="reform.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="regain" filename="regain.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="reindeer" filename="reindeer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="rematch" filename="rematch.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="repay" filename="repay.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="repellent" filename="repellent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="replica" filename="replica.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="reproduce" filename="reproduce.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="resistor" filename="resistor.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="responsive" filename="responsive.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="retouch" filename="retouch.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="retraction" filename="retraction.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="retrieval" filename="retrieval.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="retrospect" filename="retrospect.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="revenge" filename="revenge.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="revenue" filename="revenue.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="revival" filename="revival.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="revolver" filename="revolver.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="reward" filename="reward.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="rhythm" filename="rhythm.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="ribcage" filename="ribcage.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="ringbolt" filename="ringbolt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="robust" filename="robust.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="rocker" filename="rocker.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="ruffled" filename="ruffled.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sailboat" filename="sailboat.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sandalwood" filename="sandalwood.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sardonic" filename="sardonic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Saturday" filename="Saturday.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="savagery" filename="savagery.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sawdust" filename="sawdust.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="scallion" filename="scallion.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="scavenger" filename="scavenger.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="scenic" filename="scenic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="scorecard" filename="scorecard.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Scotland" filename="Scotland.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="seabird" filename="seabird.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="select" filename="select.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sensation" filename="sensation.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sentence" filename="sentence.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="shadow" filename="shadow.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="shamrock" filename="shamrock.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="showgirl" filename="showgirl.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="skullcap" filename="skullcap.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="skydive" filename="skydive.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="slingshot" filename="slingshot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="slowdown" filename="slowdown.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="snapline" filename="snapline.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="snapshot" filename="snapshot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="snowcap" filename="snowcap.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="snowslide" filename="snowslide.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sociable" filename="sociable.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="solo" filename="solo.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="southward" filename="southward.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="souvenir" filename="souvenir.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="soybean" filename="soybean.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="spaniel" filename="spaniel.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="spearhead" filename="spearhead.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="specialist" filename="specialist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="speculate" filename="speculate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="spellbind" filename="spellbind.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="spheroid" filename="spheroid.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="spigot" filename="spigot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="spindle" filename="spindle.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="spyglass" filename="spyglass.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="stagehand" filename="stagehand.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="stagnate" filename="stagnate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="stairway" filename="stairway.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="standard" filename="standard.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="stapler" filename="stapler.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="steamship" filename="steamship.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sterling" filename="sterling.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="stethoscope" filename="stethoscope.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="stockman" filename="stockman.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="stopwatch" filename="stopwatch.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="stormy" filename="stormy.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="stupendous" filename="stupendous.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sugar" filename="sugar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="supportive" filename="supportive.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="surmount" filename="surmount.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="surrender" filename="surrender.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="suspense" filename="suspense.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="suspicious" filename="suspicious.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sweatband" filename="sweatband.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="swelter" filename="swelter.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="sympathy" filename="sympathy.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tactics" filename="tactics.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="talon" filename="talon.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tambourine" filename="tambourine.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tapeworm" filename="tapeworm.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="telephone" filename="telephone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tempest" filename="tempest.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="therapist" filename="therapist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tiger" filename="tiger.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tissue" filename="tissue.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tobacco" filename="tobacco.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tolerance" filename="tolerance.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tomorrow" filename="tomorrow.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tonic" filename="tonic.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="topmost" filename="topmost.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="torpedo" filename="torpedo.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tracker" filename="tracker.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tradition" filename="tradition.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="transit" filename="transit.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="trauma" filename="trauma.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="travesty" filename="travesty.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="treadmill" filename="treadmill.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Trojan" filename="Trojan.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="trombonist" filename="trombonist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="trouble" filename="trouble.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="truncated" filename="truncated.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tumor" filename="tumor.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tunnel" filename="tunnel.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tycoon" filename="tycoon.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="typewriter" filename="typewriter.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="ultimate" filename="ultimate.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="uncut" filename="uncut.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="undaunted" filename="undaunted.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="underfoot" filename="underfoot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="unearth" filename="unearth.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="unicorn" filename="unicorn.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="unify" filename="unify.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="universe" filename="universe.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="unravel" filename="unravel.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="unwind" filename="unwind.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="upcoming" filename="upcoming.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="uproot" filename="uproot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="upset" filename="upset.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="upshot" filename="upshot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="vacancy" filename="vacancy.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="vagabond" filename="vagabond.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="vapor" filename="vapor.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="vertigo" filename="vertigo.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="village" filename="village.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Virginia" filename="Virginia.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="virus" filename="virus.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="visitor" filename="visitor.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="vocalist" filename="vocalist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="voyager" filename="voyager.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Vulcan" filename="Vulcan.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="waffle" filename="waffle.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="wallet" filename="wallet.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="warranty" filename="warranty.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="watchword" filename="watchword.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Waterloo" filename="Waterloo.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="wayside" filename="wayside.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="whimsical" filename="whimsical.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Wichita" filename="Wichita.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="willow" filename="willow.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Wilmington" filename="Wilmington.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="woodlark" filename="woodlark.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Wyoming" filename="Wyoming.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="yesteryear" filename="yesteryear.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Yucatan" filename="Yucatan.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zulu" filename="Zulu.wav">
+      <prompt/>
+    </prompt>
+    <base256/>
+  </base256>
+  <conference>
+    <prompt phrase="&#x412;&#x44B; &#x435;&#x434;&#x438;&#x43D;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x44B;&#x439; &#x443;&#x447;&#x430;&#x441;&#x442;&#x43D;&#x438;&#x43A; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x438;" filename="conf-alone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x435;&#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x43F;&#x438;&#x43D;-&#x43A;&#x43E;&#x434;, &#x43F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x441;&#x43D;&#x43E;&#x432;&#x430;" filename="conf-bad-pin.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x438;, &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x438;&#x432; &#x43D;&#x430;&#x436;&#x430;&#x442;&#x438;&#x435;&#x43C; &#x43D;&#x430; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x440;&#x435;&#x448;&#x435;&#x442;&#x43A;&#x430;" filename="conf-enter_conf_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x41F;&#x418;&#x41D; &#x43A;&#x43E;&#x434; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x438;, &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x438;&#x432; &#x43D;&#x430;&#x436;&#x430;&#x442;&#x438;&#x435;&#x43C;  &#x43D;&#x430; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x440;&#x435;&#x448;&#x451;&#x442;&#x43A;&#x430;." filename="conf-enter_conf_pin.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E; &#x441;&#x432;&#x438;&#x434;&#x430;&#x43D;&#x438;&#x44F;" filename="conf-goodbye.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...&#x412;&#x43E;&#x448;&#x451;&#x43B; &#x432; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x44E;." filename="conf-has_joined.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...&#x41F;&#x43E;&#x43A;&#x438;&#x43D;&#x443;&#x43B; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x44E;." filename="conf-has_left.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x44F; &#x437;&#x430;&#x431;&#x43B;&#x43E;&#x43A;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x430;" filename="conf-is-locked.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x44F; &#x440;&#x430;&#x437;&#x431;&#x43B;&#x43E;&#x43A;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x430;" filename="conf-is-unlocked.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B; &#x431;&#x44B;&#x43B;&#x438; &#x43E;&#x442;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;&#x44B; &#x43E;&#x442; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x438;" filename="conf-kicked.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x42D;&#x442;&#x430; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x44F; &#x437;&#x430;&#x431;&#x43B;&#x43E;&#x43A;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x430;" filename="conf-locked.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x43C;&#x438;&#x43A;&#x440;&#x43E;&#x444;&#x43E;&#x43D; &#x43E;&#x442;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;" filename="conf-muted.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43F;&#x438;&#x43D;-&#x43A;&#x43E;&#x434; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x438;" filename="conf-pin.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x43C;&#x438;&#x43A;&#x440;&#x43E;&#x444;&#x43E;&#x43D; &#x432;&#x43A;&#x43B;&#x44E;&#x447;&#x451;&#x43D;" filename="conf-unmuted.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x43E; &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x432; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x44E;" filename="conf-welcome.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x43C;&#x438;&#x43A;&#x440;&#x43E;&#x444;&#x43E;&#x43D; &#x443;&#x436;&#x435; &#x432;&#x44B;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;." filename="conf-you_are_already_muted.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x417;&#x432;&#x443;&#x43A; &#x438; &#x43C;&#x438;&#x43A;&#x440;&#x43E;&#x444;&#x43E;&#x43D; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441; &#x432;&#x44B;&#x43A;&#x43B;&#x44E;&#x447;&#x435;&#x43D;&#x44B;." filename="conf-you_are_now_bidirectionally_muted.wav">
+      <prompt/>
+    </prompt>
+    <conference/>
+  </conference>
+  <currency>
+    <prompt phrase="&#x438;" filename="and.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x426;&#x435;&#x43D;&#x442;" filename="cent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x426;&#x435;&#x43D;&#x442;&#x430;" filename="centa.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x426;&#x435;&#x43D;&#x442;&#x43E;&#x432;" filename="centov.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x446;&#x435;&#x43D;&#x442;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439;" filename="central.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x426;&#x435;&#x43D;&#x442;&#x43E;&#x432; &#x432; &#x43C;&#x438;&#x43D;&#x443;&#x442;&#x443;" filename="cents-per-minute.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x426;&#x435;&#x43D;&#x442;&#x44B;" filename="cents.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x43B;&#x43B;&#x430;&#x440;" filename="dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x43B;&#x43B;&#x430;&#x440;&#x430;" filename="dollara.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x43B;&#x43B;&#x430;&#x440;&#x44B;" filename="dollari.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x43B;&#x43B;&#x430;&#x440;&#x43E;&#x432;" filename="dollars.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41A;&#x43E;&#x43F;&#x435;&#x439;&#x43A;&#x438;" filename="kopeck-i.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41A;&#x43E;&#x43F;&#x435;&#x439;&#x43A;&#x430;" filename="kopeck.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41A;&#x43E;&#x43F;&#x435;&#x435;&#x43A;" filename="kopecks.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43D;&#x443;&#x441;" filename="minus.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x442;&#x440;&#x438;&#x446;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x439;" filename="negative.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x420;&#x443;&#x431;&#x43B;&#x44F;" filename="ruble-a.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x420;&#x443;&#x431;&#x43B;&#x44C;" filename="ruble.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x420;&#x443;&#x431;&#x43B;&#x435;&#x439;" filename="rubles.wav">
+      <prompt/>
+    </prompt>
+    <currency/>
+  </currency>
+  <digits>
+    <prompt phrase="&#x43D;&#x43E;&#x43B;&#x44C;" filename="0.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x438;&#x43D;" filename="1.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x441;&#x44F;&#x442;&#x44C;" filename="10.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x442;&#x43E;" filename="100.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="11.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x435;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="12.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="13.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="14.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="15.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="16.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="17.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="18.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="19.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x43D;&#x430;" filename="1f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x43D;&#x43E;" filename="1n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x43D;&#x43E;&#x433;&#x43E;" filename="1x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x43D;&#x43E;&#x439;" filename="1xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x430;" filename="2.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="20.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x435;&#x441;&#x442;&#x438;" filename="200.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x435;" filename="2f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x430;" filename="2n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;" filename="3.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x434;&#x446;&#x430;&#x442;&#x44C;" filename="30.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x441;&#x442;&#x430;" filename="300.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x435;" filename="4.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x440;&#x43E;&#x43A;" filename="40.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x435;&#x441;&#x442;&#x430;" filename="400.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x44C;" filename="5.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x44C;&#x434;&#x435;&#x441;&#x44F;&#x442;" filename="50.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x44C;&#x441;&#x43E;&#x442;" filename="500.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x44C;" filename="6.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x44C;&#x434;&#x435;&#x441;&#x44F;&#x442;" filename="60.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x44C;&#x441;&#x43E;&#x442;" filename="600.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x44C;" filename="7.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x44C;&#x434;&#x435;&#x441;&#x44F;&#x442;" filename="70.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x44C;&#x441;&#x43E;&#x442;" filename="700.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x44C;" filename="8.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x44C;&#x434;&#x435;&#x441;&#x44F;&#x442;" filename="80.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x44C;&#x441;&#x43E;&#x442;" filename="800.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x44C;" filename="9.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x43D;&#x43E;&#x441;&#x442;&#x43E;" filename="90.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x44C;&#x441;&#x43E;&#x442;" filename="900.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x43E;&#x447;&#x43A;&#x430;" filename="dot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x443;&#x43B;&#x435;&#x432;&#x430;&#x44F;" filename="h-0f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x443;&#x43B;&#x435;&#x432;&#x43E;&#x439;" filename="h-0m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x443;&#x43B;&#x435;&#x432;&#x43E;&#x435;" filename="h-0n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x443;&#x43B;&#x435;&#x432;&#x43E;&#x433;&#x43E;" filename="h-0x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x442;&#x430;&#x44F;" filename="h-100f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x442;&#x44B;&#x439;" filename="h-100m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x442;&#x43E;&#x435;" filename="h-100n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x442;&#x43E;&#x433;&#x43E;" filename="h-100x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x442;&#x430;" filename="h-100xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x441;&#x44F;&#x442;&#x430;&#x44F;" filename="h-10f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x441;&#x44F;&#x442;&#x44B;&#x439;" filename="h-10m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x435;" filename="h-10n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x433;&#x43E;" filename="h-10x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x441;&#x44F;&#x442;&#x438;" filename="h-10xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-11f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-11m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-11n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-11x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-11xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x435;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-12f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x435;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-12m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x435;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-12n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x435;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-12x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x435;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-12xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-13f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-13m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-13n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-13x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-13xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-14f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-14m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-14n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-14x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-14xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-15f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-15m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-15n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-15x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-15xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-16f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-16m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-16n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-16x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-16xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-17f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-17m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-17n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-17x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-17xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-18f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-18m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-18n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-18x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-18xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-19f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-19m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-19n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-19x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x43D;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-19xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x435;&#x440;&#x432;&#x430;&#x44F;" filename="h-1f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x435;&#x440;&#x432;&#x44B;&#x439;" filename="h-1m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x435;&#x440;&#x432;&#x43E;&#x435;" filename="h-1n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x435;&#x440;&#x432;&#x43E;&#x433;&#x43E;" filename="h-1x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x434;&#x43D;&#x43E;&#x439;" filename="h-1xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x443;&#x445;&#x441;&#x43E;&#x442;&#x430;&#x44F;" filename="h-200f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x443;&#x445;&#x441;&#x43E;&#x442;&#x44B;&#x439;" filename="h-200m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x443;&#x445;&#x441;&#x43E;&#x442;&#x43E;&#x435;" filename="h-200n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x443;&#x445;&#x441;&#x43E;&#x442;&#x43E;&#x433;&#x43E;" filename="h-200x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x443;&#x445;&#x441;&#x43E;&#x442;" filename="h-200xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x430;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-20f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x430;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-20m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-20n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x430;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-20x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-20xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x442;&#x43E;&#x440;&#x430;&#x44F;" filename="h-2f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x442;&#x43E;&#x440;&#x43E;&#x439;" filename="h-2m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x442;&#x43E;&#x440;&#x43E;&#x435;" filename="h-2n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x442;&#x43E;&#x440;&#x43E;&#x433;&#x43E;" filename="h-2x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x432;&#x443;&#x445;" filename="h-2xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;&#x430;&#x44F;" filename="h-300f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;&#x44B;&#x439;" filename="h-300m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;&#x43E;&#x435;" filename="h-300n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;&#x43E;&#x433;&#x43E;" filename="h-300x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;" filename="h-300xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x434;&#x446;&#x430;&#x442;&#x430;&#x44F;" filename="h-30f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x434;&#x446;&#x430;&#x442;&#x44B;&#x439;" filename="h-30m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x435;" filename="h-30n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x434;&#x446;&#x430;&#x442;&#x43E;&#x433;&#x43E;" filename="h-30x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x438;&#x434;&#x446;&#x430;&#x442;&#x438;" filename="h-30xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x435;&#x442;&#x44C;&#x44F;" filename="h-3f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x435;&#x442;&#x438;&#x439;" filename="h-3m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x442;&#x440;&#x435;&#x442;&#x44C;&#x435;" filename="h-3n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x435;&#x442;&#x44C;&#x435;&#x433;&#x43E;" filename="h-3x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x440;&#x451;&#x445;" filename="h-3xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;&#x430;&#x44F;" filename="h-400f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;&#x44B;&#x439;" filename="h-400m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;&#x43E;&#x435;" filename="h-400n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;&#x43E;&#x433;&#x43E;" filename="h-400x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x451;&#x445;&#x441;&#x43E;&#x442;" filename="h-400xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x440;&#x43E;&#x43A;&#x43E;&#x432;&#x430;&#x44F;" filename="h-40f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x440;&#x43E;&#x43A;&#x43E;&#x432;&#x43E;&#x439;" filename="h-40m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x440;&#x43E;&#x43A;&#x43E;&#x432;&#x43E;&#x435;" filename="h-40n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x440;&#x43E;&#x43A;&#x43E;&#x432;&#x43E;&#x433;&#x43E;" filename="h-40x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x440;&#x43E;&#x43A;&#x430;" filename="h-40xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x432;&#x451;&#x440;&#x442;&#x430;&#x44F;" filename="h-4f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x432;&#x451;&#x440;&#x442;&#x44B;&#x439;" filename="h-4m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x432;&#x451;&#x440;&#x442;&#x43E;&#x435;" filename="h-4n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x432;&#x451;&#x440;&#x442;&#x43E;&#x433;&#x43E;" filename="h-4x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x44B;&#x440;&#x451;&#x445;" filename="h-4xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x430;&#x44F;" filename="h-500f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x44B;&#x439;" filename="h-500m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x43E;&#x435;" filename="h-500n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x43E;&#x433;&#x43E;" filename="h-500x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x441;&#x43E;&#x442;" filename="h-500xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x430;&#x44F;" filename="h-50f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x44B;&#x439;" filename="h-50m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x435;" filename="h-50n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x433;&#x43E;" filename="h-50x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x438;" filename="h-50xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x430;&#x44F;" filename="h-5f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x44B;&#x439;" filename="h-5m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x43E;&#x435;" filename="h-5n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x43E;&#x433;&#x43E;" filename="h-5x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x438;" filename="h-5xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x430;&#x44F;" filename="h-600f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x44B;&#x439;" filename="h-600m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x43E;&#x435;" filename="h-600n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x43E;&#x433;&#x43E;" filename="h-600x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x441;&#x43E;&#x442;" filename="h-600xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x430;&#x44F;" filename="h-60f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x44B;&#x439;" filename="h-60m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x435;" filename="h-60n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x433;&#x43E;" filename="h-60x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x438;" filename="h-60xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x430;&#x44F;" filename="h-6f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x43E;&#x439;" filename="h-6m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x43E;&#x435;" filename="h-6n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x43E;&#x433;&#x43E;" filename="h-6x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x435;&#x441;&#x442;&#x438;" filename="h-6xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x441;&#x43E;&#x442;&#x430;&#x44F;" filename="h-700f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x441;&#x43E;&#x442;&#x44B;&#x439;" filename="h-700m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x441;&#x43E;&#x442;&#x43E;&#x435;" filename="h-700n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x441;&#x43E;&#x442;&#x43E;&#x433;&#x43E;" filename="h-700x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x441;&#x43E;&#x442;" filename="h-700xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x430;&#x44F;" filename="h-70f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x44B;&#x439;" filename="h-70m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x435;" filename="h-70n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x433;&#x43E;" filename="h-70x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x438;" filename="h-70xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x434;&#x44C;&#x43C;&#x430;&#x44F;" filename="h-7f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x434;&#x44C;&#x43C;&#x43E;&#x439;" filename="h-7m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x434;&#x44C;&#x43C;&#x43E;&#x435;" filename="h-7n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x434;&#x44C;&#x43C;&#x43E;&#x433;&#x43E;" filename="h-7x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x435;&#x43C;&#x438;" filename="h-7xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x438;&#x441;&#x43E;&#x442;&#x430;&#x44F;" filename="h-800f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x438;&#x441;&#x43E;&#x442;&#x44B;&#x439;" filename="h-800m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x438;&#x441;&#x43E;&#x442;&#x43E;&#x435;" filename="h-800n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x438;&#x441;&#x43E;&#x442;&#x43E;&#x433;&#x43E;" filename="h-800x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x438;&#x441;&#x43E;&#x442;" filename="h-800xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x430;&#x44F;" filename="h-80f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x44B;&#x439;" filename="h-80m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x435;" filename="h-80n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x435;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x43E;&#x433;&#x43E;" filename="h-80x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x438;&#x434;&#x435;&#x441;&#x44F;&#x442;&#x438;" filename="h-80xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x430;&#x44F;" filename="h-8f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x43E;&#x439;" filename="h-8m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x43E;&#x435;" filename="h-8n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x43E;&#x433;&#x43E;" filename="h-8x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x44C;&#x43C;&#x438;" filename="h-8xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x430;&#x44F;" filename="h-900f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x44B;&#x439;" filename="h-900m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x438;&#x441;&#x43E;&#x442;&#x43E;&#x435;" filename="h-900n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x43E;&#x441;&#x43E;&#x442;&#x43E;&#x433;&#x43E;" filename="h-900x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x438;&#x441;&#x43E;&#x442;" filename="h-900xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x43D;&#x43E;&#x441;&#x442;&#x430;&#x44F;" filename="h-90f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x43D;&#x43E;&#x441;&#x442;&#x44B;&#x439;" filename="h-90m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x43D;&#x43E;&#x441;&#x442;&#x43E;&#x435;" filename="h-90n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x43D;&#x43E;&#x441;&#x442;&#x43E;&#x433;&#x43E;" filename="h-90x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x43D;&#x43E;&#x441;&#x442;&#x430;" filename="h-90xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x430;&#x44F;" filename="h-9f.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x44B;&#x439;" filename="h-9m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x43E;&#x435;" filename="h-9n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x43E;&#x433;&#x43E;" filename="h-9x.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x438;" filename="h-9xx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;&#x43D;&#x430;&#x44F;" filename="h-millionf.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x439;" filename="h-millionm.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;&#x43D;&#x43E;&#x435;" filename="h-millionn.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;&#x43D;&#x43E;&#x433;&#x43E;" filename="h-millionx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x445;" filename="h-millionxxx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x44B;&#x441;&#x44F;&#x447;&#x43D;&#x430;&#x44F;" filename="h-thousandf.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x44B;&#x441;&#x44F;&#x447;&#x43D;&#x44B;&#x439;" filename="h-thousandm.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x44B;&#x441;&#x44F;&#x447;&#x43D;&#x43E;&#x435;" filename="h-thousandn.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x44B;&#x441;&#x44F;&#x447;&#x43D;&#x43E;&#x433;&#x43E;" filename="h-thousandx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x44B;&#x441;&#x44F;&#x447;&#x43D;&#x44B;&#x445;" filename="h-thousandxxx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;&#x430;" filename="million-a.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;" filename="million.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;&#x43E;&#x432;" filename="millions.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x43E;&#x447;&#x43A;&#x430;" filename="period.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x43E;&#x447;&#x43A;&#x430;" filename="point.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x420;&#x435;&#x448;&#x451;&#x442;&#x43A;&#x430;" filename="pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x417;&#x432;&#x451;&#x437;&#x434;&#x43E;&#x447;&#x43A;&#x430;" filename="star.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x44B;&#x441;&#x44F;&#x447;&#x430;" filename="thousand.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x44B;&#x441;&#x44F;&#x447;&#x438;" filename="thousands-i.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x44B;&#x441;&#x44F;&#x447;" filename="thousands.wav">
+      <prompt/>
+    </prompt>
+    <digits/>
+  </digits>
+  <directory>
+    <prompt phrase="&#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440;" filename="dir-at_extension.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43F;&#x435;&#x440;&#x432;&#x44B;&#x435; &#x431;&#x443;&#x43A;&#x432;&#x44B; &#x438;&#x43C;&#x435;&#x43D;&#x438; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x430;" filename="dir-enter_person.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43F;&#x435;&#x440;&#x432;&#x44B;&#x435; &#x431;&#x443;&#x43A;&#x432;&#x44B; &#x438;&#x43C;&#x435;&#x43D;&#x438; &#x438;&#x43B;&#x438; &#x444;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x438; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x430;" filename="dir-enter_person_first_or_last.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x418;&#x43C;&#x435;&#x43D;&#x438;" filename="dir-first_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x432;&#x44B;&#x431;&#x43E;&#x440;&#x430; &#x441;&#x43B;&#x435;&#x434;&#x443;&#x44E;&#x449;&#x435;&#x439; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438;" filename="dir-for_next.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x432;&#x44B;&#x431;&#x43E;&#x440;&#x430; &#x43F;&#x440;&#x435;&#x434;&#x44B;&#x434;&#x443;&#x449;&#x435;&#x439; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438;" filename="dir-for_prev.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x424;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x438;" filename="dir-last_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x431;&#x443;&#x43A;&#x432; &#x438;&#x43C;&#x435;&#x43D;&#x438; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x430;" filename="dir-letters_of_person_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E; &#x412;&#x430;&#x448;&#x435;&#x43C;&#x443; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x443; &#x43D;&#x438;&#x447;&#x435;&#x433;&#x43E; &#x43D;&#x435; &#x43D;&#x430;&#x439;&#x434;&#x435;&#x43D;&#x43E;" filename="dir-no_match_entry.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x435;&#x442; &#x440;&#x435;&#x437;&#x443;&#x43B;&#x44C;&#x442;&#x430;&#x442;&#x43E;&#x432; &#x43F;&#x43E; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x443;." filename="dir-no_matching_results.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x435;&#x442; &#x431;&#x43E;&#x43B;&#x44C;&#x448;&#x435; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43D;&#x442;&#x43E;&#x432;" filename="dir-no_more_results.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x441;&#x43D;&#x43E;&#x432;&#x430;" filename="dir-please_try_again.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435;" filename="dir-press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x440;&#x435;&#x437;&#x443;&#x43B;&#x44C;&#x442;&#x430;&#x442;&#x44B; &#x412;&#x430;&#x448;&#x435;&#x433;&#x43E; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x430;" filename="dir-result_match.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x43E;&#x43C;&#x435;&#x440; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43D;&#x442;&#x430;" filename="dir-result_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x43C; &#x43D;&#x435;&#x43E;&#x431;&#x445;&#x43E;&#x434;&#x438;&#x43C;&#x43E; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x442;&#x44C; &#x43C;&#x438;&#x43D;&#x438;&#x43C;&#x443;&#x43C; ..." filename="dir-specify_mininum.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430; &#x43D;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x43F;&#x43E;&#x438;&#x441;&#x43A;&#x430;" filename="dir-start_new_search.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x418;&#x441;&#x43A;&#x430;&#x442;&#x44C; &#x43F;&#x43E; ..." filename="dir-to_search_by.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x432;&#x44B;&#x431;&#x43E;&#x440;&#x430; &#x44D;&#x442;&#x43E;&#x439; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438;" filename="dir-to_select_entry.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E; &#x412;&#x430;&#x448;&#x435;&#x43C;&#x443; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x443; &#x43D;&#x430;&#x439;&#x434;&#x435;&#x43D;&#x43E; &#x441;&#x43B;&#x438;&#x448;&#x43A;&#x43E;&#x43C; &#x43C;&#x43D;&#x43E;&#x433;&#x43E; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43D;&#x442;&#x43E;&#x432;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x443;&#x442;&#x43E;&#x447;&#x43D;&#x438;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;" filename="dir-too_many_result.wav">
+      <prompt/>
+    </prompt>
+    <directory/>
+  </directory>
+  <ivr>
+    <prompt phrase="&#x427;&#x442;&#x43E; &#x431;&#x44B; &#x43F;&#x440;&#x438;&#x43D;&#x44F;&#x442;&#x44C; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 1, &#x447;&#x442;&#x43E;&#x431;&#x44B; &#x43E;&#x442;&#x43A;&#x43B;&#x43E;&#x43D;&#x438;&#x442;&#x44C; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 2. &#x414;&#x43B;&#x44F; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43A;&#x438; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x43E;&#x439; &#x43F;&#x43E;&#x447;&#x442;&#x44B; &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 3" filename="ivr-accept_reject_voicemail.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x441;&#x442;&#x430;&#x442;&#x43E;&#x43A; &#x43D;&#x430; &#x441;&#x447;&#x451;&#x442;&#x435; &#x441;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x44F;&#x435;&#x442;..." filename="ivr-account_balance_is.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x43E;&#x43C;&#x435;&#x440; &#x441;&#x447;&#x435;&#x442;&#x430;" filename="ivr-account_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x43B;&#x44E;&#x431;&#x443;&#x44E; &#x434;&#x440;&#x443;&#x433;&#x443;&#x44E; &#x446;&#x438;&#x444;&#x440;&#x443;..." filename="ivr-any_other_digit.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x430;&#x447;&#x430;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C;" filename="ivr-begin_recording.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B;&#x437;&#x43E;&#x432;" filename="ivr-call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x431;&#x44B;&#x43B; &#x43F;&#x435;&#x440;&#x435;&#x432;&#x435;&#x434;&#x435;&#x43D;" filename="ivr-call_being_transferred.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x435;&#x440;&#x435;&#x430;&#x434;&#x440;&#x435;&#x441;&#x430;&#x446;&#x438;&#x44F; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x43E;&#x432; &#x431;&#x44B;&#x43B;&#x430; &#x43E;&#x442;&#x43C;&#x435;&#x43D;&#x435;&#x43D;&#x430;" filename="ivr-call_forwarding_has_been_cancelled.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x435;&#x440;&#x435;&#x430;&#x434;&#x440;&#x435;&#x441;&#x430;&#x446;&#x438;&#x44F; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x43E;&#x432; &#x431;&#x44B;&#x43B;&#x430; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x435;&#x43D;&#x430;" filename="ivr-call_forwarding_has_been_set.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x423; &#x432;&#x430;&#x441; &#x435;&#x441;&#x442;&#x44C; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x43E;&#x442;..." filename="ivr-call_from.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43E;&#x435;&#x434;&#x438;&#x43D;&#x435;&#x43D;&#x438;&#x435; &#x441; &#x432;&#x44B;&#x437;&#x44B;&#x432;&#x430;&#x44E;&#x449;&#x438;&#x43C; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x43E;&#x43C;" filename="ivr-connect_to_caller.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x426;&#x435;&#x43D;&#x442;&#x440; &#x43E;&#x431;&#x441;&#x43B;&#x443;&#x436;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x43A;&#x43B;&#x438;&#x435;&#x43D;&#x442;&#x43E;&#x432;" filename="ivr-customer_service.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x420;&#x435;&#x436;&#x438;&#x43C; &#x43D;&#x435; &#x431;&#x435;&#x441;&#x43F;&#x43E;&#x43A;&#x43E;&#x438;&#x442;&#x44C; &#x431;&#x44B;&#x43B; &#x43E;&#x442;&#x43C;&#x435;&#x43D;&#x451;&#x43D;." filename="ivr-dnd_cancelled.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43D;&#x430;&#x441;&#x43B;&#x430;&#x436;&#x434;&#x430;&#x439;&#x442;&#x435;&#x441;&#x44C; &#x43C;&#x443;&#x437;&#x44B;&#x43A;&#x43E;&#x439;, &#x43F;&#x43E;&#x43A;&#x430; &#x412;&#x430;&#x448; &#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x43F;&#x435;&#x440;&#x435;&#x432;&#x43E;&#x434;&#x438;&#x442;&#x441;&#x44F;" filename="ivr-enjoy_music_while_transfer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x430; &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x438;&#x432; &#x43D;&#x430;&#x436;&#x430;&#x442;&#x438;&#x435;&#x43C; &#x43D;&#x430; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x440;&#x435;&#x448;&#x451;&#x442;&#x43A;&#x430;" filename="ivr-enter_ext.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x415;&#x441;&#x43B;&#x438; &#x412;&#x430;&#x43C; &#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x435;&#x43D; &#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x432;&#x44B;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x43C;&#x43E;&#x433;&#x43E; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x430;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430; &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x435;&#x433;&#x43E; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441;" filename="ivr-enter_ext_pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43F;&#x435;&#x440;&#x432;&#x44B;&#x435; &#x431;&#x443;&#x43A;&#x432;&#x44B; &#x438;&#x43C;&#x435;&#x43D;&#x438; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x430;." filename="ivr-enter_letters_first_or_last_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43F;&#x435;&#x440;&#x432;&#x44B;&#x435; &#x431;&#x443;&#x43A;&#x432;&#x44B; &#x444;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x438; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x430;" filename="ivr-enter_letters_last_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430; &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x43E;&#x447;&#x435;&#x440;&#x435;&#x434;&#x438;,&#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x438;&#x432; &#x43D;&#x430;&#x436;&#x430;&#x442;&#x438;&#x435;&#x43C; &#x43D;&#x430; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x440;&#x435;&#x448;&#x435;&#x442;&#x43A;&#x430;." filename="ivr-enter_queue_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448;&#x435; &#x432;&#x440;&#x435;&#x43C;&#x44F; &#x43E;&#x436;&#x438;&#x434;&#x430;&#x43D;&#x438;&#x44F; &#x441;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442; &#x43F;&#x440;&#x438;&#x43C;&#x435;&#x440;&#x43D;&#x43E; ..." filename="ivr-estimated_hold_time.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43D;&#x443;&#x442;&#x440;&#x435;&#x43D;&#x43D;&#x438;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440;..." filename="ivr-extension_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;&#xA0;&#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435;&#xA0;&#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439;&#xA0;&#x43D;&#x43E;&#x43C;&#x435;&#x440;&#xA0;&#x437;&#x430;&#xA0;&#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x43C;&#xA0;&#x432;&#x44B;&#xA0;&#x445;&#x43E;&#x442;&#x438;&#x442;&#x435;&#xA0;&#x437;&#x430;&#x43A;&#x440;&#x435;&#x43F;&#x438;&#x442;&#x44C; &#x44D;&#x442;&#x43E;&#x442;&#xA0;&#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#xA0;&#x438;&#xA0;&#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435;&#xA0;&#x440;&#x435;&#x448;&#x451;&#x442;&#x43A;&#x443;" filename="ivr-extension_to_provision_this_phone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...&#x444;&#x430;&#x439;&#x43B;..." filename="ivr-file.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...&#x424;&#x430;&#x439;&#x43B;&#x44B;..." filename="ivr-files-.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41A;&#x43E;&#x433;&#x434;&#x430; &#x437;&#x430;&#x43A;&#x43E;&#x43D;&#x447;&#x438;&#x442;&#x435; &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x440;&#x435;&#x448;&#x451;&#x442;&#x43A;&#x430;." filename="ivr-finished_pound_hash_key.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430; &#x438;&#x43C;&#x44F;" filename="ivr-first_name_first.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...&#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x438;&#x432; &#x43D;&#x430;&#x436;&#x430;&#x442;&#x438;&#x435;&#x43C; &#x43D;&#x430; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x440;&#x435;&#x448;&#x435;&#x442;&#x43A;&#x430;." filename="ivr-followed_by_pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F;..." filename="ivr-for.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x441;&#x43F;&#x440;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x438;&#x43A;&#x430;, &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435;..." filename="ivr-for_directory_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x44D;&#x442;&#x43E;&#x433;&#x43E; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x430;" filename="ivr-for_this_person.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x43E; &#x437;&#x430; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;. &#x415;&#x441;&#x43B;&#x438; &#x432;&#x44B; &#x437;&#x43D;&#x430;&#x435;&#x442;&#x435; &#x432;&#x43D;&#x443;&#x442;&#x440;&#x435;&#x43D;&#x43D;&#x438;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#x430;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x435;&#x433;&#x43E; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441; &#x438;&#x43B;&#x438; &#x43D;&#x430;&#x431;&#x440;&#x430;&#x442;&#x44C; &#x434;&#x435;&#x432;&#x44F;&#x442;&#x44C; &#x434;&#x43B;&#x44F; &#x43A;&#x430;&#x442;&#x430;&#x43B;&#x43E;&#x433;&#x430;." filename="ivr-generic_greeting.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x44B;&#x439; &#x434;&#x435;&#x43D;&#x44C;." filename="ivr-good_afternoon.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x44B;&#x439; &#x432;&#x435;&#x447;&#x435;&#x440;." filename="ivr-good_evening.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x43E;&#x435; &#x443;&#x442;&#x440;&#x43E;." filename="ivr-good_morning.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...&#x432;&#x44B;&#x437;&#x432;&#x430;&#x43B; &#x430;&#x432;&#x430;&#x440;&#x438;&#x439;&#x43D;&#x44B;&#x435; &#x441;&#x43B;&#x443;&#x436;&#x431;&#x44B;" filename="ivr-has_called_emergency_services.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...&#x43F;&#x43E;&#x43A;&#x438;&#x43D;&#x443;&#x43B; &#x437;&#x434;&#x430;&#x43D;&#x438;&#x435;." filename="ivr-has_left_the_building.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x417;&#x434;&#x440;&#x430;&#x432;&#x441;&#x442;&#x432;&#x443;&#x439;&#x442;&#x435;" filename="ivr-hello.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43E;&#x441;&#x442;&#x430;&#x432;&#x430;&#x439;&#x442;&#x435;&#x441;&#x44C; &#x43D;&#x430; &#x43B;&#x438;&#x43D;&#x438;&#x438;, &#x438;&#x434;&#x435;&#x442; &#x441;&#x43E;&#x435;&#x434;&#x438;&#x43D;&#x435;&#x43D;&#x438;&#x435;" filename="ivr-hold_connect_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x415;&#x441;&#x43B;&#x438; &#x44D;&#x442;&#x43E; &#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x43E; &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x43E;&#x434;&#x438;&#x43D;. &#x415;&#x441;&#x43B;&#x438; &#x43D;&#x435;&#x442;, &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 2" filename="ivr-if_correct_one_if_not_two.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x415;&#x441;&#x43B;&#x438; &#x44D;&#x442;&#x43E; &#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x43E;, &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435;..." filename="ivr-if_correct_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x415;&#x441;&#x43B;&#x438; &#x43D;&#x435;&#x442;, &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435;..." filename="ivr-if_not_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x418;&#x437;&#x432;&#x438;&#x43D;&#x438;&#x442;&#x435;" filename="ivr-im_sorry.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x430; &#x43B;&#x438;&#x43D;&#x438;&#x438;" filename="ivr-in_line.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x445;&#x43E;&#x434;&#x44F;&#x449;&#x438;&#x439; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;" filename="ivr-incoming_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430; &#x444;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x44F;" filename="ivr-last_name_first.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x435;&#x43D;&#x44C;&#x448;&#x435; &#x447;&#x435;&#x43C;..." filename="ivr-less_than.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x411;&#x43E;&#x43B;&#x44C;&#x448;&#x435; &#x447;&#x435;&#x43C;..." filename="ivr-more_than.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x435;&#x442;&#x443; &#x432;&#x44B;&#x437;&#x43E;&#x432;&#x43E;&#x432; &#x43E;&#x436;&#x438;&#x434;&#x430;&#x44E;&#x449;&#x438;&#x445; &#x432; &#x44D;&#x442;&#x43E;&#x439; &#x43E;&#x447;&#x435;&#x440;&#x435;&#x434;&#x438;." filename="ivr-no_calls_waiting_in_queue.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x42D;&#x442;&#x43E; &#x43C;&#x435;&#x43D;&#x44E; &#x43D;&#x435; &#x441;&#x43E;&#x434;&#x435;&#x440;&#x436;&#x438;&#x442; &#x43D;&#x438;&#x43A;&#x430;&#x43A;&#x438;&#x445; &#x44D;&#x43B;&#x435;&#x43C;&#x435;&#x43D;&#x442;&#x43E;&#x432;. &#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43E;&#x431;&#x440;&#x430;&#x442;&#x438;&#x442;&#x435;&#x441;&#x44C; &#x43A; &#x430;&#x434;&#x43C;&#x438;&#x43D;&#x438;&#x441;&#x442;&#x440;&#x430;&#x442;&#x43E;&#x440;&#x443;." filename="ivr-no_menu_items.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x435;" filename="ivr-not.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x43E;&#x43C;&#x435;&#x440;." filename="ivr-number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x434;&#x43E;&#x436;&#x434;&#x438;&#x442;&#x435;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;." filename="ivr-one_moment_please.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x43E;&#x434;&#x438;&#x43D; &#x434;&#x43B;&#x44F; &#x414;&#x410;. &#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x434;&#x432;&#x430; &#x434;&#x43B;&#x44F; &#x41D;&#x415;&#x422;." filename="ivr-one_yes_two_no.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x43F;&#x435;&#x440;&#x430;&#x442;&#x43E;&#x440;" filename="ivr-operator.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x438;&#x43B;&#x438;" filename="ivr-or.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x437;&#x434;&#x440;&#x430;&#x432;&#x43B;&#x44F;&#x435;&#x43C;! &#x42D;&#x442;&#x43E;&#x442; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x435;&#x43D; &#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x43E; &#x438; &#x442;&#x435;&#x43F;&#x435;&#x440;&#x44C; &#x43C;&#x43E;&#x433;&#x443;&#x442; &#x431;&#x44B;&#x442;&#x44C; &#x443;&#x441;&#x442;&#x430;&#x43D;&#x43E;&#x432;&#x43B;&#x435;&#x43D; &#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44E;." filename="ivr-phone_is_configured_properly.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x42D;&#x442;&#x43E;&#x442; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; &#x43D;&#x435; &#x43F;&#x440;&#x435;&#x434;&#x43D;&#x430;&#x437;&#x43D;&#x430;&#x447;&#x435;&#x43D; &#x434;&#x43B;&#x44F; &#x441;&#x43E;&#x432;&#x435;&#x440;&#x448;&#x435;&#x43D;&#x438;&#x44F; &#x432;&#x43D;&#x435;&#x448;&#x43D;&#x438;&#x445; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x43E;&#x432;." filename="ivr-phone_is_unassigned.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x42D;&#x442;&#x43E;&#x442; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; &#x43D;&#x435; &#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x43E; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x435;&#x43D;." filename="ivr-phone_not_configured.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448;&#xA0;&#x43F;&#x438;&#x43D; &#x43A;&#x43E;&#x434;&#xA0;&#x438;&#x43B;&#x438;&#xA0;&#x43D;&#x43E;&#x43C;&#x435;&#x440;&#xA0;&#x43D;&#x435;&#xA0;&#x432;&#x435;&#x440;&#x43D;&#x44B;" filename="ivr-pin_or_extension_is-invalid.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;" filename="ivr-please.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x439;&#x441;&#x442;&#x430;,&#xA0;&#x43D;&#x430;&#x431;&#x435;&#x440;&#x438;&#x442;&#x435;&#xA0;&#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439;&#xA0;&#x43D;&#x43E;&#x43C;&#x435;&#x440;&#xA0;&#x438;&#xA0;&#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435;&#xA0;&#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443;&#xA0;&#x440;&#x435;&#x448;&#x435;&#x442;&#x43A;&#x430;" filename="ivr-please_enter_extension_followed_by_pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;&#xA0;&#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435;&#xA0;&#x412;&#x430;&#x448;&#xA0;&#x43F;&#x438;&#x43D;&#x43A;&#x43E;&#x434;&#xA0;&#x438;&#xA0;&#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435;&#xA0;&#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443;&#xA0;&#x440;&#x435;&#x448;&#x451;&#x442;&#x43A;&#x430;" filename="ivr-please_enter_pin_followed_by_pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430; &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435;..." filename="ivr-please_enter_the.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#x430;" filename="ivr-please_enter_the_phone_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;&#xA0;&#x43F;&#x43E;&#x432;&#x442;&#x43E;&#x440;&#x438;&#x442;&#x435;&#xA0;&#x412;&#x430;&#x448;&#xA0;&#x43F;&#x438;&#x43D;&#xA0;&#x43A;&#x43E;&#x434;&#xA0;&#x434;&#x43B;&#x44F;&#xA0;&#x43F;&#x43E;&#x434;&#x442;&#x432;&#x435;&#x440;&#x436;&#x434;&#x435;&#x43D;&#x438;&#x44F;" filename="ivr-please_reenter_your_pin.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43F;&#x435;&#x440;&#x435;&#x437;&#x432;&#x43E;&#x43D;&#x438;&#x442;&#x435; &#x43D;&#x430;&#x43C; &#x432; &#x2026;" filename="ivr-please_return_our_call_at.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x443;&#x43A;&#x430;&#x436;&#x438;&#x442;&#x435; &#x432;&#x430;&#x448;&#x435; &#x438;&#x43C;&#x44F; &#x438; &#x43F;&#x440;&#x438;&#x447;&#x438;&#x43D;&#x443; &#x432;&#x430;&#x448;&#x435;&#x433;&#x43E; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x430;." filename="ivr-please_state_your_name_and_reason_for_calling.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x441;&#x43D;&#x43E;&#x432;&#x430;" filename="ivr-please_try_again.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 1 &#x434;&#x43B;&#x44F; Q &#x438;&#x43B;&#x438; Z." filename="ivr-press_one_q_or_z.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B; &#x437;&#x430;&#x43A;&#x440;&#x435;&#x43F;&#x43B;&#x44F;&#x435;&#x442;&#x435; &#x44D;&#x442;&#x43E;&#x442; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; &#x437;&#x430; &#x412;&#x430;&#x448;&#x438;&#x43C; &#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x43C; &#x43D;&#x43E;&#x43C;&#x435;&#x440;&#x43E;&#x43C;" filename="ivr-provision_phone_permanently_to_extension.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x43E;. &#x412;&#x430;&#x448;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; &#x431;&#x44B;&#x43B;&#x43E; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x430;&#x43D;&#x43E;." filename="ivr-recording_saved.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43E;&#x442;&#x43D;&#x43E;&#x441;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x43E; &#x43D;&#x43E;&#x43C;&#x435;&#x440;&#x430; &#x441;&#x441;&#x44B;&#x43B;&#x43A;&#x438;" filename="ivr-regarding_reference_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F;&#xA0;&#x440;&#x435;&#x433;&#x438;&#x441;&#x442;&#x440;&#x430;&#x446;&#x438;&#x438;&#xA0;&#x43D;&#x430;&#xA0;clueCon&#xA0;,&#xA0;&#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;&#xA0;&#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435;&#xA0;.." filename="ivr-register_for_cluecon.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x442;&#x434;&#x435;&#x43B; &#x43F;&#x440;&#x43E;&#x434;&#x430;&#x436;" filename="ivr-sales.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x42D;&#x442;&#x43E; &#x43F;&#x440;&#x438;&#x43C;&#x435;&#x440; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x43F;&#x43E;&#x434;&#x43C;&#x435;&#x43D;&#x44E;" filename="ivr-sample_submenu.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 1 &#x447;&#x442;&#x43E; &#x431;&#x44B; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x438;&#x442;&#x44C; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;. &#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 2 &#x447;&#x442;&#x43E; &#x431;&#x44B; &#x43F;&#x440;&#x43E;&#x441;&#x43B;&#x443;&#x448;&#x430;&#x442;&#x44C; &#x412;&#x430;&#x448;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;. &#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 3 &#x447;&#x442;&#x43E; &#x431;&#x44B; &#x43F;&#x435;&#x440;&#x435;&#x437;&#x430;&#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C;" filename="ivr-save_review_record.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43F;&#x440;&#x435;&#x434;&#x441;&#x442;&#x430;&#x432;&#x44C;&#x442;&#x435;&#x441;&#x44C; &#x43F;&#x43E;&#x441;&#x43B;&#x435; &#x441;&#x438;&#x433;&#x43D;&#x430;&#x43B;&#x430;" filename="ivr-say_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x435;&#x440;&#x435;&#x43D;&#x430;&#x43F;&#x440;&#x430;&#x432;&#x438;&#x442;&#x44C; &#x43D;&#x430; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x443;&#x44E; &#x43F;&#x43E;&#x447;&#x442;&#x443;" filename="ivr-send_to_voicemail.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x440;&#x430;&#x437;&#x433;&#x43E;&#x432;&#x43E;&#x440;&#x430; &#x441; &#x43F;&#x440;&#x435;&#x434;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442;&#x435;&#x43B;&#x435;&#x43C; &#x43F;&#x43E; &#x43E;&#x431;&#x441;&#x43B;&#x443;&#x436;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x44E; &#x43A;&#x43B;&#x438;&#x435;&#x43D;&#x442;&#x43E;&#x432;" filename="ivr-speak_to_a_customer_service_representative.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43D;&#x430;&#x437;&#x43E;&#x432;&#x438;&#x442;&#x435; &#x438;&#x43C;&#x44F; &#x441;&#x43E;&#x442;&#x440;&#x443;&#x434;&#x43D;&#x438;&#x43A;&#x430;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x43C;&#x443; &#x43F;&#x44B;&#x442;&#x430;&#x435;&#x442;&#x435;&#x441;&#x44C; &#x434;&#x43E;&#x437;&#x432;&#x43E;&#x43D;&#x438;&#x442;&#x44C;&#x441;&#x44F;" filename="ivr-spell_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43E;&#x441;&#x442;&#x430;&#x432;&#x430;&#x439;&#x442;&#x435;&#x441;&#x44C; &#x43D;&#x430; &#x43B;&#x438;&#x43D;&#x438;&#x438;. &#x412;&#x430;&#x448; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x431;&#x443;&#x434;&#x435;&#x442; &#x43F;&#x440;&#x438;&#x43D;&#x44F;&#x442; &#x43D;&#x435;&#x43C;&#x435;&#x434;&#x43B;&#x435;&#x43D;&#x43D;&#x43E;" filename="ivr-stay_on_line_call_answered_momentarily.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43F;&#x440;&#x438;&#x43D;&#x44F;&#x442;&#x44C; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;." filename="ivr-take_a_message.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x442;&#x434;&#x435;&#x43B; &#x442;&#x435;&#x445;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x439; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x438;" filename="ivr-technical_support.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x43E;." filename="ivr-thank_you.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x43E; &#x437;&#x430; &#x412;&#x430;&#x448; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;" filename="ivr-thank_you_for_calling.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x43E; &#x412;&#x430;&#x43C; &#x437;&#x430; &#x43E;&#x436;&#x438;&#x434;&#x430;&#x43D;&#x438;&#x435;" filename="ivr-thank_you_for_holding.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x435;&#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x437;&#x43D;&#x430;&#x447;&#x435;&#x43D;&#x438;&#x435;" filename="ivr-that_was_an_invalid_entry.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x42D;&#x442;&#x43E;&#x442; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x43E;&#x442;" filename="ivr-this_is_a_call_from.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x44D;&#x442;&#x43E; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x43E;&#x435; &#x43C;&#x435;&#x43D;&#x44E; &#x43F;&#x43E;&#x437;&#x432;&#x43E;&#x43B;&#x438;&#x442; &#x412;&#x430;&#x43C; &#x43F;&#x440;&#x43E;&#x442;&#x435;&#x441;&#x442;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x43D;&#x435;&#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x435; &#x444;&#x443;&#x43D;&#x43A;&#x446;&#x438;&#x438;" filename="ivr-this_ivr_will_let_you_test_features.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x43E;, &#x44D;&#x442;&#x43E;&#x442; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441; &#x43F;&#x435;&#x440;&#x435;&#x437;&#x430;&#x433;&#x440;&#x443;&#x437;&#x438;&#x442;&#x441;&#x44F;" filename="ivr-this_phone_will_now_reboot.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x442;&#x43E;&#x433;&#x43E; &#x447;&#x442;&#x43E;&#x431;&#x44B; &#x43D;&#x430;&#x431;&#x440;&#x430;&#x442;&#x44C; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x44E; &#x424;&#x421; ___" filename="ivr-to_call_the_freeswitch_conference.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x44D;&#x445;&#x43E;-&#x442;&#x435;&#x441;&#x442;&#x430; &#x432; &#x424;&#x421;" filename="ivr-to_do_a_freeswitch_echo_test.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x44D;&#x445;&#x43E;-&#x442;&#x435;&#x441;&#x442;&#x430; free world dialed" filename="ivr-to_do_a_fwd_echo_test.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x447;&#x442;&#x43E;&#x431;&#x44B; &#x43F;&#x440;&#x43E;&#x441;&#x43B;&#x443;&#x448;&#x430;&#x442;&#x44C; &#x43F;&#x440;&#x438;&#x43C;&#x435;&#x440; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x43F;&#x43E;&#x434;&#x43C;&#x435;&#x43D;&#x44E;" filename="ivr-to_hear_sample_submenu.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x442;&#x43E;&#x431;&#x44B; &#x443;&#x441;&#x43B;&#x44B;&#x448;&#x430;&#x442;&#x44C; &#x43A;&#x440;&#x438;&#x447;&#x430;&#x449;&#x438;&#x445; &#x43E;&#x431;&#x435;&#x437;&#x44C;&#x44F;&#x43D;" filename="ivr-to_hear_screaming_monkeys.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x43F;&#x440;&#x43E;&#x441;&#x43B;&#x443;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x441;&#x43F;&#x438;&#x441;&#x43A;&#x430; &#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x439; &#x432; &#x440;&#x435;&#x436;&#x438;&#x43C;&#x435; &#x43E;&#x436;&#x438;&#x434;&#x430;&#x43D;&#x438;&#x44F;" filename="ivr-to_listen_to_moh.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x432;&#x445;&#x43E;&#x434;&#x430;" filename="ivr-to_log_in.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x430;" filename="ivr-to_log_out.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x43F;&#x43E;&#x432;&#x442;&#x43E;&#x440;&#x430; &#x44D;&#x442;&#x438;&#x445; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x43E;&#x432;" filename="ivr-to_repeat_these_options.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x432;&#x43E;&#x437;&#x432;&#x440;&#x430;&#x442;&#x430; &#x43A; &#x43F;&#x440;&#x435;&#x434;&#x44B;&#x434;&#x443;&#x449;&#x435;&#x43C;&#x443; &#x43C;&#x435;&#x43D;&#x44E;" filename="ivr-to_return_to_previous_menu.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x441;&#x43E;&#x435;&#x434;&#x438;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x441; &#x43E;&#x43F;&#x435;&#x440;&#x430;&#x442;&#x43E;&#x440;&#x43E;&#x43C;" filename="ivr-to_speak_with_an_operator.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x435; &#x43D;&#x435; &#x443;&#x434;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x438;&#x442;&#x44C; &#x412;&#x430;&#x448; &#x437;&#x432;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x439; &#x444;&#x430;&#x439;&#x43B; &#x432; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43C;&#x435;&#x43D;&#x442;. &#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x437;&#x436;&#x435;" filename="ivr-unable_save.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x430; &#x43D;&#x435; &#x441;&#x43C;&#x43E;&#x433;&#x43B;&#x430; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x438;&#x442;&#x44C; &#x412;&#x430;&#x448;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;. &#x41F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x437;&#x434;&#x43D;&#x435;&#x435;." filename="ivr-unable_save_old.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x418;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x44F; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x430;&#x442;&#x443;&#x440;&#x443; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#x430;&#x2026;" filename="ivr-using_telephone_keypad.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x43E; &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x43E;&#x432;&#x430;&#x442;&#x44C;." filename="ivr-welcome.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x43E; &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x432;..." filename="ivr-welcome_to.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x43E; &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x432; FreeSwitch, &#x431;&#x443;&#x434;&#x443;&#x449;&#x435;&#x435; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#x438;&#x438;" filename="ivr-welcome_to_freeswitch.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B;&#xA0;&#x437;&#x430;&#x43A;&#x440;&#x435;&#x43F;&#x43B;&#x44F;&#x435;&#x442;&#x435;&#xA0;&#x44D;&#x442;&#x43E;&#x442;&#xA0;&#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#xA0;&#x437;&#x430;&#xA0;&#x412;&#x430;&#x448;&#x435;&#x439; &#x443;&#x447;&#x451;&#x442;&#x43D;&#x43E;&#x439; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C;&#x44E;" filename="ivr-you_are_about_to_provision_this_phone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B; &#x432;&#x43E;&#x448;&#x43B;&#x438;" filename="ivr-you_are_now_logged_in.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B; &#x432;&#x44B;&#x448;&#x43B;&#x438;" filename="ivr-you_are_now_logged_out.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x43D;&#x43E;&#x43C;&#x435;&#x440; ..." filename="ivr-you_are_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B; &#x432;&#x43E;&#x448;&#x43B;&#x438;..." filename="ivr-you_entered.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B;&#xA0;&#x43D;&#x430;&#x431;&#x440;&#x430;&#x43B;&#x438;&#xA0;&#x43D;&#x435;&#x441;&#x443;&#x449;&#x435;&#x441;&#x442;&#x432;&#x443;&#x44E;&#x449;&#x438;&#x439;&#xA0;&#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439;&#xA0;&#x43D;&#x43E;&#x43C;&#x435;&#x440;" filename="ivr-you_have_dialed_an_invalid_extension.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B; &#x43C;&#x43E;&#x436;&#x435;&#x442;&#x435;" filename="ivr-you_may.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B; &#x43C;&#x43E;&#x436;&#x435;&#x442;&#x435; &#x432;&#x44B;&#x439;&#x442;&#x438; &#x432; &#x43B;&#x44E;&#x431;&#x43E;&#x435; &#x432;&#x440;&#x435;&#x43C;&#x44F; &#x43F;&#x43E;&#x432;&#x435;&#x441;&#x438;&#x432; &#x442;&#x440;&#x443;&#x431;&#x43A;&#x443;" filename="ivr-you_may_exit_by_hanging_up.wav">
+      <prompt/>
+    </prompt>
+    <ivr/>
+  </ivr>
+  <misc>
+    <prompt phrase="&#x42D;&#x442;&#x43E;&#x442; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x448;&#x438;&#x444;&#x440;&#x443;&#x435;&#x442;&#x441;&#x44F;" filename="call_secured.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x440;&#x43E;&#x438;&#x437;&#x43E;&#x448;&#x43B;&#x430; &#x43E;&#x448;&#x438;&#x431;&#x43A;&#x430;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430; &#x43E;&#x431;&#x440;&#x430;&#x442;&#x438;&#x442;&#x435;&#x441;&#x44C; &#x43A; &#x430;&#x434;&#x43C;&#x438;&#x43D;&#x438;&#x441;&#x442;&#x440;&#x430;&#x442;&#x43E;&#x440;&#x443;" filename="error.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x430;&#x435;&#x43C;&#x44B;&#x439; &#x43D;&#x430;&#x436;&#x430;&#x442;&#x438;&#x435;&#x43C; &#x43D;&#x430; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x440;&#x435;&#x448;&#x435;&#x442;&#x43A;&#x430;" filename="followed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x415;&#x441;&#x43B;&#x438; &#x432;&#x44B; &#x44D;&#x442;&#x43E;&#x442; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x435;&#x43A;" filename="if_you_are_this_person.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x415;&#x441;&#x43B;&#x438; &#x432;&#x44B; &#x445;&#x43E;&#x442;&#x438;&#x442;&#x435;" filename="if_you_would_like_to.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x431;&#x44B;&#x43B; &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x451;&#x43D;" filename="misc-your_call_has_been_terminated.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x431;&#x443;&#x434;&#x435;&#x442; &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x435;&#x43D; &#x447;&#x435;&#x440;&#x435;&#x437;" filename="misc-your_call_will_be_terminated_in.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x440;&#x435;&#x434;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x44C;&#x442;&#x435; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x441;&#x441;&#x44B;&#x43B;&#x43A;&#x438;" filename="provide_reference_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x43D;&#x430; &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x439; &#x445;&#x43E;&#x442;&#x438;&#x442;&#x435; &#x43F;&#x435;&#x440;&#x435;&#x432;&#x435;&#x441;&#x442;&#x438; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;" filename="transfer1.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x435;&#x440;&#x435;&#x432;&#x43E;&#x434;" filename="transfer2.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x44B; &#x43F;&#x44B;&#x442;&#x430;&#x435;&#x43C;&#x441;&#x44F; &#x441;&#x432;&#x44F;&#x437;&#x430;&#x442;&#x44C;&#x441;&#x44F;..." filename="we_are_trying_to_reach.wav">
+      <prompt/>
+    </prompt>
+    <misc/>
+  </misc>
+  <phonetic-ascii>
+    <prompt phrase="Delta" filename="100.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Echo" filename="101.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Foxtrot" filename="102.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Golf" filename="103.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Hotel" filename="104.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="India" filename="105.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Juliet" filename="106.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Kilo" filename="107.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Lima" filename="108.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Mike" filename="109.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="November" filename="110.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Oscar" filename="111.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Papa" filename="112.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Quebec" filename="113.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Romeo" filename="114.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Sierra" filename="115.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Tango" filename="116.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Unifor" filename="117.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Victor" filename="118.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Whiskey" filename="119.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Xray" filename="120.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Yankee" filename="121.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zulu" filename="122.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x440;&#x43E;&#x431;&#x435;&#x43B;" filename="32.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x420;&#x435;&#x448;&#x451;&#x442;&#x43A;&#x430;" filename="35.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x43E;&#x447;&#x43A;&#x430;" filename="46.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Alpha" filename="97.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Bravo" filename="98.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Charlie" filename="99.wav">
+      <prompt/>
+    </prompt>
+    <phonetic-ascii/>
+  </phonetic-ascii>
+  <time>
+    <prompt phrase="&#x434;&#x43E; &#x43F;&#x43E;&#x43B;&#x443;&#x434;&#x43D;&#x44F;" filename="a-m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;" filename="at.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x43E;&#x441;&#x43A;&#x440;&#x435;&#x441;&#x435;&#x43D;&#x44C;&#x435;" filename="day-0.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x43D;&#x435;&#x434;&#x435;&#x43B;&#x44C;&#x43D;&#x438;&#x43A;" filename="day-1.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x442;&#x43E;&#x440;&#x43D;&#x438;&#x43A;" filename="day-2.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x440;&#x435;&#x434;&#x430;" filename="day-3.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x435;&#x442;&#x432;&#x435;&#x440;&#x433;" filename="day-4.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x44F;&#x442;&#x43D;&#x438;&#x446;&#x430;" filename="day-5.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x443;&#x431;&#x431;&#x43E;&#x442;&#x430;" filename="day-6.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x413;&#x43E;&#x434;&#x430;" filename="h-year.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x447;&#x430;&#x441;" filename="hour.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x447;&#x430;&#x441;&#x430;" filename="hours-a.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x447;&#x430;&#x441;&#x43E;&#x432;" filename="hours.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43C;&#x438;&#x43D;&#x443;&#x442;&#x430;" filename="minute.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41C;&#x438;&#x43D;&#x443;&#x442;&#x44B;" filename="minutes-i.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43C;&#x438;&#x43D;&#x443;&#x442;" filename="minutes.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x44F;&#x43D;&#x432;&#x430;&#x440;&#x44F;" filename="mon-0.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F;" filename="mon-1.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x43E;&#x44F;&#x431;&#x440;&#x44F;" filename="mon-10.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x435;&#x43A;&#x430;&#x431;&#x440;&#x44F;" filename="mon-11.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43C;&#x430;&#x440;&#x442;&#x430;" filename="mon-2.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x430;&#x43F;&#x440;&#x435;&#x43B;&#x44F;" filename="mon-3.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43C;&#x430;&#x44F;" filename="mon-4.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x438;&#x44E;&#x43D;&#x44F;" filename="mon-5.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x438;&#x44E;&#x43B;&#x44F;" filename="mon-6.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x430;&#x432;&#x433;&#x443;&#x441;&#x442;&#x430;" filename="mon-7.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x435;&#x43D;&#x442;&#x44F;&#x431;&#x440;&#x44F;" filename="mon-8.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43E;&#x43A;&#x442;&#x44F;&#x431;&#x440;&#x44F;" filename="mon-9.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43F;&#x43E;&#x441;&#x43B;&#x435; &#x43F;&#x43E;&#x43B;&#x443;&#x434;&#x43D;&#x44F;" filename="p-m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x435;&#x43A;&#x443;&#x43D;&#x434;&#x430;" filename="second.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x435;&#x43A;&#x443;&#x43D;&#x434;&#x44B;" filename="seconds-i.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x435;&#x43A;&#x443;&#x43D;&#x434;" filename="seconds.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x435;&#x433;&#x43E;&#x434;&#x43D;&#x44F;" filename="today.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x437;&#x430;&#x432;&#x442;&#x440;&#x430;" filename="tomorrow.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x413;&#x43E;&#x434;" filename="year.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x413;&#x43E;&#x434;&#x43E;&#x432;" filename="years.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41B;&#x435;&#x442;" filename="yearsx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x432;&#x447;&#x435;&#x440;&#x430;" filename="yesterday.wav">
+      <prompt/>
+    </prompt>
+    <time/>
+  </time>
+  <users>
+    <prompt phrase="&#x424;&#x430;&#x43A;&#x441; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x435;&#x442; &#x432; &#x430;&#x432;&#x442;&#x43E;&#x43C;&#x430;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x43C; &#x440;&#x435;&#x436;&#x438;&#x43C;&#x435; " filename="auto_fax.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x410;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442; &#x441; &#x43D;&#x43E;&#x43C;&#x435;&#x440;&#x43E;&#x43C; ... &#x43D;&#x435; &#x43E;&#x442;&#x432;&#x435;&#x447;&#x430;&#x435;&#x442;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;..." filename="no_answer_please.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x441;&#x442;&#x430;&#x440;&#x442;, &#x434;&#x43B;&#x44F; &#x43F;&#x440;&#x438;&#x43D;&#x44F;&#x442;&#x438;&#x44F; &#x444;&#x430;&#x43A;&#x441;&#x430;." filename="press_start_to_receive_a_fax.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x441;&#x442;&#x430;&#x440;&#x442;, &#x434;&#x43B;&#x44F; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43A;&#x438; &#x444;&#x430;&#x43A;&#x441;&#x430;." filename="press_start_to_send_a_fax.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x418;&#x437;&#x432;&#x438;&#x43D;&#x438;&#x442;&#x435;, &#x441;&#x435;&#x439;&#x447;&#x430;&#x441; &#x432;&#x441;&#x435; &#x43B;&#x438;&#x43D;&#x438;&#x438; &#x437;&#x430;&#x43D;&#x44F;&#x442;&#x44B;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43F;&#x435;&#x440;&#x435;&#x437;&#x432;&#x43E;&#x43D;&#x438;&#x442;&#x435; &#x43F;&#x43E;&#x437;&#x436;&#x435;" filename="sorry_call_back_later.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x418;&#x437;&#x432;&#x438;&#x43D;&#x438;&#x442;&#x435; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441; &#x43C;&#x44B; &#x43D;&#x435; &#x43C;&#x43E;&#x436;&#x435;&#x43C; &#x43F;&#x440;&#x438;&#x43D;&#x44F;&#x442;&#x44C; &#x432;&#x430;&#x448; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43F;&#x435;&#x440;&#x435;&#x437;&#x432;&#x43E;&#x43D;&#x438;&#x442;&#x435; &#x447;&#x435;&#x440;&#x435;&#x437; &#x43D;&#x435;&#x441;&#x43A;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x43C;&#x438;&#x43D;&#x443;&#x442;" filename="sorry_call_back_later2.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x430; &#x43D;&#x430; &#x43C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x441;&#x43E;&#x442;&#x440;&#x443;&#x434;&#x43D;&#x438;&#x43A;&#x430;" filename="to_call_the_mobile_employee.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x441;&#x43E;&#x435;&#x434;&#x438;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x441; &#x441;&#x435;&#x43A;&#x440;&#x435;&#x442;&#x430;&#x440;&#x435;&#x43C;." filename="to_connect_secretary.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x447;&#x442;&#x43E;&#x431;&#x44B; &#x43E;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442;&#x44C; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x43E;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;..." filename="to_leave_a_voice_message.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43A;&#x438; &#x444;&#x430;&#x43A;&#x441;&#x430;" filename="to_send_a_fax.wav">
+      <prompt/>
+    </prompt>
+    <users/>
+  </users>
+  <voicemail>
+    <prompt phrase="&#x421;&#x43B;&#x438;&#x448;&#x43A;&#x43E;&#x43C; &#x43C;&#x43D;&#x43E;&#x433;&#x43E; &#x43D;&#x435;&#x443;&#x434;&#x430;&#x447;&#x43D;&#x44B;&#x445; &#x43F;&#x43E;&#x43F;&#x44B;&#x442;&#x43E;&#x43A;" filename="vm-abort.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x434;&#x43E;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x43E;&#x432;" filename="vm-advanced.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43B;&#x44F; &#x438;&#x437;&#x43C;&#x435;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x412;&#x430;&#x448;&#x435;&#x433;&#x43E; &#x43F;&#x430;&#x440;&#x43E;&#x43B;&#x44F;" filename="vm-change_password.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x432;&#x44B;&#x431;&#x43E;&#x440;&#x430; &#x43F;&#x440;&#x438;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x438;&#x44F;" filename="vm-choose_greeting.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B;&#x431;&#x435;&#x440;&#x438;&#x442;&#x435; &#x43F;&#x440;&#x438;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x438;&#x435; &#x43E;&#x442; &#x435;&#x434;&#x438;&#x43D;&#x438;&#x446;&#x44B; &#x434;&#x43E; &#x434;&#x435;&#x432;&#x44F;&#x442;&#x438;" filename="vm-choose_greeting_choose.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x435;&#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x437;&#x43D;&#x430;&#x447;&#x435;&#x43D;&#x438;&#x435;" filename="vm-choose_greeting_fail.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x43F;&#x440;&#x43E;&#x434;&#x43E;&#x43B;&#x436;&#x435;&#x43D;&#x438;&#x44F;" filename="vm-continue.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x443;&#x434;&#x430;&#x43B;&#x438;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C;" filename="vm-delete_recording.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x443;&#x434;&#x430;&#x43B;&#x435;&#x43D;&#x43E;" filename="vm-deleted.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D; &#x43D;&#x430; &#x44D;&#x43B;&#x435;&#x43A;&#x442;&#x440;&#x43E;&#x43D;&#x43D;&#x443;&#x44E; &#x43F;&#x43E;&#x447;&#x442;&#x443;" filename="vm-emailed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x441;&#x432;&#x43E;&#x439; &#x438;&#x434;&#x435;&#x43D;&#x442;&#x438;&#x444;&#x438;&#x43A;&#x430;&#x442;&#x43E;&#x440;, &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x438;&#x432; &#x43D;&#x430;&#x436;&#x430;&#x442;&#x438;&#x435;&#x43C; &#x43D;&#x430; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443;" filename="vm-enter_id.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x441;&#x432;&#x43E;&#x439; &#x43F;&#x430;&#x440;&#x43E;&#x43B;&#x44C; , &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x438;&#x432; &#x43D;&#x430;&#x436;&#x430;&#x442;&#x438;&#x435;&#x43C; &#x43D;&#x430; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443;" filename="vm-enter_pass.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x435;&#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440;" filename="vm-fail_auth.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43E;&#x431;&#x430;&#x432;&#x438;&#x442;&#x44C; &#x432;&#x441;&#x442;&#x443;&#x43F;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x43A; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x44E;" filename="vm-forward_add_intro.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x434;&#x43B;&#x44F; &#x43E;&#x442;&#x43F;&#x440;&#x430;&#x432;&#x43A;&#x438; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x44F;" filename="vm-forward_enter_ext.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43F;&#x435;&#x440;&#x435;&#x441;&#x43B;&#x430;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C; &#x43D;&#x430; &#x44D;&#x43B;&#x435;&#x43A;&#x442;&#x440;&#x43E;&#x43D;&#x43D;&#x443;&#x44E; &#x43F;&#x43E;&#x447;&#x442;&#x443;" filename="vm-forward_to_email.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E; &#x441;&#x432;&#x438;&#x434;&#x430;&#x43D;&#x438;&#x44F;" filename="vm-goodbye.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43F;&#x440;&#x438;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x438;&#x435;" filename="vm-greeting.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x43E; &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x432; &#x412;&#x430;&#x448;&#x443; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x443;&#x44E; &#x43F;&#x43E;&#x447;&#x442;&#x443;" filename="vm-hello.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x432; &#x43F;&#x430;&#x43F;&#x43A;&#x435; &#x412;&#x445;&#x43E;&#x434;&#x44F;&#x449;&#x438;&#x435;" filename="vm-in_folder.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x447;&#x442;&#x43E;&#x431;&#x44B; &#x43F;&#x440;&#x43E;&#x441;&#x43B;&#x443;&#x448;&#x430;&#x442;&#x44C; &#x43D;&#x43E;&#x432;&#x44B;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x44F;" filename="vm-listen_new.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x43F;&#x440;&#x43E;&#x441;&#x43B;&#x443;&#x448;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x435;&#x43D;&#x43D;&#x44B;&#x445; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x439;" filename="vm-listen_saved.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43F;&#x440;&#x43E;&#x441;&#x43B;&#x443;&#x448;&#x430;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C;" filename="vm-listen_to_recording.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43F;&#x440;&#x43E;&#x441;&#x43B;&#x443;&#x448;&#x430;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C; &#x441;&#x43D;&#x43E;&#x432;&#x430;" filename="vm-listen_to_recording_again.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x447;&#x442;&#x43E;&#x432;&#x44B;&#x439; &#x44F;&#x449;&#x438;&#x43A; &#x43F;&#x435;&#x440;&#x435;&#x43F;&#x43E;&#x43B;&#x43D;&#x435;&#x43D;. &#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430; &#x43F;&#x435;&#x440;&#x435;&#x437;&#x432;&#x43E;&#x43D;&#x438;&#x442;&#x435; &#x43F;&#x43E;&#x437;&#x436;&#x435;" filename="vm-mailbox_full.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x43F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x430; &#x432; &#x433;&#x43B;&#x430;&#x432;&#x43D;&#x43E;&#x435; &#x43C;&#x435;&#x43D;&#x44E;" filename="vm-main_menu.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43F;&#x43E;&#x43C;&#x435;&#x442;&#x438;&#x442;&#x44C; &#x44D;&#x442;&#x43E; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; &#x43A;&#x430;&#x43A; &#x441;&#x440;&#x43E;&#x447;&#x43D;&#x43E;&#x435;" filename="vm-mark-urgent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x43C;&#x435;&#x447;&#x435;&#x43D;&#x43E; &#x43A;&#x430;&#x43A; &#x432;&#x430;&#x436;&#x43D;&#x43E;&#x435;" filename="vm-marked-urgent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;" filename="vm-message.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; &#x43D;&#x43E;&#x43C;&#x435;&#x440;" filename="vm-message_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x44F;" filename="vm-messages.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x439;" filename="vm-messagex.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x43E;&#x432;&#x43E;&#x435;" filename="vm-new.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x43E;&#x432;&#x44B;&#x445;" filename="vm-newx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x435; &#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x435;&#x43D;" filename="vm-not_available.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x44B;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x43C;&#x44B;&#x439; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441; &#x43D;&#x435;&#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x435;&#x43D; &#x438; &#x43D;&#x435; &#x438;&#x43C;&#x435;&#x435;&#x442; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x43E;&#x439; &#x43F;&#x43E;&#x447;&#x442;&#x44B;" filename="vm-not_available_no_voicemail.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x410;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442; &#x441; &#x43D;&#x43E;&#x43C;&#x435;&#x440;&#x43E;&#x43C;" filename="vm-person.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x435; &#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x43D;&#x43E;" filename="vm-play_greeting.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435;" filename="vm-press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438; &#x43F;&#x440;&#x438;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x438;&#x44F;" filename="vm-record_greeting.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x441;&#x43B;&#x435; &#x441;&#x438;&#x433;&#x43D;&#x430;&#x43B;&#x430;, &#x437;&#x430;&#x43F;&#x438;&#x448;&#x438;&#x442;&#x435; &#x441;&#x432;&#x43E;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;, &#x434;&#x43B;&#x44F; &#x43E;&#x43A;&#x43E;&#x43D;&#x447;&#x430;&#x43D;&#x438;&#x44F; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438; &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x43B;&#x44E;&#x431;&#x443;&#x44E; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x438;&#x43B;&#x438; &#x43F;&#x435;&#x440;&#x435;&#x441;&#x442;&#x430;&#x43D;&#x44C;&#x442;&#x435; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44C;" filename="vm-record_message.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x441;&#x43B;&#x435; &#x441;&#x438;&#x433;&#x43D;&#x430;&#x43B;&#x430;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x438;&#x442;&#x435; &#x441;&#x432;&#x43E;&#x435; &#x438;&#x43C;&#x44F;, &#x434;&#x43B;&#x44F; &#x43E;&#x43A;&#x43E;&#x43D;&#x447;&#x430;&#x43D;&#x438;&#x44F; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438; &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x43B;&#x44E;&#x431;&#x443;&#x44E; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x438;&#x43B;&#x438; &#x43F;&#x435;&#x440;&#x435;&#x441;&#x442;&#x430;&#x43D;&#x44C;&#x442;&#x435; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44C;." filename="vm-record_name1.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438; &#x412;&#x430;&#x448;&#x435;&#x433;&#x43E; &#x438;&#x43C;&#x435;&#x43D;&#x438;" filename="vm-record_name2.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x437;&#x430;&#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C;" filename="vm-rerecord.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x432;&#x43E;&#x437;&#x432;&#x440;&#x430;&#x442;&#x430; &#x432;&#x44B;&#x437;&#x43E;&#x432;&#x430;" filename="vm-return_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x447;&#x442;&#x43E; &#x431;&#x44B; &#x43F;&#x435;&#x440;&#x435;&#x437;&#x432;&#x43E;&#x43D;&#x438;&#x442;&#x44C;" filename="vm-return_call_1.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x43D;&#x43E;&#x435;" filename="vm-save.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x438;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C;" filename="vm-save_recording.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x435;&#x43D;&#x43E;" filename="vm-saved.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x451;&#x43D;&#x43D;&#x44B;&#x445;" filename="vm-savedx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x432;&#x44B;&#x431;&#x440;&#x430;&#x43D;&#x43E;" filename="vm-selected.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x442;&#x43E;&#x433;&#x43E; &#x447;&#x442;&#x43E; &#x431;&#x44B; &#x43F;&#x43E;&#x441;&#x43B;&#x430;&#x442;&#x44C; &#x441;&#x43E;&#x431;&#x43E;&#x449;&#x435;&#x43D;&#x438;&#x435;" filename="vm-send_message_now.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x435;&#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440;" filename="vm-that_was_an_invalid_ext.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x434;&#x43B;&#x44F; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x430;" filename="vm-to_exit.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43F;&#x435;&#x440;&#x435;&#x441;&#x43B;&#x430;&#x442;&#x44C;&#xA0;&#x44D;&#x442;&#x43E;&#xA0;&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;" filename="vm-to_forward.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x441;&#x43B;&#x435; &#x441;&#x438;&#x433;&#x43D;&#x430;&#x43B;&#x430;, &#x437;&#x430;&#x43F;&#x438;&#x448;&#x438;&#x442;&#x435; &#x441;&#x432;&#x43E;&#x435; &#x43F;&#x440;&#x438;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x438;&#x435;, &#x434;&#x43B;&#x44F; &#x43E;&#x43A;&#x43E;&#x43D;&#x447;&#x430;&#x43D;&#x438;&#x44F; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438; &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x43B;&#x44E;&#x431;&#x443;&#x44E; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x438;&#x43B;&#x438; &#x43F;&#x435;&#x440;&#x435;&#x441;&#x442;&#x430;&#x43D;&#x44C;&#x442;&#x435; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x44C;" filename="vm-to_record_greeting.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448;&#x430; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C; &#x43A;&#x43E;&#x440;&#x43E;&#x447;&#x435; &#x43C;&#x438;&#x43D;&#x438;&#x43C;&#x430;&#x43B;&#x44C;&#x43D;&#x43E; &#x434;&#x43E;&#x43F;&#x443;&#x441;&#x442;&#x438;&#x43C;&#x43E;&#x439; &#x434;&#x43B;&#x438;&#x43D;&#x43D;&#x44B;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430; &#x43F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x441;&#x43D;&#x43E;&#x432;&#x430;" filename="vm-too-small.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x43F;&#x435;&#x440;&#x441;&#x43E;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440;, &#x43E;&#x43D; &#x436;&#x435; &#x43F;&#x438;&#x43D;, &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x435;&#x442;&#x441;&#x44F; &#x434;&#x43B;&#x44F; &#x43F;&#x440;&#x435;&#x434;&#x43E;&#x442;&#x432;&#x440;&#x430;&#x449;&#x435;&#x43D;&#x438;&#x44F; &#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x430; &#x434;&#x440;&#x443;&#x433;&#x438;&#x43C;&#x438; &#x43A; &#x432;&#x430;&#x448;&#x438;&#x43C; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x44B;&#x43C; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x44F;&#x43C;. &#x425;&#x43E;&#x442;&#x438;&#x442;&#x435; &#x441;&#x43C;&#x435;&#x43D;&#x438;&#x442;&#x44C; &#x435;&#x433;&#x43E; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441;?" filename="vm-tutorial_change_pin.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41D;&#x435;&#x43E;&#x431;&#x445;&#x43E;&#x434;&#x438;&#x43C;&#x43E; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x430;&#x442;&#x44C; &#x412;&#x430;&#x448;&#x435; &#x438;&#x43C;&#x44F; &#x438; &#x444;&#x430;&#x43C;&#x438;&#x43B;&#x438;&#x44E;. &#x42D;&#x442;&#x430; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C; &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x435;&#x442;&#x441;&#x44F; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x43E;&#x439;, &#x432;&#x43A;&#x43B;&#x44E;&#x447;&#x430;&#x44F; &#x441;&#x43F;&#x440;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x438;&#x43A; &#x43E;&#x440;&#x433;&#x430;&#x43D;&#x438;&#x437;&#x430;&#x446;&#x438;&#x438;" filename="vm-tutorial_record_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x43E; &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x432; &#x412;&#x430;&#x448;&#x443; &#x43D;&#x43E;&#x432;&#x443;&#x44E; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x443;&#x44E; &#x43F;&#x43E;&#x447;&#x442;&#x443;. &#x414;&#x43B;&#x44F; &#x442;&#x43E;&#x433;&#x43E;, &#x447;&#x442;&#x43E; &#x431;&#x44B; &#x43F;&#x440;&#x43E;&#x441;&#x43B;&#x443;&#x448;&#x430;&#x442;&#x44C; &#x438;&#x43D;&#x441;&#x442;&#x440;&#x443;&#x43A;&#x446;&#x438;&#x44E; &#x438; &#x43D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x438;&#x442;&#x44C; &#x432;&#x430;&#x448;&#x443; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x443;&#x44E; &#x43F;&#x43E;&#x447;&#x442;&#x443;, &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 1. &#x427;&#x442;&#x43E;&#x431;&#x44B; &#x43F;&#x440;&#x43E;&#x43F;&#x443;&#x441;&#x442;&#x438;&#x442;&#x44C; &#x44D;&#x442;&#x43E;&#x442; &#x448;&#x430;&#x433;, &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; 2" filename="vm-tutorial_yes_no.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x43E;&#x432;&#x43E;&#x435; &#x441;&#x440;&#x43E;&#x447;&#x43D;&#x43E;&#x435;" filename="vm-urgent-new.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x43D;&#x43E;&#x432;&#x44B;&#x445; &#x441;&#x440;&#x43E;&#x447;&#x43D;&#x44B;&#x445;" filename="vm-urgent-newx.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x441;&#x440;&#x43E;&#x447;&#x43D;&#x43E;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x435;&#x43D;&#x43E;" filename="vm-urgent-saved.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x440;&#x43E;&#x447;&#x43D;&#x43E;&#x435;" filename="vm-urgent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x443; &#x412;&#x430;&#x441;" filename="vm-you_have.wav">
+      <prompt/>
+    </prompt>
+    <voicemail/>
+  </voicemail>
+  <zrtp>
+    <prompt phrase="&#x412;&#x44B; &#x434;&#x43E;&#x43B;&#x436;&#x43D;&#x44B; &#x432;&#x44B;&#x431;&#x440;&#x430;&#x442;&#x44C; &#x441;&#x442;&#x440;&#x43E;&#x43A;&#x443; &#x430;&#x443;&#x442;&#x435;&#x43D;&#x442;&#x438;&#x444;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x438; &#x441; &#x43F;&#x430;&#x440;&#x442;&#x43D;&#x435;&#x440;&#x43E;&#x43C; &#x43F;&#x43E; &#x440;&#x430;&#x437;&#x433;&#x43E;&#x432;&#x43E;&#x440;&#x443;, &#x415;&#x441;&#x43B;&#x438; &#x43E;&#x43D;&#x430; &#x43D;&#x435; &#x441;&#x43E;&#x432;&#x43F;&#x430;&#x434;&#x435;&#x442;, &#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x430; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x438;&#x442; &#x412;&#x430;&#x43C; &#x440;&#x430;&#x437;&#x440;&#x44B;&#x432;&#x43E;&#x43C; &#x43B;&#x438;&#x43D;&#x438;&#x438;." filename="zrtp-check_sas.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x438;&#x442;, &#x447;&#x442;&#x43E; &#x43E;&#x43D; &#x443;&#x436;&#x435; &#x434;&#x43E;&#x432;&#x435;&#x440;&#x44F;&#x435;&#x442; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x435; &#x434;&#x43B;&#x44F; &#x43F;&#x435;&#x440;&#x435;&#x43D;&#x430;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x44F; ZRTP &#x448;&#x438;&#x444;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x43D;&#x44B;&#x445; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x43E;&#x432;, &#x442;&#x430;&#x43A; &#x447;&#x442;&#x43E; &#x431;&#x43E;&#x43B;&#x44C;&#x448;&#x435; &#x434;&#x435;&#x43B;&#x430;&#x442;&#x44C; &#x43D;&#x438;&#x447;&#x435;&#x433;&#x43E; &#x43D;&#x435; &#x43D;&#x443;&#x436;&#x43D;&#x43E; &#x431;&#x443;&#x434;&#x435;&#x442;" filename="zrtp-enroll_already_enrolled.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x430; &#x43E;&#x431;&#x43E;&#x440;&#x443;&#x434;&#x43E;&#x432;&#x430;&#x43D;&#x430; &#x434;&#x43B;&#x44F; &#x43F;&#x440;&#x43E;&#x432;&#x435;&#x434;&#x435;&#x43D;&#x438;&#x44F; &#x448;&#x438;&#x444;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x43D;&#x44B;&#x445; ZRTP &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x43E;&#x432;. &#x412;&#x44B; &#x434;&#x43E;&#x43B;&#x436;&#x43D;&#x44B; &#x440;&#x435;&#x448;&#x438;&#x442;&#x44C;, &#x435;&#x441;&#x43B;&#x438; &#x432;&#x44B; &#x445;&#x43E;&#x442;&#x438;&#x442;&#x435; &#x447;&#x442;&#x43E;&#x431;&#x44B; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x430; &#x431;&#x44B;&#x43B;&#x430; &#x437;&#x430;&#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x43E;&#x432;&#x430;&#x43D;&#x430; &#x434;&#x43B;&#x44F; &#x43F;&#x440;&#x438;&#x435;&#x43C;&#x430; &#x438; &#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x43C;&#x43E;&#x43D;&#x438;&#x442;&#x43E;&#x440;&#x438;&#x43D;&#x433;&#x430; &#x412;&#x430;&#x448;&#x438;&#x445; &#x437;&#x430;&#x449;&#x438;&#x449;&#x435;&#x43D;&#x43D;&#x44B;&#x445; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x43E;&#x432;. &#x412;&#x44B; &#x43C;&#x43E;&#x436;&#x435;&#x442;&#x435; &#x43F;&#x43E;&#x432;&#x435;&#x441;&#x438;&#x442;&#x44C; &#x442;&#x440;&#x443;&#x431;&#x43A;&#x443; &#x43F;&#x43E;&#x441;&#x43B;&#x435; &#x43E;&#x43A;&#x43E;&#x43D;&#x447;&#x430;&#x43D;&#x438;&#x44F; &#x440;&#x430;&#x437;&#x433;&#x43E;&#x432;&#x43E;&#x440;&#x430;." filename="zrtp-enroll_confirmed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#x44B;, &#x43F;&#x440;&#x43E;&#x448;&#x435;&#x434;&#x448;&#x438;&#x435; &#x430;&#x443;&#x442;&#x435;&#x43D;&#x442;&#x438;&#x444;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x44E;, &#x43C;&#x43E;&#x433;&#x443;&#x442; &#x431;&#x44B;&#x442;&#x44C; &#x441;&#x43A;&#x43E;&#x43D;&#x444;&#x438;&#x433;&#x443;&#x440;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x44B; &#x434;&#x43B;&#x44F; &#x434;&#x43E;&#x432;&#x435;&#x440;&#x438;&#x44F; &#x441;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x435; &#x434;&#x43B;&#x44F; &#x43E;&#x431;&#x435;&#x441;&#x43F;&#x435;&#x447;&#x435;&#x43D;&#x438;&#x44F; ZRTP &#x448;&#x438;&#x444;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x43D;&#x44B;&#x445; &#x437;&#x432;&#x43E;&#x43D;&#x43A;&#x43E;&#x432;, &#x442;&#x430;&#x43A; &#x447;&#x442;&#x43E; &#x442;&#x430;&#x43A;&#x43E;&#x439; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x43D;&#x435; &#x434;&#x430;&#x441;&#x442; &#x44D;&#x444;&#x444;&#x435;&#x43A;&#x442;&#x430;." filename="zrtp-enroll_not_sip_registered.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x422;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#x44B;, &#x441; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x43E;&#x439; &#x43F;&#x440;&#x43E;&#x442;&#x43E;&#x43A;&#x43E;&#x43B;&#x430; ZRTP &#x43C;&#x43E;&#x433;&#x443;&#x442; &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x442;&#x430;&#x43A;&#x443;&#x44E; &#x444;&#x443;&#x43D;&#x43A;&#x446;&#x438;&#x44E;. &#x412;&#x430;&#x448; &#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D; &#x43D;&#x435; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x438;&#x432;&#x430;&#x435;&#x442; ZRTP &#x43F;&#x440;&#x43E;&#x442;&#x43E;&#x43A;&#x43E;&#x43B; &#x438; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x43D;&#x435; &#x434;&#x430;&#x441;&#x442; &#x44D;&#x444;&#x444;&#x435;&#x43A;&#x442;&#x430; ZRTP &#x437;&#x430;&#x449;&#x438;&#x442;&#x44B;." filename="zrtp-enroll_notzrtp.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x431;&#x440;&#x43E; &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x432; &#x430;&#x433;&#x435;&#x43D;&#x442;&#x430; &#x440;&#x435;&#x433;&#x438;&#x441;&#x442;&#x440;&#x430;&#x446;&#x438;&#x438; &#x448;&#x438;&#x444;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F; ZRTP" filename="zrtp-enroll_welcome.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x414;&#x43E;&#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x442;&#x435;&#x441;&#x44C; &#x441; &#x43F;&#x430;&#x440;&#x442;&#x43D;&#x435;&#x440;&#x43E;&#x43C; &#x43F;&#x43E; &#x440;&#x430;&#x437;&#x433;&#x43E;&#x432;&#x43E;&#x440;&#x443; &#x43E; &#x43F;&#x430;&#x440;&#x43E;&#x43B;&#x44C;&#x43D;&#x43E;&#x439; &#x444;&#x440;&#x430;&#x437;&#x435;." filename="zrtp-is_secure.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x430;&#x440;&#x43E;&#x43B;&#x44C;&#x43D;&#x430;&#x44F; &#x444;&#x440;&#x430;&#x437;&#x430; &#x43D;&#x430; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43C;&#x435;&#x43D;&#x442; &#x43D;&#x435; &#x43F;&#x440;&#x43E;&#x432;&#x435;&#x440;&#x435;&#x43D;&#x430;" filename="zrtp-is_unverified.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41F;&#x430;&#x440;&#x43E;&#x43B;&#x44C;&#x43D;&#x430;&#x44F; &#x444;&#x440;&#x430;&#x437;&#x430; &#x43F;&#x440;&#x43E;&#x432;&#x435;&#x440;&#x435;&#x43D;&#x430;." filename="zrtp-is_verified.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x427;&#x442;&#x43E;-&#x442;&#x43E; &#x43F;&#x440;&#x43E;&#x438;&#x441;&#x445;&#x43E;&#x434;&#x438;&#x442; &#x43D;&#x435; &#x442;&#x430;&#x43A;." filename="zrtp-somethings_wrong.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x41E;&#x448;&#x438;&#x431;&#x43A;&#x430;." filename="zrtp-status_error.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x440;&#x430;&#x437;&#x433;&#x43E;&#x432;&#x43E;&#x440; &#x43D;&#x435; &#x448;&#x438;&#x444;&#x440;&#x443;&#x435;&#x442;&#x441;&#x44F;" filename="zrtp-status_notsecure.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x412;&#x430;&#x448; &#x440;&#x430;&#x437;&#x433;&#x43E;&#x432;&#x43E;&#x440; &#x448;&#x438;&#x444;&#x440;&#x443;&#x435;&#x442;&#x441;&#x44F;." filename="zrtp-status_secure.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x428;&#x438;&#x444;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x43D;&#x44B;&#x439; &#x432;&#x44B;&#x437;&#x43E;&#x432;." filename="zrtp-status_securing.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x421;&#x43F;&#x430;&#x441;&#x438;&#x431;&#x43E; &#x437;&#x430; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A;. &#x414;&#x43E; &#x441;&#x432;&#x438;&#x434;&#x430;&#x43D;&#x438;&#x44F;." filename="zrtp-thankyou_goodbye.wav">
+      <prompt/>
+    </prompt>
+    <zrtp/>
+  </zrtp>
+  <ru/>
+</ru>
