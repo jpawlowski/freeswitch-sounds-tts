@@ -1,0 +1,1 @@
+Solo teléfonos soportando el protócolo ZRTP pueden usar esta extensión. Su teléfono no tiene ZRTP habilitado, por lo que esta llamada no estará securizada.
