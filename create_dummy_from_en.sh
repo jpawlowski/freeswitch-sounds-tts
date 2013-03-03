@@ -52,7 +52,7 @@ for FILE in $LIST; do
 		if [ ! -e "./input/$1/${FILENAME_FLAT}.txt" ]; then
 			mkdir -p "./input/$1/${FILENAME_FLAT%/*}"
 		fi
-		if [ -e "./input/$1/${FILENAME_FLAT}.txt" ]; then
+		if [[ -e "./input/$1/${FILENAME_FLAT}.txt" || -h "./input/$1/${FILENAME_FLAT}.txt" ]]; then
 			rm "./input/$1/${FILENAME_FLAT}.txt"
 		fi
 		cp -R $FILE "./input/$1/${FILENAME_FLAT}.txt"
