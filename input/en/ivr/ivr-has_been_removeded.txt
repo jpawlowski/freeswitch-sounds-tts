@@ -1,1 +1,1 @@
-ivr-has_been_removed.wav
+ivr-has_been_removed.txt
