@@ -21,8 +21,9 @@ for FILE in $LIST; do
 	FILENAME="${BASENAME%%.*}"
 	FILENAME_FLAT="${FILENAME#*/}"
 	FILENAME_FLAT="${FILENAME_FLAT#*/}"
+	FILENAME_PREFIX="${FILENAME_FLAT%/*}"
 
-	if [ ! -e input/$1/${FILENAME_FLAT}.txt ]; then
+	if [[ ! -e input/$1/${FILENAME_FLAT}.txt && "$FILENAME_PREFIX" != "base256" ]]; then
 		echo "$FILENAME_FLAT not found in input files, creating dummy ..."
 		mkdir -p input.new/$1/${FILENAME_FLAT%/*}
 		echo -e "#TODO Please translate the following text:" > ./input.new/$1/${FILENAME_FLAT}.txt
