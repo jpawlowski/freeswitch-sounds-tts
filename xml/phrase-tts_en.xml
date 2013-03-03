@@ -2302,6 +2302,9 @@
     <prompt phrase="If you dont like it, you can file a JIRA!" filename="ivr-file_a_jira.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-files-.wav" link="ivr-files.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="...files..." filename="ivr-files.wav">
       <prompt/>
     </prompt>

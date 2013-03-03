@@ -784,6 +784,9 @@
     <prompt phrase="Gef&#xE4;llt Ihnen nicht?! Warum schreiben Sie nicht ein Fehlerticket?" filename="ivr-file_a_jira.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-files-.wav" link="ivr-files.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Dateien" filename="ivr-files.wav">
       <prompt/>
     </prompt>

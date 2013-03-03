@@ -1087,7 +1087,10 @@
     <prompt phrase="...&#x444;&#x430;&#x439;&#x43B;..." filename="ivr-file.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="...&#x424;&#x430;&#x439;&#x43B;&#x44B;..." filename="ivr-files-.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-files-.wav" link="ivr-files.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...&#x424;&#x430;&#x439;&#x43B;&#x44B;..." filename="ivr-files.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x41A;&#x43E;&#x433;&#x434;&#x430; &#x437;&#x430;&#x43A;&#x43E;&#x43D;&#x447;&#x438;&#x442;&#x435; &#x43D;&#x430;&#x436;&#x43C;&#x438;&#x442;&#x435; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x440;&#x435;&#x448;&#x451;&#x442;&#x43A;&#x430;." filename="ivr-finished_pound_hash_key.wav">

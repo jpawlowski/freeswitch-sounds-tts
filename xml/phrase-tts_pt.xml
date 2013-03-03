@@ -529,7 +529,10 @@
     <prompt phrase="...ficheiro..." filename="ivr-file.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="...ficheiros..." filename="ivr-files-.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-files-.wav" link="ivr-files.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...ficheiros..." filename="ivr-files.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Quando terminar, marque cardinal." filename="ivr-finished_pound_hash_key.wav">
