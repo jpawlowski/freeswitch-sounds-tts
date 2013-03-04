@@ -82,19 +82,49 @@
     <prompt phrase="Tilde" filename="126.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Aehh" filename="200.wav">
+    <prompt phrase="Eurozeichen" filename="128.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#xD6;" filename="201.wav">
+    <prompt phrase="Cent Zeichen" filename="162.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#xDC;" filename="202.wav">
+    <prompt phrase="Pfund Zeichen" filename="163.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Eszett" filename="203.wav">
+    <prompt phrase="W&#xE4;hrungszeichen" filename="164.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Eurozeichen" filename="204.wav">
+    <prompt phrase="Yen Zeichen" filename="165.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Paragraphen Zeichen" filename="167.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Urheberrechts Zeichen" filename="169.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zeichen f&#xFC;r registrierte Marke" filename="174.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Plus Minus Zeichen" filename="177.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Aehh" filename="196.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Lateinischer Buchstabe N mit Tilde" filename="209.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#xD6;" filename="214.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Eszett" filename="223.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Divisions Zeichen" filename="247.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#xDC;" filename="252.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Leerzeichen" filename="32.wav">

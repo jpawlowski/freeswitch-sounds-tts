@@ -1,4 +1,3 @@
-ascii/165
 digits/100
 digits/500
 digits/700

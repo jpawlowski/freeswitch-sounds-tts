@@ -82,7 +82,49 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Tilde" filename="126.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#xD1;" filename="165.wav">
+    <prompt phrase="#TODO Please translate the following text:&#10;Euro sign" filename="128.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Cent sign" filename="162.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Pound sign" filename="163.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Currency sign" filename="164.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Yen sign" filename="165.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Section sign" filename="167.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Copyright sign" filename="169.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Registered trademark sign" filename="174.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Plus minus sign" filename="177.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Latin capital letter A with diaeresis" filename="196.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#xD1;" filename="209.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Latin capital letter O with diaeresis" filename="214.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Ess-zed" filename="223.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Division sign" filename="247.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Latin capital letter U with diaeresis" filename="252.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Espacio" filename="32.wav">
