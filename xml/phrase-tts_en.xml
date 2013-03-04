@@ -1807,7 +1807,25 @@
     <prompt phrase="And" filename="and.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Austrian schilling" filename="at-schilling.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Australian dollar" filename="au-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Balgian franc" filename="be-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="British Pound" filename="british-pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Canadian dollar" filename="ca-dollar.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Cent" filename="cent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Centimes" filename="centimes.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Central" filename="central.wav">
@@ -1819,19 +1837,157 @@
     <prompt phrase="Cents" filename="cents.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Cypriot pound" filename="cy-pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="German mark" filename="de-mark.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Dollar" filename="dollar.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Dollars" filename="dollars.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="drachma" filename="drachma.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Estonian krone" filename="ee-krone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Escudos" filename="escudos.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Euro" filename="euro.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="penny" filename="fi-penni.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Finnmark" filename="finnmark.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="French franc" filename="fr-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="franc" filename="franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Greek drachma" filename="gr-drachma.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="guilder" filename="guilder.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Hong Kong dollar" filename="hk-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Irish pound" filename="ir-pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Italian lira" filename="it-lira.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Japanese Yen" filename="jp-yen.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="South Korean won" filename="kr-won.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="krona" filename="krona.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="krone" filename="krone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="lira" filename="lira.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Luxemburgish franc" filename="lu-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="mark" filename="mark.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Minus" filename="minus.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Maltese franc" filename="mt-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Mexican peso" filename="mx-peso.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Negative" filename="negative.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Netherlandish guilder" filename="nl-guilder.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Norwegian krone" filename="no-krone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="New Zealand dollar" filename="nz-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pence" filename="pence.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="penny" filename="penny.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Peseta" filename="peseta.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Peso" filename="peso.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Pfennig" filename="pfennig.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="pound" filename="pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Renminbi" filename="renminbi.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Russian ruble" filename="ru-ruble.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Ruble" filename="ruble.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="schilling" filename="schilling.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Swedish krona" filename="se-krona.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Singapore dollar" filename="sg-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Slowakian krone" filename="sk-krone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Slovenian Tolar" filename="sl-tolar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Swiss franc" filename="swiss-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="tolar" filename="tolar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="US dollar" filename="us-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Penny" filename="us-penny.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="won" filename="won.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Yen" filename="yen.wav">
       <prompt/>
     </prompt>
     <currency/>
@@ -2323,6 +2479,9 @@
     <prompt phrase="For a wakeup call..." filename="ivr-for_a_wakeup_call.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="For chinese, press ...." filename="ivr-for_chinese_press.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="For a daily wakeup call..." filename="ivr-for_daily_wakeup_call.wav">
       <prompt/>
     </prompt>
@@ -2335,13 +2494,25 @@
     <prompt phrase="For English, press..." filename="ivr-for_english_press.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="For french, press ...." filename="ivr-for_french_press.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="For german, press ..." filename="ivr-for_german_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="For netherlandish, press ...." filename="ivr-for_netherlandish_press.wav">
       <prompt/>
     </prompt>
     <prompt phrase="For a one-time wakeup call..." filename="ivr-for_one_time_wakeup_call.wav">
       <prompt/>
     </prompt>
     <prompt phrase="For other options, press..." filename="ivr-for_other_options.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="For portuguese, press ...." filename="ivr-for_portuguese_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="For russian, press ...." filename="ivr-for_russian_press.wav">
       <prompt/>
     </prompt>
     <prompt phrase="For spanish, press ..." filename="ivr-for_spanish_press.wav">
@@ -3022,6 +3193,9 @@
     <prompt phrase="This call has been secured" filename="call_secured.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="chinese" filename="chinese.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="german" filename="de.wav">
       <prompt/>
     </prompt>
@@ -3035,6 +3209,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="Followed by pound" filename="followed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="french" filename="french.wav">
       <prompt/>
     </prompt>
     <prompt phrase="If you are this person" filename="if_you_are_this_person.wav">
@@ -3133,10 +3310,19 @@
     <prompt phrase="Your call will be terminated in..." filename="misc-your_call_will_be_terminated_in.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="netherlandish" filename="netherlandish.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="This phone is not authorized to make outside calls." filename="phone_not_auth.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="portuguese" filename="portuguese.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Provide reference number" filename="provide_reference_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="russian" filename="russian.wav">
       <prompt/>
     </prompt>
     <prompt phrase="I'm sorry." filename="sorry.wav">

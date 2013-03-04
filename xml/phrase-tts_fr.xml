@@ -268,7 +268,25 @@
     <prompt phrase="Et" filename="and.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Austrian schilling" filename="at-schilling.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Australian dollar" filename="au-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Balgian franc" filename="be-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;British Pound" filename="british-pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Canadian dollar" filename="ca-dollar.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Cents" filename="cent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Centimes" filename="centimes.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Centrale" filename="central.wav">
@@ -280,19 +298,157 @@
     <prompt phrase="Cents" filename="cents.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Cypriot pound" filename="cy-pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;German mark" filename="de-mark.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Dollar" filename="dollar.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Dollars" filename="dollars.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;drachma" filename="drachma.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Estonian krone" filename="ee-krone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Escudos" filename="escudos.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Euro" filename="euro.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;penny" filename="fi-penni.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Finnmark" filename="finnmark.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;French franc" filename="fr-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;franc" filename="franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Greek drachma" filename="gr-drachma.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;guilder" filename="guilder.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Hong Kong dollar" filename="hk-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Irish pound" filename="ir-pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Italian lira" filename="it-lira.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Japanese Yen" filename="jp-yen.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;South Korean won" filename="kr-won.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;krona" filename="krona.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;krone" filename="krone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;lira" filename="lira.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Luxemburgish franc" filename="lu-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;mark" filename="mark.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Moins" filename="minus.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Maltese franc" filename="mt-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Mexican peso" filename="mx-peso.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="N&#xE9;gatif" filename="negative.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Netherlandish guilder" filename="nl-guilder.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Norwegian krone" filename="no-krone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;New Zealand dollar" filename="nz-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;pence" filename="pence.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;penny" filename="penny.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Peseta" filename="peseta.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Peso" filename="peso.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Pfennig" filename="pfennig.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;pound" filename="pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Renminbi" filename="renminbi.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Russian ruble" filename="ru-ruble.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Ruble" filename="ruble.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;schilling" filename="schilling.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Swedish krona" filename="se-krona.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Singapore dollar" filename="sg-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Slowakian krone" filename="sk-krone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Slovenian Tolar" filename="sl-tolar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Swiss franc" filename="swiss-franc.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;tolar" filename="tolar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;US dollar" filename="us-dollar.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Penny" filename="us-penny.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;won" filename="won.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Yen" filename="yen.wav">
       <prompt/>
     </prompt>
     <currency/>
@@ -790,6 +946,9 @@
     <prompt phrase="#TODO Please translate the following text:&#10;For a wakeup call..." filename="ivr-for_a_wakeup_call.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;For chinese, press ...." filename="ivr-for_chinese_press.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;For a daily wakeup call..." filename="ivr-for_daily_wakeup_call.wav">
       <prompt/>
     </prompt>
@@ -802,13 +961,25 @@
     <prompt phrase="#TODO Please translate the following text:&#10;For English, press..." filename="ivr-for_english_press.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;For french, press ...." filename="ivr-for_french_press.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;For german, press ..." filename="ivr-for_german_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;For netherlandish, press ...." filename="ivr-for_netherlandish_press.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;For a one-time wakeup call..." filename="ivr-for_one_time_wakeup_call.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;For other options, press..." filename="ivr-for_other_options.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;For portuguese, press ...." filename="ivr-for_portuguese_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;For russian, press ...." filename="ivr-for_russian_press.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;For spanish, press ..." filename="ivr-for_spanish_press.wav">
@@ -1489,6 +1660,9 @@
     <prompt phrase="Cet appel a &#xE9;t&#xE9; s&#xE9;curis&#xE9;" filename="call_secured.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;chinese" filename="chinese.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;german" filename="de.wav">
       <prompt/>
     </prompt>
@@ -1502,6 +1676,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="Suivi de la touche di&#xE8;se" filename="followed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;french" filename="french.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Si vous &#xEA;tes cette personne" filename="if_you_are_this_person.wav">
@@ -1600,10 +1777,19 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Your call will be terminated in..." filename="misc-your_call_will_be_terminated_in.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;netherlandish" filename="netherlandish.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;This phone is not authorized to make outside calls." filename="phone_not_auth.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;portuguese" filename="portuguese.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Provide reference number" filename="provide_reference_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;russian" filename="russian.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;I'm sorry." filename="sorry.wav">
