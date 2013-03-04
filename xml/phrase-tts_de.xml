@@ -82,19 +82,49 @@
     <prompt phrase="Tilde" filename="126.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Aehh" filename="200.wav">
+    <prompt phrase="Eurozeichen" filename="128.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#xD6;" filename="201.wav">
+    <prompt phrase="Cent Zeichen" filename="162.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#xDC;" filename="202.wav">
+    <prompt phrase="Pfund Zeichen" filename="163.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Eszett" filename="203.wav">
+    <prompt phrase="W&#xE4;hrungszeichen" filename="164.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Eurozeichen" filename="204.wav">
+    <prompt phrase="Yen Zeichen" filename="165.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Paragraphen Zeichen" filename="167.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Urheberrechts Zeichen" filename="169.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zeichen f&#xFC;r registrierte Marke" filename="174.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Plus Minus Zeichen" filename="177.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Aehh" filename="196.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Lateinischer Buchstabe N mit Tilde" filename="209.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#xD6;" filename="214.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Eszett" filename="223.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Divisions Zeichen" filename="247.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#xDC;" filename="252.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Leerzeichen" filename="32.wav">
@@ -1933,28 +1963,145 @@
     <prompt phrase="Zacharias" filename="122.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#xC4;hrrgeer" filename="200.wav">
+    <prompt phrase="geschweifte Klammer auf" filename="123.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#xD6;konom" filename="201.wav">
+    <prompt phrase="Gedankenstrich" filename="124.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#xDC;bermut" filename="202.wav">
+    <prompt phrase="geschweifte Klammer zu" filename="125.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Eszett" filename="203.wav">
+    <prompt phrase="Tilde" filename="126.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Eurozeichen" filename="128.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Cent Zeichen" filename="162.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Pfund Zeichen" filename="163.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="W&#xE4;hrungszeichen" filename="164.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Yen Zeichen" filename="165.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Paragraphen Zeichen" filename="167.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Urheberrechts Zeichen" filename="169.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zeichen f&#xFC;r registrierte Marke" filename="174.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Plus Minus Zeichen" filename="177.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#xC4;hrrgeer" filename="196.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Lateinischer Buchstabe N mit Tilde" filename="209.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#xD6;konom" filename="214.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Eszett" filename="223.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Divisions Zeichen" filename="247.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#xDC;bermut" filename="252.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Leerzeichen" filename="32.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Ausrufezeichen" filename="33.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="doppelte Anf&#xFC;hrungszeichen" filename="34.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Raute" filename="35.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Dollarzeichen" filename="36.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Prozent" filename="37.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="und" filename="38.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Hochkomma" filename="39.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Klammer auf" filename="40.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Klammer zu" filename="41.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Stern" filename="42.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Plus" filename="43.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Komma" filename="44.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Bindestrich" filename="45.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Punkt" filename="46.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Slash" filename="47.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Doppelpunkt" filename="58.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Semikolon" filename="59.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="kleiner als" filename="60.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Gleichheitszeichen" filename="61.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Gr&#xF6;&#xDF;er Als" filename="62.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="@" filename="64.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="eckige Klammer auf" filename="91.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Backslash" filename="92.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="eckige Klammer zu" filename="93.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zirkumflex" filename="94.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Unterstrich" filename="95.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="r&#xFC;ckw&#xE4;rts geneigtes Hochkomma" filename="96.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Anton" filename="97.wav">

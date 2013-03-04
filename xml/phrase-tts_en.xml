@@ -82,6 +82,51 @@
     <prompt phrase="Tilde" filename="126.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Euro sign" filename="128.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Cent sign" filename="162.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Pound sign" filename="163.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Currency sign" filename="164.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Yen sign" filename="165.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Section sign" filename="167.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Copyright sign" filename="169.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Registered trademark sign" filename="174.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Plus minus sign" filename="177.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Latin capital letter A with diaeresis" filename="196.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Latin capital letter N with tilde" filename="209.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Latin capital letter O with diaeresis" filename="214.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Ess-zed" filename="223.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Division sign" filename="247.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Latin capital letter U with diaeresis" filename="252.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Space" filename="32.wav">
       <prompt/>
     </prompt>
@@ -3448,16 +3493,145 @@
     <prompt phrase="Zulu" filename="122.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Open curly bracket." filename="123.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Pipe" filename="124.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Close curly bracket." filename="125.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Tilde" filename="126.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Euro sign" filename="128.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Cent sign" filename="162.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Pound sign" filename="163.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Currency sign" filename="164.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Yen sign" filename="165.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Section sign" filename="167.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Copyright sign" filename="169.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Registered trademark sign" filename="174.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Plus minus sign" filename="177.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Latin capital letter A with diaeresis" filename="196.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Latin capital letter N with tilde" filename="209.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Latin capital letter O with diaeresis" filename="214.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Ess-zed" filename="223.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Division sign" filename="247.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Latin capital letter U with diaeresis" filename="252.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Space" filename="32.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Exclamation point" filename="33.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Double quote" filename="34.wav">
       <prompt/>
     </prompt>
     <prompt phrase="pound" filename="35.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Dollar sign" filename="36.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Percent" filename="37.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Ampersand" filename="38.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Single quote" filename="39.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Open parenthesis." filename="40.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Close parenthesis." filename="41.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="star" filename="42.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Plus." filename="43.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Comma." filename="44.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Hyphen" filename="45.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Dot" filename="46.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Forward slash" filename="47.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Colon" filename="58.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Semicolon" filename="59.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Less than sign." filename="60.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Equal sign" filename="61.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Greater than sign." filename="62.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="At" filename="64.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Open square bracket." filename="91.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Backslash" filename="92.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Close square bracket." filename="93.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Caret" filename="94.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Underscore" filename="95.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Backtick." filename="96.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Alpha" filename="97.wav">
