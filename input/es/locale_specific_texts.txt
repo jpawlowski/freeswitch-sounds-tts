@@ -1,0 +1,8 @@
+ascii/165
+digits/100
+digits/500
+digits/700
+digits/900
+digits/un
+digits/veinti
+time/ats

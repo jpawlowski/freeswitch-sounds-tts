@@ -610,6 +610,12 @@
     <prompt phrase="&#x414;&#x435;&#x432;&#x44F;&#x442;&#x44C;&#x441;&#x43E;&#x442;" filename="900.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;billion" filename="billion.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;billions" filename="billions.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x422;&#x43E;&#x447;&#x43A;&#x430;" filename="dot.wav">
       <prompt/>
     </prompt>
@@ -1261,6 +1267,9 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Hundred" filename="hundred.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;hundreds" filename="hundreds.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x41C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;&#x430;" filename="million-a.wav">
       <prompt/>
     </prompt>
@@ -1295,6 +1304,9 @@
   </digits>
   <directory>
     <prompt phrase="&#x434;&#x43E;&#x431;&#x430;&#x432;&#x43E;&#x447;&#x43D;&#x44B;&#x439; &#x43D;&#x43E;&#x43C;&#x435;&#x440;" filename="dir-at_extension.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: dir-enter_person.wav" filename="dir-enter-person.wav" link="dir-enter_person.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x432;&#x432;&#x435;&#x434;&#x438;&#x442;&#x435; &#x43F;&#x435;&#x440;&#x432;&#x44B;&#x435; &#x431;&#x443;&#x43A;&#x432;&#x44B; &#x438;&#x43C;&#x435;&#x43D;&#x438; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442;&#x430;" filename="dir-enter_person.wav">
@@ -1345,13 +1357,22 @@
     <prompt phrase="&#x412;&#x430;&#x43C; &#x43D;&#x435;&#x43E;&#x431;&#x445;&#x43E;&#x434;&#x438;&#x43C;&#x43E; &#x443;&#x43A;&#x430;&#x437;&#x430;&#x442;&#x44C; &#x43C;&#x438;&#x43D;&#x438;&#x43C;&#x443;&#x43C; ..." filename="dir-specify_mininum.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: dir-specify_mininum.wav" filename="dir-specify_mininum_first.wav" link="dir-specify_mininum.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x414;&#x43B;&#x44F; &#x43D;&#x430;&#x447;&#x430;&#x43B;&#x430; &#x43D;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x43F;&#x43E;&#x438;&#x441;&#x43A;&#x430;" filename="dir-start_new_search.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: dir-to_start_new_search.wav" filename="dir-to_make_new_search.wav" link="dir-to_start_new_search.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x418;&#x441;&#x43A;&#x430;&#x442;&#x44C; &#x43F;&#x43E; ..." filename="dir-to_search_by.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x414;&#x43B;&#x44F; &#x432;&#x44B;&#x431;&#x43E;&#x440;&#x430; &#x44D;&#x442;&#x43E;&#x439; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x438;" filename="dir-to_select_entry.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To start a new search&#10;" filename="dir-to_start_new_search.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x41F;&#x43E; &#x412;&#x430;&#x448;&#x435;&#x43C;&#x443; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x443; &#x43D;&#x430;&#x439;&#x434;&#x435;&#x43D;&#x43E; &#x441;&#x43B;&#x438;&#x448;&#x43A;&#x43E;&#x43C; &#x43C;&#x43D;&#x43E;&#x433;&#x43E; &#x432;&#x430;&#x440;&#x438;&#x430;&#x43D;&#x442;&#x43E;&#x432;, &#x43F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x443;&#x442;&#x43E;&#x447;&#x43D;&#x438;&#x442;&#x44C; &#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;" filename="dir-too_many_result.wav">
@@ -1588,7 +1609,7 @@
     <prompt phrase="#TODO Please translate the following text:&#10;If you dont like it, you can file a JIRA!" filename="ivr-file_a_jira.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-files-.wav" link="ivr-files.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: ivr-files.wav" filename="ivr-files-.wav" link="ivr-files.wav">
       <prompt/>
     </prompt>
     <prompt phrase="...&#x424;&#x430;&#x439;&#x43B;&#x44B;..." filename="ivr-files.wav">
@@ -1693,7 +1714,7 @@
     <prompt phrase="#TODO Please translate the following text:&#10;...has been removed from the blacklist." filename="ivr-has_been_removed_from_blacklist.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-has_been_removeded.wav" link="ivr-has_been_removed.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: ivr-has_been_removed.wav" filename="ivr-has_been_removeded.wav" link="ivr-has_been_removed.wav">
       <prompt/>
     </prompt>
     <prompt phrase="...&#x432;&#x44B;&#x437;&#x432;&#x430;&#x43B; &#x430;&#x432;&#x430;&#x440;&#x438;&#x439;&#x43D;&#x44B;&#x435; &#x441;&#x43B;&#x443;&#x436;&#x431;&#x44B;" filename="ivr-has_called_emergency_services.wav">
@@ -2200,9 +2221,6 @@
     <prompt phrase="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x435; &#x43D;&#x435; &#x443;&#x434;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x438;&#x442;&#x44C; &#x412;&#x430;&#x448; &#x437;&#x432;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x439; &#x444;&#x430;&#x439;&#x43B; &#x432; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x439; &#x43C;&#x43E;&#x43C;&#x435;&#x43D;&#x442;. &#x41F;&#x43E;&#x436;&#x430;&#x43B;&#x443;&#x439;&#x441;&#x442;&#x430;, &#x43F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x437;&#x436;&#x435;" filename="ivr-unable_save.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#x421;&#x438;&#x441;&#x442;&#x435;&#x43C;&#x430; &#x43D;&#x435; &#x441;&#x43C;&#x43E;&#x433;&#x43B;&#x430; &#x441;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x438;&#x442;&#x44C; &#x412;&#x430;&#x448;&#x435; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;. &#x41F;&#x43E;&#x43F;&#x440;&#x43E;&#x431;&#x443;&#x439;&#x442;&#x435; &#x43F;&#x43E;&#x437;&#x434;&#x43D;&#x435;&#x435;." filename="ivr-unable_save_old.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Unallocated number" filename="ivr-unallocated_number.wav">
       <prompt/>
     </prompt>
@@ -2272,6 +2290,9 @@
     <prompt phrase="&#x412;&#x44B;&#xA0;&#x437;&#x430;&#x43A;&#x440;&#x435;&#x43F;&#x43B;&#x44F;&#x435;&#x442;&#x435;&#xA0;&#x44D;&#x442;&#x43E;&#x442;&#xA0;&#x442;&#x435;&#x43B;&#x435;&#x444;&#x43E;&#x43D;&#xA0;&#x437;&#x430;&#xA0;&#x412;&#x430;&#x448;&#x435;&#x439; &#x443;&#x447;&#x451;&#x442;&#x43D;&#x43E;&#x439; &#x437;&#x430;&#x43F;&#x438;&#x441;&#x44C;&#x44E;" filename="ivr-you_are_about_to_provision_this_phone.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You're doing it wrong, but I'll try to connect you anyway. (Douchebag!)" filename="ivr-you_are_doing_it_wrong.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x412;&#x44B; &#x432;&#x43E;&#x448;&#x43B;&#x438;" filename="ivr-you_are_now_logged_in.wav">
       <prompt/>
     </prompt>
@@ -2308,13 +2329,16 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Your caller ID number is blocked." filename="ivr-your_caller_id_number_is_blocked.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;You're doing it wrong, but I'll try to connect you anyway. (Douchebag!)" filename="ivr-youre_doing_it_wrong.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: ivr-you_are_doing_it_wrong.wav" filename="ivr-youre_doing_it_wrong.wav" link="ivr-you_are_doing_it_wrong.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: ivr-you_are_number_one.wav" filename="ivr-youre_number_one.wav" link="ivr-you_are_number_one.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Y U NO Silent Drill?!" filename="ivr-yuno_silent_drill.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr_connect_live_operator.wav" link="ivr-connect_live_operator.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: ivr-connect_live_operator.wav" filename="ivr_connect_live_operator.wav" link="ivr-connect_live_operator.wav">
       <prompt/>
     </prompt>
     <ivr/>
@@ -2728,7 +2752,7 @@
     <prompt phrase="&#x434;&#x43B;&#x44F; &#x434;&#x43E;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x43F;&#x430;&#x440;&#x430;&#x43C;&#x435;&#x442;&#x440;&#x43E;&#x432;" filename="vm-advanced.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-advanced_alt.wav" link="vm-advanced.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: vm-advanced.wav" filename="vm-advanced_alt.wav" link="vm-advanced.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x414;&#x43B;&#x44F; &#x438;&#x437;&#x43C;&#x435;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x412;&#x430;&#x448;&#x435;&#x433;&#x43E; &#x43F;&#x430;&#x440;&#x43E;&#x43B;&#x44F;" filename="vm-change_password.wav">
@@ -2827,25 +2851,31 @@
     <prompt phrase="&#x434;&#x43B;&#x44F; &#x43F;&#x435;&#x440;&#x435;&#x445;&#x43E;&#x434;&#x430; &#x432; &#x433;&#x43B;&#x430;&#x432;&#x43D;&#x43E;&#x435; &#x43C;&#x435;&#x43D;&#x44E;" filename="vm-main_menu.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-main_menu_alt.wav" link="vm-main_menu.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: vm-main_menu.wav" filename="vm-main_menu_alt.wav" link="vm-main_menu.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#x43F;&#x43E;&#x43C;&#x435;&#x442;&#x438;&#x442;&#x44C; &#x44D;&#x442;&#x43E; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; &#x43A;&#x430;&#x43A; &#x441;&#x440;&#x43E;&#x447;&#x43D;&#x43E;&#x435;" filename="vm-mark-urgent.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: vm-mark_urgent.wav" filename="vm-mark-urgent.wav" link="vm-mark_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;to mark this message as 'new'" filename="vm-mark_message_new.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="&#x41F;&#x43E;&#x43C;&#x435;&#x447;&#x435;&#x43D;&#x43E; &#x43A;&#x430;&#x43A; &#x432;&#x430;&#x436;&#x43D;&#x43E;&#x435;" filename="vm-marked-urgent.wav">
+    <prompt phrase="&#x43F;&#x43E;&#x43C;&#x435;&#x442;&#x438;&#x442;&#x44C; &#x44D;&#x442;&#x43E; &#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435; &#x43A;&#x430;&#x43A; &#x441;&#x440;&#x43E;&#x447;&#x43D;&#x43E;&#x435;" filename="vm-mark_urgent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: vm-marked_urgent.wav" filename="vm-marked-urgent.wav" link="vm-marked_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;marked 'new'" filename="vm-marked_new.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="&#x41F;&#x43E;&#x43C;&#x435;&#x447;&#x435;&#x43D;&#x43E; &#x43A;&#x430;&#x43A; &#x432;&#x430;&#x436;&#x43D;&#x43E;&#x435;" filename="vm-marked_urgent.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;" filename="vm-message.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-message_alt.wav" link="vm-message.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: vm-message.wav" filename="vm-message_alt.wav" link="vm-message.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;to hear the message envelope" filename="vm-message_envelope.wav">
@@ -2860,7 +2890,7 @@
     <prompt phrase="&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x44F;" filename="vm-messages.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-messages_alt.wav" link="vm-messages.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: vm-messages.wav" filename="vm-messages_alt.wav" link="vm-messages.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x439;" filename="vm-messagex.wav">
@@ -2885,6 +2915,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="&#x412;&#x44B;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x43C;&#x44B;&#x439; &#x430;&#x431;&#x43E;&#x43D;&#x435;&#x43D;&#x442; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441; &#x43D;&#x435;&#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x435;&#x43D; &#x438; &#x43D;&#x435; &#x438;&#x43C;&#x435;&#x435;&#x442; &#x433;&#x43E;&#x43B;&#x43E;&#x441;&#x43E;&#x432;&#x43E;&#x439; &#x43F;&#x43E;&#x447;&#x442;&#x44B;" filename="vm-not_available_no_voicemail.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: vm-not_available.wav" filename="vm-not_avaliable.wav" link="vm-not_available.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;...or press..." filename="vm-or_press.wav">
@@ -2971,7 +3004,7 @@
     <prompt phrase="&#x434;&#x43B;&#x44F; &#x432;&#x44B;&#x445;&#x43E;&#x434;&#x430;" filename="vm-to_exit.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-to_exit_alt.wav" link="vm-to_exit.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS.&#10;Referred filename: vm-to_exit.wav" filename="vm-to_exit_alt.wav" link="vm-to_exit.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x43F;&#x435;&#x440;&#x435;&#x441;&#x43B;&#x430;&#x442;&#x44C;&#xA0;&#x44D;&#x442;&#x43E;&#xA0;&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x43D;&#x438;&#x435;" filename="vm-to_forward.wav">
