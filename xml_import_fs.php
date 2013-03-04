@@ -10,6 +10,8 @@
  *
  */
 
+ error_reporting(E_ALL ^ E_NOTICE);
+
  $locale = $argv[1];
  $import_file = "./import/phrase_".$locale.".xml";
 
