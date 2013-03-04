@@ -1657,9 +1657,6 @@
     <prompt phrase="Dit telefoon gesprek is beveiligd" filename="call_secured.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;chinese" filename="chinese.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;german" filename="de.wav">
       <prompt/>
     </prompt>
@@ -1675,7 +1672,7 @@
     <prompt phrase="Gevolgd door een hekje" filename="followed.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;french" filename="french.wav">
+    <prompt phrase="#TODO Please translate the following text:&#10;french" filename="fr.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Als u deze persoon bent" filename="if_you_are_this_person.wav">
@@ -1774,19 +1771,19 @@
     <prompt phrase="Uw gesprek wordt be&#xEB;indigd in..." filename="misc-your_call_will_be_terminated_in.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;netherlandish" filename="netherlandish.wav">
+    <prompt phrase="#TODO Please translate the following text:&#10;netherlandish" filename="nl.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;This phone is not authorized to make outside calls." filename="phone_not_auth.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;portuguese" filename="portuguese.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="Geef een referentie nummer op" filename="provide_reference_number.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;russian" filename="russian.wav">
+    <prompt phrase="#TODO Please translate the following text:&#10;portuguese" filename="pt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;russian" filename="ru.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;I'm sorry." filename="sorry.wav">
@@ -1799,6 +1796,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="We proberen te bereiken" filename="we_are_trying_to_reach.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;chinese" filename="zh_CN.wav">
       <prompt/>
     </prompt>
     <misc/>

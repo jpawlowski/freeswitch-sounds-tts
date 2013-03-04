@@ -1678,9 +1678,6 @@
     <prompt phrase="Dieser Anruf ist jetzt gesch&#xFC;tzt." filename="call_secured.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="chinesisch" filename="chinese.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="Deutsch" filename="de.wav">
       <prompt/>
     </prompt>
@@ -1696,7 +1693,7 @@
     <prompt phrase="gefolgt von einer Raute" filename="followed.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="franz&#xF6;sisch" filename="french.wav">
+    <prompt phrase="franz&#xF6;sisch" filename="fr.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Wenn Sie diese Person sind," filename="if_you_are_this_person.wav">
@@ -1795,19 +1792,19 @@
     <prompt phrase="Ihr Anruf wird automatisch beendet in" filename="misc-your_call_will_be_terminated_in.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="niederl&#xE4;ndisch" filename="netherlandish.wav">
+    <prompt phrase="niederl&#xE4;ndisch" filename="nl.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Dieser Benutzer kann keine Telefonate ins &#xF6;ffentliche Telefonnetz f&#xFC;hren." filename="phone_not_auth.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="portugiesisch" filename="portuguese.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="Bitte geben Sie die Referenznummer ein." filename="provide_reference_number.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="russisch" filename="russian.wav">
+    <prompt phrase="portugiesisch" filename="pt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="russisch" filename="ru.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Entschuldigung!" filename="sorry.wav">
@@ -1820,6 +1817,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="Wir verbinden Sie nun mit folgender Rufnummer:" filename="we_are_trying_to_reach.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="chinesisch" filename="zh_CN.wav">
       <prompt/>
     </prompt>
     <misc/>

@@ -1,5 +1,4 @@
 voicemail/vm-saved2
-currency/euro
 ascii/200
 ascii/201
 ascii/202
