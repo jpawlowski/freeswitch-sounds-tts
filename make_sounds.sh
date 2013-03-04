@@ -69,10 +69,11 @@ if [[ x"$1" == x"googletts" ]]; then
 		INPUT_FILE="./input/${FILENAME}.txt"
 
 		if [ -h "${INPUT_FILE}" ]; then
+			LINK_DEST="`readlink "${INPUT_FILE}"`"
 			echo "Overtaking symlinked file ${FILENAME}"
 			rm -f "${OUTPUT_FILE}" "${OUTPUT_FILE8k}"
-			cp -R "${INPUT_FILE}" "${OUTPUT_FILE}"
-			cp -R "${INPUT_FILE}" "${OUTPUT_FILE8k}"
+			ln -sf "${LINK_DEST}" "${OUTPUT_FILE}"
+			ln -sf "${LINK_DEST}" "${OUTPUT_FILE8k}"
 			continue;
 		fi
 	
@@ -186,6 +187,15 @@ if [[ x"$1" == x"bingtts" ]]; then
 			OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
 			OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
 			INPUT_FILE="./input/${FILENAME}.txt"
+
+			if [ -h "${INPUT_FILE}" ]; then
+				LINK_DEST="`readlink "${INPUT_FILE}"`"
+				echo "Overtaking symlinked file ${FILENAME}"
+				rm -f "${OUTPUT_FILE}" "${OUTPUT_FILE8k}"
+				ln -sf "${LINK_DEST}" "${OUTPUT_FILE}"
+				ln -sf "${LINK_DEST}" "${OUTPUT_FILE8k}"
+				continue;
+			fi
 	
 			if [ ! -f "${OUTPUT_FILE_TMP}" ]; then
 				echo -n "Processing ${FILENAME} ... "
@@ -275,10 +285,10 @@ echo -e "\n\nNOW PROCESSING STATIC TONES AND MUSIC\n"
 VOICES="`cd ./output; find . -maxdepth 3 -mindepth 3 -type d`"
 
 # Search for static tones
-TONES="`cd ./tone; find . -type f -name "*.wav"`"
+TONES="`cd ./tone; find . -name "*.wav"`"
 
 # Search for static music
-MUSIC="`cd ./music; find . -type f -name "*.wav"`"
+MUSIC="`cd ./music; find . -name "*.wav"`"
 
 for FILE in $TONES; do
 	BASENAME="${FILE#.*/}"
@@ -288,7 +298,7 @@ for FILE in $TONES; do
 	OUTPUT_DIR_TMP8k="./cache/tone/${FILENAME%%/*}/8000"
 	OUTPUT_FILE_TMP8k="${OUTPUT_DIR_TMP8k}/${FILENAME##*/}.wav"
 
-	if [ ! -f "${OUTPUT_FILE_TMP8k}" ]; then
+	if [[ ! -f "${OUTPUT_FILE_TMP8k}" && ! -h "./tone/${FILE}" ]]; then
 		echo "Converting ${BASENAME} to 8kHz ..."
 		mkdir -p "${OUTPUT_DIR_TMP8k}"
 		sox -t wav "./tone/${FILE}" -c1 -r8000 -b16 -e signed-integer "${OUTPUT_FILE_TMP8k}"
@@ -305,11 +315,19 @@ for FILE in $TONES; do
 		mkdir -p "${OUTPUT_DIR}"
 		mkdir -p "${OUTPUT_DIR8k}"
 
-		echo "Copy ${FILENAME} to ${VBASENAME}"
-		set +e
-		cp -n "./tone/${BASENAME}" "${OUTPUT_FILE}"
-		cp -n "${OUTPUT_FILE_TMP8k}" "${OUTPUT_FILE8k}"
-		set -e
+		if [ -h "./tone/${BASENAME}" ]; then
+			LINK_DEST="`readlink "./tone/${BASENAME}"`"
+			echo "Symlinking ${BASENAME} in ${VBASENAME}"
+			rm -f "${OUTPUT_FILE}" "${OUTPUT_FILE8k}"
+			ln -sf "${LINK_DEST}" "${OUTPUT_FILE}"
+			ln -sf "${LINK_DEST}" "${OUTPUT_FILE8k}"
+		else
+			echo "Copy ${FILENAME} to ${VBASENAME}"
+			set +e
+			cp -n "./tone/${BASENAME}" "${OUTPUT_FILE}"
+			cp -n "${OUTPUT_FILE_TMP8k}" "${OUTPUT_FILE8k}"
+			set -e
+		fi
 	done
 done
 
@@ -321,7 +339,7 @@ for FILE in $MUSIC; do
 	OUTPUT_DIR_TMP8k="./cache/music/${FILENAME%%/*}/8000"
 	OUTPUT_FILE_TMP8k="${OUTPUT_DIR_TMP8k}/${FILENAME##*/}.wav"
 
-	if [ ! -f "${OUTPUT_FILE_TMP8k}" ]; then
+	if [[ ! -f "${OUTPUT_FILE_TMP8k}" && ! -h "./music/${FILE}" ]]; then
 		echo "Converting ${BASENAME} to 8kHz ..."
 		mkdir -p "${OUTPUT_DIR_TMP8k}"
 		sox -t wav "./music/${FILE}" -c1 -r8000 -b16 -e signed-integer "${OUTPUT_FILE_TMP8k}"
@@ -338,11 +356,19 @@ for FILE in $MUSIC; do
 		mkdir -p "${OUTPUT_DIR}"
 		mkdir -p "${OUTPUT_DIR8k}"
 
-		echo "Copy ${FILENAME} to ${VBASENAME}"
-		set +e
-		cp -n "./music/${BASENAME}" "${OUTPUT_FILE}"
-		cp -n "${OUTPUT_FILE_TMP8k}" "${OUTPUT_FILE8k}"
-		set -e
+		if [ -h "./tone/${BASENAME}" ]; then
+			LINK_DEST="`readlink "./tone/${BASENAME}"`"
+			echo "Symlinking ${BASENAME} in ${VBASENAME}"
+			rm -f "${OUTPUT_FILE}" "${OUTPUT_FILE8k}"
+			ln -sf "${LINK_DEST}" "${OUTPUT_FILE}"
+			ln -sf "${LINK_DEST}" "${OUTPUT_FILE8k}"
+		else
+			echo "Copy ${FILENAME} to ${VBASENAME}"
+			set +e
+			cp -n "./music/${BASENAME}" "${OUTPUT_FILE}"
+			cp -n "${OUTPUT_FILE_TMP8k}" "${OUTPUT_FILE8k}"
+			set -e
+		fi
 	done
 done
 
