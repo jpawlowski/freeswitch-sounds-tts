@@ -67,6 +67,14 @@ if [[ x"$1" == x"googletts" ]]; then
 		OUTPUT_FILE="${OUTPUT_DIR}/${FILENAME##*/}.wav"
 		OUTPUT_FILE8k="${OUTPUT_DIR8k}/${FILENAME##*/}.wav"
 		INPUT_FILE="./input/${FILENAME}.txt"
+
+		if [ -h "${INPUT_FILE}" ]; then
+			echo "Overtaking symlinked file ${FILENAME}"
+			rm -f "${OUTPUT_FILE}" "${OUTPUT_FILE8k}"
+			cp -R "${INPUT_FILE}" "${OUTPUT_FILE}"
+			cp -R "${INPUT_FILE}" "${OUTPUT_FILE8k}"
+			continue;
+		fi
 	
 		if [ ! -f "${OUTPUT_FILE_TMP}" ]; then
 			echo -n "Processing ${FILENAME} ..."
