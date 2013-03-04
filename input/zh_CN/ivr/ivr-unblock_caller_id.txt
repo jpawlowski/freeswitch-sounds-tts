@@ -1,0 +1,2 @@
+#TODO Please translate the following text:
+You must unblock your caller ID for PIN-less authorization to the calling card.

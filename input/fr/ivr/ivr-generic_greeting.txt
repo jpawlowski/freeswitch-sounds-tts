@@ -1,0 +1,4 @@
+#TODO Please translate the following text:
+Thank you for calling.
+If you know your party's extension, please enter it now.
+For a directory, press...

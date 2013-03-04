@@ -1,0 +1,2 @@
+#TODO Please translate the following text:
+There are no calls waiting in this queue.

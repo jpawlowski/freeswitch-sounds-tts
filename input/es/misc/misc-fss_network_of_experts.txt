@@ -1,0 +1,2 @@
+#TODO Please translate the following text:
+We have a network of FreeSWITCH experts that includes the core FreeSWITCH development team.

@@ -1,0 +1,3 @@
+#TODO Please translate the following text:
+Your phone indicates that it already trusts this system
+to relay ZRTP secured calls, so you do not need to do anything more.

@@ -70,7 +70,13 @@
     <prompt phrase="Z" filename="122.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Open curly bracket." filename="123.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x7AD6;&#x7EBF;" filename="124.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Close curly bracket." filename="125.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x6CE2;&#x6D6A;&#x7EBF;" filename="126.wav">
@@ -100,7 +106,19 @@
     <prompt phrase="&#x5355;&#x5F15;&#x53F7;" filename="39.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Open parenthesis." filename="40.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Close parenthesis." filename="41.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x661F;" filename="42.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Plus." filename="43.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Comma." filename="44.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x6760;" filename="45.wav">
@@ -118,19 +136,34 @@
     <prompt phrase="&#x5206;&#x53F7;" filename="59.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Less than sign." filename="60.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x7B49;&#x53F7;" filename="61.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Greater than sign." filename="62.wav">
       <prompt/>
     </prompt>
     <prompt phrase="At" filename="64.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Open square bracket." filename="91.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x53CD;&#x659C;&#x6760;" filename="92.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Close square bracket." filename="93.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8131;&#x5B57;&#x7B26;" filename="94.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x4E0B;&#x5212;&#x7EBF;" filename="95.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Backtick." filename="96.wav">
       <prompt/>
     </prompt>
     <prompt phrase="A" filename="97.wav">
@@ -149,6 +182,15 @@
       <prompt/>
     </prompt>
     <prompt phrase="&#x5BC6;&#x7801;&#x9519;&#x8BEF;&#xFF0C;&#x8BF7;&#x91CD;&#x65B0;&#x8F93;&#x5165;" filename="conf-bad-pin.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="&#x4F1A;&#x8BAE;&#x5BA4;&#x5DF2;&#x6EE1;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x7BA1;&#x7406;&#x5458;" filename="conf-conference_is_full.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;This conference is in Q and A mode." filename="conf-conference_is_in_qna_mode.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Your conference will start shortly. Please stay on the line." filename="conf-conference_will_start_shortly.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x4F1A;&#x8BAE;&#x53F7;&#x7801;&#xFF0C;&#x6309;#&#x53F7;&#x7ED3;&#x675F;" filename="conf-enter_conf_number.wav">
@@ -193,7 +235,19 @@
     <prompt phrase="&#x8F93;&#x5165;&#x4E0E;&#x4F1A;&#x8005;&#x7F16;&#x53F7;&#x7136;&#x540E;&#x6309;#&#x53F7;&#x952E;" filename="conf-number_of_listeners.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;There is one other member in this conference." filename="conf-one_other_member_conference.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;There is one other person in this conference." filename="conf-one_other_person_conference.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...other persons in this conference." filename="conf-other_persons_conference.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x4F1A;&#x8BAE;&#x5BC6;&#x7801;" filename="conf-pin.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Q and A mode..." filename="conf-qna_mode.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x89E3;&#x9664;&#x9759;&#x97F3;" filename="conf-unmuted.wav">
@@ -230,6 +284,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="&#x5143;" filename="dollars.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Euro" filename="euro.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x5206;" filename="fen.wav">
@@ -457,6 +514,9 @@
     <prompt phrase="&#x6CA1;&#x6709;&#x4E86;" filename="dir-no_more_results.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...or press..." filename="dir-or_press.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BF7;&#x91CD;&#x8BD5;" filename="dir-please_try_again.wav">
       <prompt/>
     </prompt>
@@ -487,10 +547,13 @@
     <directory/>
   </directory>
   <ivr>
-    <prompt phrase="&#x4F1A;&#x8BAE;&#x5BA4;&#x5DF2;&#x6EE1;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x7BA1;&#x7406;&#x5458;" filename="conf-conference_is_full.wav">
+    <prompt phrase="#TODO Please translate the following text:&#10;To accept, press 1. To reject, press 2." filename="ivr-accept_reject.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x63A5;&#x53D7;&#x8BF7;&#x6309;1&#xFF0C;&#x62D2;&#x7EDD;&#x8BF7;&#x6309;2&#xFF0C;&#x8F6C;&#x8BED;&#x97F3;&#x90AE;&#x7BB1;&#x8BF7;&#x6309;3" filename="ivr-accept_reject_voicemail.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Access denied." filename="ivr-access_denied.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8D26;&#x6237;&#x4F59;&#x989D;&#x4E3A;..." filename="ivr-account_balance_is.wav">
@@ -499,22 +562,52 @@
     <prompt phrase="&#x8D26;&#x53F7;" filename="ivr-account_number.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Ain't nobody got time for that!" filename="ivr-aint_nobody_got_time_for_that.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x60A8;&#x6240;&#x6709;&#x7684;&#x7535;&#x8BDD;&#x90FD;&#x5C5E;&#x4E8E;&#x6211;&#x4EEC;." filename="ivr-all_your_call_are_belong_to_us.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...already contains a recording." filename="ivr-already_contains_a_recording.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Anonymous caller." filename="ivr-anonymous_caller.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x4EFB;&#x610F;&#x5176;&#x5B83;&#x6570;&#x5B57;..." filename="ivr-any_other_digit.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Asterisk is like syphilis: it hurts until it's gone." filename="ivr-asterisk_like_syphilis.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;At the tone..." filename="ivr-at_the_tone.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Automated attendant." filename="ivr-automated_attendant.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Automated attendants." filename="ivr-automated_attendants.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Barracuda Networks" filename="ivr-barracuda_networks.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Beacuase, the voices where pretty good" filename="ivr-beacuase.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x5F00;&#x59CB;&#x5F55;&#x97F3;" filename="ivr-begin_recording.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...by dialing..." filename="ivr-by_dialing.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x547C;&#x53EB;" filename="ivr-call.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x60A8;&#x7684;&#x7535;&#x8BDD;&#x4F1A;&#x88AB;&#x6309;&#x987A;&#x5E8F;&#x63A5;&#x542C;" filename="ivr-call_answered_order_received.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;The call attempt has been aborted." filename="ivr-call_attempt_aborted.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x7535;&#x8BDD;&#x8F6C;&#x63A5;&#x4E2D;" filename="ivr-call_being_transferred.wav">
@@ -535,7 +628,19 @@
     <prompt phrase="&#x547C;&#x53EB;&#x88AB;&#x62D2;&#x7EDD;" filename="ivr-call_rejected.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Call screening has been disabled." filename="ivr-call_screening_disabled.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Call screening has been enabled." filename="ivr-call_screening_enabled.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x53D6;&#x6D88;&#x7535;&#x8BDD;&#x53EB;&#x9192;&#x670D;&#x52A1;..." filename="ivr-cancel_wakeup_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Man, that is cold foolish...COLD Foolish" filename="ivr-cold_foolish.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;CONCENTRATE! Focus on the bunny! FOCUS ON THE BUNNY!" filename="ivr-concentrate.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x786E;&#x8BA4;&#x7535;&#x8BDD;&#x53EB;&#x9192;&#x670D;&#x52A1;..." filename="ivr-confirm_wakeup_call.wav">
@@ -544,13 +649,25 @@
     <prompt phrase="&#x606D;&#x559C;&#xFF0C;&#x60A8;&#x6309;&#x7684;&#x662F;&#x661F;&#x53F7;&#x952E;&#xFF0C;&#x8FD9;&#x5E76;&#x4E0D;&#x8868;&#x793A;&#x60A8;&#x662F;&#x4E00;&#x4E2A;&#x660E;&#x661F;&#x3002;&#x53EA;&#x662F;&#x610F;&#x5473;&#x7740;&#x4F60;&#x6709;&#x4E00;&#x4E2A;&#x624B;&#x6307;&#x5934;&#x53EF;&#x4EE5;&#x6309;&#x952E;" filename="ivr-congratulations_you_pressed_star.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please hold while we connect you to an actual human being." filename="ivr-connect_actual_human_being.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please hold while we connect you to a live operator." filename="ivr-connect_live_operator.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8FDE;&#x63A5;&#x5230;&#x4E3B;&#x53EB;" filename="ivr-connect_to_caller.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BF7;&#x8054;&#x7CFB;&#x7CFB;&#x7EDF;&#x7BA1;&#x7406;&#x5458;" filename="ivr-contact_system_administrator.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;The credit card on file could not be charged." filename="ivr-credit_card_could_not_be_charged.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="CudaTel Communication Server" filename="ivr-cudatel_communication_server.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Custom mode number..." filename="ivr-custom_mode_number.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x5BA2;&#x670D;" filename="ivr-customer_service.wav">
@@ -559,7 +676,16 @@
     <prompt phrase="&#x6BCF;&#x65E5;&#x53EB;&#x9192;&#x7535;&#x8BDD;..." filename="ivr-daily_wakeup_call.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Day mode..." filename="ivr-day_mode.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;After the tone, I will send a delayed echo of your audio back to you." filename="ivr-delayed_echo_your_audio_back.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x60A8;&#x662F;&#x8BF4;&#x8981;&#x6309;&#x90A3;&#x4E2A;&#x952E;&#x5417;&#xFF1F;" filename="ivr-did_you_mean_to_press_key.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;disabled" filename="ivr-disabled.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x514D;&#x6253;&#x6270;&#x672A;&#x751F;&#x6548;" filename="ivr-dnd_activated.wav">
@@ -568,13 +694,31 @@
     <prompt phrase="&#x514D;&#x6253;&#x6270;&#x5DF2;&#x751F;&#x6548;" filename="ivr-dnd_cancelled.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;That number is on the Do Not Call list." filename="ivr-do_not_call_list.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...does not contain a recording." filename="ivr-does_not_contain_a_recording.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Thank you for calling Douche Telecom, where we make sure that&#10;your communications never have that 'not so fresh' feeling!" filename="ivr-douche_telecom.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x54E5;&#x4EEC;&#xFF0C;&#x4F60;&#x592A;&#x6076;&#x5FC3;&#x4E86;!" filename="ivr-dude_you_suck.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;After the tone, I will echo your audio back to you." filename="ivr-echo_your_audio_back.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;enabled" filename="ivr-enabled.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x6240;&#x6709;&#x5DE5;&#x7A0B;&#x5E08;&#x90FD;&#x5728;&#x5FD9;&#x7740;&#x5E2E;&#x52A9;&#x5176;&#x5B83;&#x9500;&#x552E;&#x4EE3;&#x8868;&#x6F14;&#x793A;CudaTel&#x6709;&#x591A;&#x9177;" filename="ivr-engineers_busy_assisting_other_sales.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x7535;&#x8BDD;&#x8F6C;&#x63A5;&#x4E2D;&#xFF0C;&#x8BF7;&#x7A0D;&#x5019;" filename="ivr-enjoy_music_while_transfer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To ensure that your service keeps working..." filename="ivr-ensure_service_keeps_working.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x88AB;&#x53EB;&#x7535;&#x8BDD;&#x53F7;&#x7801;&#xFF0C;&#x4EE5;#&#x53F7;&#x7ED3;&#x675F;." filename="ivr-enter_destination_telephone_number.wav">
@@ -595,6 +739,15 @@
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x59D3;&#x6C0F;&#x7684;&#x5F00;&#x5934;&#x51E0;&#x4E2A;&#x5B57;&#x6BCD;" filename="ivr-enter_letters_last_name.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please enter the number to which I should send this fax, then press pound." filename="ivr-enter_number_send_fax.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please enter the number to be added to the blacklist." filename="ivr-enter_number_to_add_to_blacklist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please enter the number to be removed from the blacklist." filename="ivr-enter_number_to_remove_from_blacklist.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x961F;&#x5217;&#x53F7;&#x7801;&#xFF0C;&#x4EE5;#&#x53F7;&#x7ED3;&#x675F;" filename="ivr-enter_queue_number.wav">
       <prompt/>
     </prompt>
@@ -613,10 +766,19 @@
     <prompt phrase="&#x5931;&#x8D25;&#x539F;&#x56E0;&#x4E3A;..." filename="ivr-failure_reason_is.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Feature." filename="ivr-feature.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="...&#x6587;&#x4EF6;..." filename="ivr-file.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="...&#x6587;&#x4EF6;..." filename="ivr-files-.wav">
+    <prompt phrase="#TODO Please translate the following text:&#10;If you dont like it, you can file a JIRA!" filename="ivr-file_a_jira.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-files-.wav" link="ivr-files.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="...&#x6587;&#x4EF6;..." filename="ivr-files.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8F93;&#x5165;&#x5B8C;&#x6BD5;&#x8BF7;&#x6309;#&#x53F7;&#x952E;" filename="ivr-finished_pound_hash_key.wav">
@@ -646,10 +808,25 @@
     <prompt phrase="&#x82F1;&#x8BED;&#xFF0C;&#x8BF7;&#x6309;..." filename="ivr-for_english_press.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;For german, press ..." filename="ivr-for_german_press.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x4E00;&#x6B21;&#x6027;&#x53EB;&#x9192;&#x7535;&#x8BDD;..." filename="ivr-for_one_time_wakeup_call.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;For other options, press..." filename="ivr-for_other_options.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;For spanish, press ..." filename="ivr-for_spanish_press.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BE5;&#x5206;&#x673A;" filename="ivr-for_this_person.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Allow me to introduce, the founder of FreeSOURCE, Anthony Ministrone." filename="ivr-founder_of_freesource.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Have your self a slice of free gooey pie!" filename="ivr-freeguipy.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x7F51;&#x5173;&#x9519;&#x8BEF;" filename="ivr-gateway_down.wav">
@@ -667,7 +844,16 @@
     <prompt phrase="&#x65E9;&#x4E0A;&#x597D;." filename="ivr-good_morning.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...hang up." filename="ivr-hang_up.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x4E0D;&#x6309;&#x4EFB;&#x4F55;&#x952E;&#x6302;&#x65AD;&#x8BE5;&#x7535;&#x8BDD;&#x4EE5;&#x653E;&#x5F03;&#x5F55;&#x97F3;." filename="ivr-hangup_to_discard.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Hang up to end the test." filename="ivr-hangup_to_end_test.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...has been added to the blacklist." filename="ivr-has_been_added_to_the_blacklist.wav">
       <prompt/>
     </prompt>
     <prompt phrase="...&#x5DF2;&#x5E94;&#x7B54;" filename="ivr-has_been_answered.wav">
@@ -676,13 +862,22 @@
     <prompt phrase="...&#x5DF2;&#x5220;&#x9664;" filename="ivr-has_been_removed.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...has been removed from the blacklist." filename="ivr-has_been_removed_from_blacklist.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-has_been_removeded.wav" link="ivr-has_been_removed.wav">
       <prompt/>
     </prompt>
     <prompt phrase="...&#x547C;&#x53EB;&#x4E86;&#x7D27;&#x6025;&#x670D;&#x52A1;" filename="ivr-has_called_emergency_services.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...has had..." filename="ivr-has_had.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="...&#x79BB;&#x5F00;&#x529E;&#x516C;&#x5BA4;&#x4E86;" filename="ivr-has_left_the_building.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To hear usage statistics..." filename="ivr-hear_usage_stats.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x60A8;&#x597D;" filename="ivr-hello.wav">
@@ -703,6 +898,9 @@
     <prompt phrase="&#x9519;&#x8BEF;&#x8BF7;&#x6309;..." filename="ivr-if_not_press.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;If you would like us to call you back, press..." filename="ivr-if_you_would_like_us_to_call_back.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x5BF9;&#x4E0D;&#x8D77;" filename="ivr-im_sorry.wav">
       <prompt/>
     </prompt>
@@ -715,10 +913,37 @@
     <prompt phrase="&#x76EE;&#x7684;&#x5730;&#x4E0D;&#x517C;&#x5BB9;" filename="ivr-incompatible_destination.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Invalid extension - please try again." filename="ivr-invalid_extension_try_again.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x53F7;&#x7801;&#x9519;&#x8BEF;" filename="ivr-invalid_number_format.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...is already on the blacklist." filename="ivr-is_already_on_the_blacklist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...is not on the blacklist." filename="ivr-is_not_on_the_blacklist.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...is now off." filename="ivr-is_now_off.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...is now on." filename="ivr-is_now_on.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;It appears that your phone number is..." filename="ivr-it_appears_that_your_phone_number_is.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Well I'll be a monkey's bitch! It *was* that bug!" filename="ivr-it_was_that_bug.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Key..." filename="ivr-key.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x59D3;&#x6C0F;&#x4F18;&#x5148;" filename="ivr-last_name_first.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Learn more at F-R-E-E-G-U-I-P-Y dot O-R-G" filename="ivr-learn_more_freeguipydotorg.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x5C11;&#x4E8E;..." filename="ivr-less_than.wav">
@@ -730,10 +955,28 @@
     <prompt phrase="&#x6211;&#x5C31;&#x662F;&#x559C;&#x6B22;&#x4F60;&#x6309;&#x7535;&#x8BDD;&#x6309;&#x952E;&#x7684;&#x90A3;&#x80A1;&#x52B2;!" filename="ivr-love_those_touch_tones.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Lunch mode..." filename="ivr-lunch_mode.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BE5;&#x4FE1;&#x606F;&#x5C06;&#x4F1A;&#x81EA;&#x5DF2;&#x5220;&#x9664;&#xFF0C;&#x5012;&#x8BA1;&#x65F6; 5, 4, 3, 2, 1 ..." filename="ivr-message_self_destruct.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to modify main prompt" filename="ivr-modify_main_prompt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To modify main prompts..." filename="ivr-modify_main_prompts.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To modify option prompts..." filename="ivr-modify_option_prompts.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x591A;&#x4E8E;..." filename="ivr-more_than.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Your next billing cycle begins on..." filename="ivr-next_billing_cycle.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Night mode..." filename="ivr-night_mode.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BE5;&#x961F;&#x5217;&#x6CA1;&#x6709;&#x7535;&#x8BDD;&#x4E86;" filename="ivr-no_calls_waiting_in_queue.wav">
@@ -766,10 +1009,19 @@
     <prompt phrase="&#x5426;" filename="ivr-not.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;That person does not accept anonymous calls." filename="ivr-not_accept_anonymous_calls.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x64CD;&#x4F5C;&#x53D7;&#x9650;" filename="ivr-not_have_permission.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You do not have permission to edit..." filename="ivr-not_have_permission_to_edit.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x60A8;&#x672A;&#x8BBE;&#x7F6E;&#x7535;&#x8BDD;&#x53EB;&#x9192;&#x670D;&#x52A1;" filename="ivr-not_requested_wakeup_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Nothing." filename="ivr-nothing.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x53F7;&#x7801;." filename="ivr-number.wav">
@@ -796,10 +1048,28 @@
     <prompt phrase="&#x63A5;&#x7EBF;&#x5458;" filename="ivr-operator.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Option..." filename="ivr-option.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x6216;" filename="ivr-or.wav">
       <prompt/>
     </prompt>
     <prompt phrase="...&#x6216;&#x6309;..." filename="ivr-or_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...out of..." filename="ivr-out_of.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...per minute." filename="ivr-per_minute.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To perform a delayed echo test, press..." filename="ivr-perform_delayed_echo_test.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To perform a DTMF test, press..." filename="ivr-perform_dtmf_test.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To perform an echo test, press..." filename="ivr-perform_echo_test.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x606D;&#x559C;! &#x7535;&#x8BDD;&#x914D;&#x7F6E;&#x5DF2;&#x6210;&#x529F;&#xFF0C;&#x73B0;&#x5728;&#x53EF;&#x4EE5;&#x5206;&#x914D;&#x7ED9;&#x4E00;&#x4E2A;&#x7528;&#x6237;&#x4E86;" filename="ivr-phone_is_configured_properly.wav">
@@ -823,16 +1093,25 @@
     <prompt phrase="&#x8BF7;&#x67E5;&#x8BC1;&#x540E;&#x518D;&#x62E8;" filename="ivr-please_check_number_try_again.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please contact..." filename="ivr-please_contact.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x7535;&#x8BDD;&#x8F6C;&#x63A5;&#x4E2D;&#xFF0C;&#x8BF7;&#x5148;&#x6B23;&#x8D4F;&#x97F3;&#x4E50;." filename="ivr-please_enjoy_music_while_party_reached.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x5206;&#x673A;&#x53F7;&#xFF0C;&#x4EE5;#&#x53F7;&#x952E;&#x7ED3;&#x675F;" filename="ivr-please_enter_extension_followed_by_pound.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please enter the extension number of the..." filename="ivr-please_enter_extension_number_of.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x5BC6;&#x7801;&#xFF0C;&#x4EE5;#&#x53F7;&#x952E;&#x7ED3;&#x675F;" filename="ivr-please_enter_pin_followed_by_pound.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;..." filename="ivr-please_enter_the.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please enter the number where we can reach you." filename="ivr-please_enter_the_number_where_we_can_reach_you.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x7535;&#x8BDD;&#x53F7;&#x7801;" filename="ivr-please_enter_the_phone_number.wav">
@@ -853,7 +1132,16 @@
     <prompt phrase="&#x8BF7;&#x91CD;&#x8BD5;" filename="ivr-please_try_again.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;press" filename="ivr-press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Press the key of the prompt you would like to modify." filename="ivr-press_key_of_prompt_to_modify.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Q&#x6216;Z&#x8BF7;&#x6309;1" filename="ivr-press_one_q_or_z.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;main prompt" filename="ivr-prompt.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x60A8;&#x5C06;&#x6C38;&#x4E45;&#x9884;&#x7559;&#x8BE5;&#x7535;&#x8BDD;&#x5230;&#x60A8;&#x7684;&#x5206;&#x673A;" filename="ivr-provision_phone_permanently_to_extension.wav">
@@ -863,6 +1151,15 @@
       <prompt/>
     </prompt>
     <prompt phrase="...&#x95EE;&#x9898;." filename="ivr-questions.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Press one or more keys. I will read each key press back to you." filename="ivr-read_each_key_press_back.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please record the prompt." filename="ivr-record_prompt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please record a short greeting." filename="ivr-record_short_greeting.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x5F55;&#x97F3;&#x5220;&#x9664;" filename="ivr-recording_deleted.wav">
@@ -889,10 +1186,19 @@
     <prompt phrase="&#x91CD;&#x542C;..." filename="ivr-repeat_this_information.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Alternatively, you can request or use a PIN code on your account." filename="ivr-request_or_use_pin.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BBE;&#x7F6E;&#x7535;&#x8BDD;&#x53EB;&#x9192;&#x670D;&#x52A1;..." filename="ivr-request_wakeup_call.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x60A8;&#x5DF2;&#x8BBE;&#x7F6E;&#x7535;&#x8BDD;&#x53EB;&#x9192;&#x670D;&#x52A1;.." filename="ivr-requested_wakeup_call_for.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To reset usage totals..." filename="ivr-reset_usage_totals.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You have chosen to reset usage totals." filename="ivr-reset_usage_totals_confirm.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x9500;&#x552E;" filename="ivr-sales.wav">
@@ -907,10 +1213,19 @@
     <prompt phrase="&#x8BF7;&#x5728;&#x6EF4;&#x58F0;&#x540E;&#x8BF4;&#x51FA;&#x60A8;&#x7684;&#x59D3;&#x540D;" filename="ivr-say_name.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To send a fax, press..." filename="ivr-send_fax.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Send your fax now." filename="ivr-send_fax_now.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x5C06;&#x8BE5;&#x547C;&#x53EB;&#x8F6C;&#x79FB;&#x5230;&#x8BED;&#x97F3;&#x90AE;&#x7BB1;" filename="ivr-send_to_voicemail.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x6211;&#x662F;&#x8BA4;&#x771F;&#x7684;&#xFF0C;&#x4F60;&#x771F;&#x7684;&#x662F;&#x8BF4;&#x8981;&#x6309;&#x90A3;&#x4E2A;&#x952E;&#x5417;&#xFF1F;" filename="ivr-seriously_mean_to_press_key.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...the short greeting." filename="ivr-short_greeting.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8DF3;&#x8FC7;&#x8BE5;&#x5E2E;&#x52A9;&#x4FE1;&#x606F;..." filename="ivr-skip_instructions.wav">
@@ -925,10 +1240,25 @@
     <prompt phrase="&#x8BF7;&#x7A0D;&#x5019;" filename="ivr-stay_on_line_call_answered_momentarily.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...suck." filename="ivr-suck.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...sucks." filename="ivr-sucks.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;The system will be back up in approximately..." filename="ivr-system_back_up_in_approximately.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;The system is going down for maintenance." filename="ivr-system_down_for_maintenance.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x9009;&#x62E9;&#x4E00;&#x6761;&#x4FE1;&#x606F;" filename="ivr-take_a_message.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x6280;&#x672F;&#x652F;&#x6301;" filename="ivr-technical_support.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Something went terribly, terribly wrong... (awkward!)" filename="ivr-terribly_wrong_awkward.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8C22;&#x8C22;." filename="ivr-thank_you.wav">
@@ -943,7 +1273,19 @@
     <prompt phrase="&#x8F93;&#x5165;&#x9519;&#x8BEF;" filename="ivr-that_was_an_invalid_entry.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...that you would like to modify." filename="ivr-that_you_would_like_to_modify.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...the billing department..." filename="ivr-the_billing_department.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x90A3;&#x91CC;&#x6709;..." filename="ivr-there_are.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;There is..." filename="ivr-there_is.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;This feature." filename="ivr-this_feature.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x6709;&#x4E00;&#x4E2A;&#x7535;&#x8BDD;&#x6765;&#x81EA;" filename="ivr-this_is_a_call_from.wav">
@@ -958,7 +1300,16 @@
     <prompt phrase="&#x8C22;&#x8C22;&#xFF0C;&#x8BE5;&#x7535;&#x8BDD;&#x5C06;&#x4F1A;&#x91CD;&#x542F;&#x52A8;" filename="ivr-this_phone_will_now_reboot.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To accept, press..." filename="ivr-to_accept_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To accept, press 1." filename="ivr-to_accept_press_one.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x547C;&#x53EB;FreeSWITCH&#x4F1A;&#x8BAE;" filename="ivr-to_call_the_freeswitch_conference.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...to confirm." filename="ivr-to_confirm.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8FDB;&#x884C;&#x56DE;&#x97F3;&#x6D4B;&#x8BD5;" filename="ivr-to_do_a_freeswitch_echo_test.wav">
@@ -973,6 +1324,9 @@
     <prompt phrase="&#x6536;&#x542C;&#x75AF;&#x72C2;&#x7684;&#x7334;&#x5B50;" filename="ivr-to_hear_screaming_monkeys.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To learn more about FreeSWITCH..." filename="ivr-to_learn_more_about_freeswitch.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x6536;&#x542C;&#x4FDD;&#x6301;&#x97F3;&#x4E50;" filename="ivr-to_listen_to_moh.wav">
       <prompt/>
     </prompt>
@@ -982,19 +1336,52 @@
     <prompt phrase="&#x9000;&#x51FA;" filename="ivr-to_log_out.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To modify..." filename="ivr-to_modify.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To modify main prompt..." filename="ivr-to_modify_main_prompt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To redial your last call..." filename="ivr-to_redial_last_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To reject..." filename="ivr-to_reject.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To reject, hang up the call without pressing a key." filename="ivr-to_reject_hangup.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x91CD;&#x542C;" filename="ivr-to_repeat_these_options.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8FD4;&#x56DE;&#x4E0A;&#x4E00;&#x7EA7;&#x83DC;&#x5355;" filename="ivr-to_return_to_previous_menu.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To skip..." filename="ivr-to_skip.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8F6C;&#x63A5;&#x7EBF;&#x5458;" filename="ivr-to_speak_with_an_operator.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To wait for the next available representative, please stay on the line." filename="ivr-to_wait_stay_on_the_line.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Congratulations! You've earned 1500 Trollover minutes this month!" filename="ivr-trollover_minutes.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x73B0;&#x5728;&#x4E0D;&#x80FD;&#x4FDD;&#x5B58;&#x5F55;&#x97F3;&#xFF0C;&#x8BF7;&#x7A0D;&#x540E;&#x518D;&#x8BD5;" filename="ivr-unable_save.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x7A7A;&#x53F7;" filename="ivr-unallocated_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You must unblock your caller ID for PIN-less authorization to the calling card." filename="ivr-unblock_caller_id.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...units..." filename="ivr-units.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Usage totals have been reset to zero." filename="ivr-usage_totals_have_been_reset.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x4F7F;&#x7528;&#x60A8;&#x7535;&#x8BDD;&#x4E0A;&#x7684;&#x6309;&#x952E;..." filename="ivr-use_telephone_keypad.wav">
@@ -1006,6 +1393,12 @@
     <prompt phrase="&#x4F7F;&#x7528;&#x60A8;&#x7684;&#x7535;&#x8BDD;&#x62E8;&#x53F7;&#x76D8;..." filename="ivr-using_telephone_keypad.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...visitor." filename="ivr-visitor.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...visitors." filename="ivr-visitors.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="...&#x53EB;&#x9192;&#x7535;&#x8BDD;..." filename="ivr-wakeup_call.wav">
       <prompt/>
     </prompt>
@@ -1013,6 +1406,12 @@
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BE5;&#x8D77;&#x5E8A;&#x4E86;&#xFF0C;&#x592A;&#x9633;&#x6652;&#x5C41;&#x80A1;&#x4E86;!" filename="ivr-wakey_wakey_sunshine.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;We will return your call at this number as soon as possible." filename="ivr-we_will_return_your_call_at_this_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;We would support the shit out of you if only you returned our phone calls and emails." filename="ivr-we_would_support.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x6B22;&#x8FCE;" filename="ivr-welcome.wav">
@@ -1024,7 +1423,16 @@
     <prompt phrase="&#x6B22;&#x8FCE;&#x6765;&#x5230;FreeSWITCH&#xFF0C;&#x7535;&#x8BDD;&#x7CFB;&#x7EDF;&#x7684;&#x672A;&#x6765;" filename="ivr-welcome_to_freeswitch.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;3... 2... 1... WE'RE ASTERISK FREE!!!" filename="ivr-were_asterisk_free.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;When finished, press any key." filename="ivr-when_finished_press_any_key.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="...&#x53D6;&#x6B3E;." filename="ivr-withdrawn.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Would you like to receive a call at this number?" filename="ivr-would_you_like_to_receive_a_call_at_this_number.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x662F;&#x7684;&#xFF0C;&#x6211;&#x4EEC;&#x6CA1;&#x6709;&#x9999;&#x8549;." filename="ivr-yes_we_have_no_bananas.wav">
@@ -1042,6 +1450,9 @@
     <prompt phrase="&#x60A8;&#x662F;&#x7B2C;..." filename="ivr-you_are_number.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You are caller number one.Of course, *every* caller is number one in our book&#10;so you may be waiting a while." filename="ivr-you_are_number_one.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x60A8;&#x662F;..." filename="ivr-you_are_the.wav">
       <prompt/>
     </prompt>
@@ -1051,22 +1462,52 @@
     <prompt phrase="&#x60A8;&#x547C;&#x53EB;&#x7684;&#x5206;&#x673A;&#x4E0D;&#x5B58;&#x5728;" filename="ivr-you_have_dialed_an_invalid_extension.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You have used..." filename="ivr-you_have_used.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x60A8;&#x53EF;&#x4EE5;" filename="ivr-you_may.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x60A8;&#x53EF;&#x4EE5;&#x968F;&#x65F6;&#x6302;&#x673A;" filename="ivr-you_may_exit_by_hanging_up.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Your caller I.D. information is..." filename="ivr-your_caller_id_information_is.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Your caller ID number is blocked." filename="ivr-your_caller_id_number_is_blocked.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You're doing it wrong, but I'll try to connect you anyway. (Douchebag!)" filename="ivr-youre_doing_it_wrong.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x60A8;&#x662F;&#x7B2C;&#x4E00;&#x4E2A;&#x547C;&#x53EB;&#x8005;&#xFF0C;&#x5F53;&#x7136;&#xFF0C;&#x5728;&#x6211;&#x4EEC;&#x7684;&#x5B57;&#x5178;&#x91CC;&#x6BCF;&#x4E2A;&#x4EBA;&#x90FD;&#x662F;&#x7B2C;&#x4E00;&#x4E2A;&#xFF0C;&#x6240;&#x4EE5;&#xFF0C;&#x8BF7;&#x7A0D;&#x7B49;&#x4E00;&#x4F1A;&#x513F;..." filename="ivr-youre_number_one.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Y U NO Silent Drill?!" filename="ivr-yuno_silent_drill.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr_connect_live_operator.wav" link="ivr-connect_live_operator.wav">
       <prompt/>
     </prompt>
     <ivr/>
   </ivr>
   <misc>
+    <prompt phrase="#TODO Please translate the following text:&#10;This call may be monitored or recorded for quality and training purposes." filename="call_monitoring_blurb.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x5DF2;&#x8FDB;&#x5165;&#x5B89;&#x5168;&#x901A;&#x4FE1;" filename="call_secured.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;german" filename="de.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;english" filename="en.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x6709;&#x9519;&#x8BEF;&#x53D1;&#x751F;&#xFF0C;&#x8BF7;&#x8054;&#x7CFB;&#x7BA1;&#x7406;&#x5458;" filename="error.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;spanish" filename="es.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x7136;&#x540E;&#x6309;#&#x53F7;" filename="followed.wav">
@@ -1078,13 +1519,103 @@
     <prompt phrase="&#x5982;&#x679C;&#x60A8;&#x613F;&#x610F;" filename="if_you_would_like_to.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;That is an invalid extension." filename="invalid_extension.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;It is held in downtown Chicago each summer." filename="misc-chicago_each_summer.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;ClueCon is the premier open source telephony developer conference." filename="misc-cluecon_is_premier_conference.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;I'm pretty sure CudaTel's patented Automagicatronical configuration takes care of it." filename="misc-cudatel_automagicatronical.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;CudaTel is the IP PBX designed by I.T. professionals, for I.T. professionals." filename="misc-cudatel_by_it.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;The CudaTel Communication Server from Barracuda Networks is an advanced IP PBX&#10;powered by FreeSWITCH and designed by the core FreeSWITCH development team." filename="misc-cudatel_communication_server_from_barracuda.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Thank you for calling the CudaTel test system." filename="misc-cudatel_test_system.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;CudaTel! You know you want one!" filename="misc-cudatel_you_know_you_want_one.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Best of all, it is free for anyone to download and use." filename="misc-free_to_download.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Visit www dot freeswitch dot org&#10;to learn more about our project and worldwide community." filename="misc-freeswitch_dot_org_more.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;FreeSWITCH is a state of the art telecommunications platform." filename="misc-freeswitch_is_state_of_the_art.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;FreeSWITCH is open source software that is sponsored by OSTAG.&#10;The Open Source Telephony Advancement Group." filename="misc-freeswitch_sponsored_by_ostag.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;FreeSWITCH Solutions offers the best FreeSWITCH consulting money can buy." filename="misc-fss_best_consulting.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Contact us at W-W-W dot freeswitchsolutions dot com to see&#10;how we can help you take your FreeSWITCH experience to the next level." filename="misc-fss_contact_us.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;We have a network of FreeSWITCH experts that includes the core FreeSWITCH development team." filename="misc-fss_network_of_experts.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;For information about FreeSWITCH, press..." filename="misc-information_about_freeswitch.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;It is stable, highly scalable, and extensible." filename="misc-it_is_stable_scalable_extensible.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Everyone is koo koo for CudaTel!" filename="misc-koo_koo_for_cudatel.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To learn more about CudaTel, press..." filename="misc-learn_more_about_cudatel.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To learn more about FreeSWITCH Solutions, press..." filename="misc-learn_more_about_freeswitch_solutions.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;OSTAG is advancing the next generation of telephony&#10;through open-source software. Learn more at www.ostag.org." filename="misc-ostag_learn_more.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Sangoma." filename="misc-Sangoma.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;It's totally soccer mom shit!" filename="misc-soccer_mom.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To speak to a knowledgeable CudaTel representative, call us at 734-887-3000." filename="misc-speak_to_cudatel_rep.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;By attending ClueCon, you are showing support not only for FreeSWITCH&#10;but also the entire spectrum of open source telephony software." filename="misc-support_open_source_by_attending.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To hear about ClueCon..." filename="misc-to_hear_about_cluecon.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You may also visit us at W W W dot C U D A T E L dot com to learn more about this amazing product." filename="misc-visit_cudatel_dot_com.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;ClueCon brings together a wide range of VoIP engineers, software developers, and business persons." filename="misc-wide_range_of_persons.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x60A8;&#x7684;&#x7535;&#x8BDD;&#x5DF2;&#x6302;&#x65AD;" filename="misc-your_call_has_been_terminated.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x60A8;&#x7684;&#x7535;&#x8BDD;&#x5C06;&#x4F1A;&#x5728;&#x4EE5;&#x4E0B;&#x65F6;&#x95F4;&#x5185;&#x6302;&#x65AD;..." filename="misc-your_call_will_be_terminated_in.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;This phone is not authorized to make outside calls." filename="phone_not_auth.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x63D0;&#x4F9B;&#x53C2;&#x8003;&#x53F7;&#x7801;" filename="provide_reference_number.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;I'm sorry." filename="sorry.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x60A8;&#x60F3;&#x8981;&#x8F6C;&#x79FB;&#x5230;&#x7684;&#x5206;&#x673A;&#x53F7;" filename="transfer1.wav">
@@ -1169,6 +1700,12 @@
       <prompt/>
     </prompt>
     <prompt phrase="&#x7A7A;&#x683C;" filename="32.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;pound" filename="35.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;star" filename="42.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x70B9;" filename="46.wav">
@@ -1309,7 +1846,13 @@
     <prompt phrase="&#x9009;&#x62E9;&#x9519;&#x8BEF;" filename="vm-choose_greeting_fail.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please choose a password that does not contain all repeating or all consecutive digits." filename="vm-choose_password.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x7EE7;&#x7EED;" filename="vm-continue.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to delete this message" filename="vm-delete_message.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x5220;&#x9664;&#x5F55;&#x97F3;" filename="vm-delete_recording.wav">
@@ -1324,13 +1867,31 @@
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x60A8;&#x7684;ID&#xFF0C;&#x7136;&#x540E;&#x6309;" filename="vm-enter_id.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please enter your new password, then press the pound key." filename="vm-enter_new_pin.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BF7;&#x8F93;&#x5165;&#x60A8;&#x7684;&#x5BC6;&#x7801;&#xFF0C;&#x7136;&#x540E;&#x6309;" filename="vm-enter_pass.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x767B;&#x5F55;&#x9519;&#x8BEF;" filename="vm-fail_auth.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;followed by" filename="vm-followed_by.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;followed by pound" filename="vm-followed_by_pound.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to add an introduction to this message" filename="vm-forward_add_intro.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Please enter the extension to forward this message to." filename="vm-forward_enter_ext.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x5C06;&#x5F55;&#x97F3;&#x8F6C;&#x53D1;&#x5230;&#x60A8;&#x7684;&#x7535;&#x5B50;&#x90AE;&#x7BB1;" filename="vm-forward_to_email.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;from" filename="vm-from.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x518D;&#x89C1;" filename="vm-goodbye.wav">
@@ -1339,10 +1900,16 @@
     <prompt phrase="&#x6B22;&#x8FCE;" filename="vm-greeting.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;has been changed to" filename="vm-has_been_changed_to.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x6B22;&#x8FCE;&#x8FDB;&#x5165;&#x60A8;&#x7684;&#x8BED;&#x97F3;&#x90AE;&#x7BB1;" filename="vm-hello.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x6536;&#x4EF6;&#x7BB1;" filename="vm-in_folder.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;last" filename="vm-last.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x542C;&#x53D6;&#x65B0;&#x7559;&#x8A00;" filename="vm-listen_new.wav">
@@ -1369,13 +1936,25 @@
     <prompt phrase="&#x5C06;&#x8BE5;&#x7559;&#x8A00;&#x8BBE;&#x7F6E;&#x4E3A;&#x7D27;&#x6025;" filename="vm-mark-urgent.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to mark this message as 'new'" filename="vm-mark_message_new.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x8BBE;&#x7F6E;&#x7D27;&#x6025;" filename="vm-marked-urgent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;marked 'new'" filename="vm-marked_new.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x4FE1;&#x606F;" filename="vm-message.wav">
       <prompt/>
     </prompt>
     <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-message_alt.wav" link="vm-message.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to hear the message envelope" filename="vm-message_envelope.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Message from..." filename="vm-message_from.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x7559;&#x8A00;&#x53F7;&#x7801;" filename="vm-message_number.wav">
@@ -1387,7 +1966,16 @@
     <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-messages_alt.wav" link="vm-messages.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;The minimum PIN length is..." filename="vm-minimum_pin_length_is.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x65B0;" filename="vm-new.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;next" filename="vm-next.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;No more messages." filename="vm-no_more_messages.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x4E0D;&#x5B58;&#x5728;" filename="vm-not_available.wav">
@@ -1396,13 +1984,37 @@
     <prompt phrase="&#x60A8;&#x6240;&#x62E8;&#x53F7;&#x7684;&#x7528;&#x6237;&#x4E0D;&#x53EF;&#x8FBE;&#xFF0C;&#x4ED6;&#x4E5F;&#x6CA1;&#x6709;&#x8BED;&#x97F3;&#x90AE;&#x7BB1;" filename="vm-not_available_no_voicemail.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;...or press..." filename="vm-or_press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Your password has been changed." filename="vm-password_has_been_changed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;A password such as '1111' or '1234' is not secure." filename="vm-password_is_not_secure.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;The password you entered is not valid on this system." filename="vm-password_not_valid.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x5206;&#x673A;" filename="vm-person.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;The PIN you entered is below the minimum length." filename="vm-pin_below_minimum_length.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x4E0D;&#x53EF;&#x8FBE;" filename="vm-play_greeting.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to play the next message" filename="vm-play_next_message.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to play the previous message" filename="vm-play_previous_message.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x6309;" filename="vm-press.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;received" filename="vm-received.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x5F55;&#x5236;&#x6B22;&#x8FCE;&#x97F3;" filename="vm-record_greeting.wav">
@@ -1417,10 +2029,16 @@
     <prompt phrase="&#x5F55;&#x5236;&#x60A8;&#x7684;&#x540D;&#x5B57;" filename="vm-record_name2.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to repeat this message" filename="vm-repeat_message.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x91CD;&#x65B0;&#x5F55;&#x97F3;" filename="vm-rerecord.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x8FD4;&#x56DE;&#x901A;&#x8BDD;" filename="vm-return_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to save this message" filename="vm-save_message.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x4FDD;&#x5B58;&#x5F55;&#x97F3;" filename="vm-save_recording.wav">
@@ -1432,6 +2050,12 @@
     <prompt phrase="&#x5DF2;&#x9009;&#x62E9;" filename="vm-selected.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to send this message now" filename="vm-send_message_now.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;That was an invalid extension." filename="vm-that_was_an_invalid_ext.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x9000;&#x51FA;" filename="vm-to_exit.wav">
       <prompt/>
     </prompt>
@@ -1439,6 +2063,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="&#x8F6C;&#x53D1;&#x7559;&#x8A00;" filename="vm-to_forward.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to record a greeting" filename="vm-to_record_greeting.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x7559;&#x8A00;&#x65F6;&#x95F4;&#x592A;&#x77ED;&#xFF0C;&#x8BF7;&#x91CD;&#x8BD5;" filename="vm-too-small.wav">
@@ -1453,6 +2080,12 @@
     <prompt phrase="&#x6B22;&#x8FCE;&#x8FDB;&#x5165;&#x60A8;&#x7684;&#x65B0;&#x8BED;&#x97F3;&#x4FE1;&#x606F;&#x3002;&#x6536;&#x542C;&#x8BBE;&#x7F6E;&#x8BED;&#x97F3;&#x4FE1;&#x7BB1;&#x7684;&#x5E2E;&#x52A9;&#x4FE1;&#x606F;&#xFF0C;&#x8BF7;&#x6309;1&#xFF0C;&#x8DF3;&#x8FC7;&#x8BF7;&#x6309;2" filename="vm-tutorial_yes_no.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;to undelete this message" filename="vm-undelete_message.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;undeleted" filename="vm-undeleted.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x65B0;&#x7D27;&#x6025;" filename="vm-urgent-new.wav">
       <prompt/>
     </prompt>
@@ -1462,10 +2095,61 @@
     <prompt phrase="&#x7D27;&#x6025;" filename="vm-urgent.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Remember that your voicemail password is also your Web interface password." filename="vm-voicemail_password_is_web_password.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="&#x60A8;&#x6709;" filename="vm-you_have.wav">
       <prompt/>
     </prompt>
     <voicemail/>
   </voicemail>
+  <zrtp>
+    <prompt phrase="#TODO Please translate the following text:&#10;You must check the authentication string with your partner.&#10;If it doesn't match, it indicates the presence of a wire tapper." filename="zrtp-check_sas.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Your phone indicates that it already trusts this system&#10;to relay ZRTP secured calls, so you do not need to do anything more." filename="zrtp-enroll_already_enrolled.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;This system is equipped to handle ZRTP encrypted phone calls.&#10;You must decide if you want to allow this system to be in a position&#10;to intercept and possibly monitor your secure phone calls.&#10;You may hang up after you've done this." filename="zrtp-enroll_confirmed.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Only phones that are authenticated can be configured to trust this system&#10;to relay ZRTP secured calls.&#10;Your phone is not authenticated with this system, so this call will have no effect." filename="zrtp-enroll_not_sip_registered.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Only phones equipped with the ZRTP protocol can use this extension.&#10;Your phone is not a ZRTP-enable phone, so this call will have no effect." filename="zrtp-enroll_notzrtp.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Welcome to the ZRTP security enrollment agent." filename="zrtp-enroll_welcome.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Verbally compare this authentication code with your partner." filename="zrtp-is_secure.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Authentication code is now unverified." filename="zrtp-is_unverified.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Authentication code is now verified." filename="zrtp-is_verified.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Something's wrong" filename="zrtp-somethings_wrong.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Error." filename="zrtp-status_error.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Call is not secure." filename="zrtp-status_notsecure.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Call is secure." filename="zrtp-status_secure.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Securing call." filename="zrtp-status_securing.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Thank you for calling. Goodbye." filename="zrtp-thankyou_goodbye.wav">
+      <prompt/>
+    </prompt>
+    <zrtp/>
+  </zrtp>
   <zh_CN/>
 </zh_CN>
