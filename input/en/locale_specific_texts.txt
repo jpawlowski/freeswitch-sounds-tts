@@ -1,2 +1,13 @@
 currency/euro
+ivr/ivr-for_german_press
+ivr/ivr-for_french_press
+ivr/ivr-for_netherlandish_press
+ivr/ivr-for_portuguese_press
+ivr/ivr-for_russian_press
+ivr/ivr-for_chinese_press
 misc/de
+misc/fr
+misc/nl
+misc/pt
+misc/ru
+misc/zh_CN
