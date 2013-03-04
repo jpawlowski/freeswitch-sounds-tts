@@ -15,6 +15,15 @@ if [[ ! -d ./input || ! curl || ! sox || ! mpg123 || ! perl || ! php ]]; then
 	exit 1
 fi
 
+if [ "$1" == "" ]; then
+	echo "Missing parameter 1: Please enter googletts or bingtts as parameter 1."
+	exit 1
+fi
+if [ "$2" == "" ]; then
+	echo "Missing parameter 2: Please enter language to be processed."
+	exit 1
+fi
+
 FAILED=false
 
 # Read configuration if existing
@@ -22,7 +31,7 @@ FAILED=false
 VERSION="`git tag | sort | tail -1`"
 
 # Search for voice text files
-FILES="`cd ./input; find . -name "*.txt" ! -iname "locale_specific_texts.txt"`"
+FILES="`cd ./input; find ./$2 -name "*.txt" ! -iname "locale_specific_texts.txt"`"
 
 ##
 ##
@@ -34,7 +43,7 @@ echo -e "\n\nFreeSwitch TTS Voice Prompt Generator v${VERSION}\n"
 
 # GOOGLE TTS
 #
-if [[ x"$1" == x"googletts" || x"$1" == x"" ]]; then
+if [[ x"$1" == x"googletts" ]]; then
 	echo -e "\nNOW PROCESSING WITH ENGINE: GOOGLE TTS\n"
 	for FILE in $FILES; do
 
@@ -144,7 +153,7 @@ fi
 
 # BING TTS
 #
-if [[ x"$1" == x"bingtts" || x"$1" == x"" ]]; then
+if [[ x"$1" == x"bingtts" ]]; then
 	if [[ x"${BING_OAUTH_CLIENTID}" != x"" && x"${BING_OAUTH_CLIENTSECRET}" != x"" ]]; then
 		echo -e "\n\nNOW PROCESSING WITH ENGINE: BING TTS\n"
 		
@@ -340,15 +349,18 @@ else
 
 	echo -e "\nCreating archive files ...\n"
 
-	rm -f ./freeswitch-sounds-*.tar.gz
-
 	cd ./output
-	for VOICE in `find . -maxdepth 3 -mindepth 3 -type d`; do
-		FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
-		echo "freeswitch-sounds${FILENAME}-16000"
-		find "$VOICE" -name '16000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
-		echo "freeswitch-sounds${FILENAME}-8000"
-		find "$VOICE" -name '8000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
-	done
+
+	[ $1 == "googletts" ] && VOICE="./$2/tts/google"
+	[ $1 == "bingtts" ] && VOICE="./$2/tts/bing"
+
+	FILENAME="`echo ${VOICE:1} | sed -e 's/\//-/g'`"
+	echo "freeswitch-sounds${FILENAME}-16000"
+	rm -f ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
+	find "$VOICE" -name '16000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-16000-${VERSION}.tar.gz
+	echo "freeswitch-sounds${FILENAME}-8000"
+	rm -f ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
+	find "$VOICE" -name '8000' -type d | xargs tar cfpz ../freeswitch-sounds${FILENAME}-8000-${VERSION}.tar.gz
+
 	cd ..
 fi
