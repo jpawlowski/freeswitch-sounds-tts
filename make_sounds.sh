@@ -72,8 +72,8 @@ if [[ x"$1" == x"googletts" ]]; then
 			LINK_DEST="`readlink "${INPUT_FILE}"`"
 			echo "Overtaking symlinked file ${FILENAME}"
 			rm -f "${OUTPUT_FILE}" "${OUTPUT_FILE8k}"
-			ln -sf "${LINK_DEST}" "${OUTPUT_FILE}"
-			ln -sf "${LINK_DEST}" "${OUTPUT_FILE8k}"
+			ln -sf "${LINK_DEST%.*}.wav" "${OUTPUT_FILE}"
+			ln -sf "${LINK_DEST%.*}.wav" "${OUTPUT_FILE8k}"
 			continue;
 		fi
 	
@@ -192,8 +192,8 @@ if [[ x"$1" == x"bingtts" ]]; then
 				LINK_DEST="`readlink "${INPUT_FILE}"`"
 				echo "Overtaking symlinked file ${FILENAME}"
 				rm -f "${OUTPUT_FILE}" "${OUTPUT_FILE8k}"
-				ln -sf "${LINK_DEST}" "${OUTPUT_FILE}"
-				ln -sf "${LINK_DEST}" "${OUTPUT_FILE8k}"
+				ln -sf "${LINK_DEST%.*}.wav" "${OUTPUT_FILE}"
+				ln -sf "${LINK_DEST%.*}.wav" "${OUTPUT_FILE8k}"
 				continue;
 			fi
 	
@@ -356,8 +356,8 @@ for FILE in $MUSIC; do
 		mkdir -p "${OUTPUT_DIR}"
 		mkdir -p "${OUTPUT_DIR8k}"
 
-		if [ -h "./tone/${BASENAME}" ]; then
-			LINK_DEST="`readlink "./tone/${BASENAME}"`"
+		if [ -h "./music/${BASENAME}" ]; then
+			LINK_DEST="`readlink "./music/${BASENAME}"`"
 			echo "Symlinking ${BASENAME} in ${VBASENAME}"
 			rm -f "${OUTPUT_FILE}" "${OUTPUT_FILE8k}"
 			ln -sf "${LINK_DEST}" "${OUTPUT_FILE}"
