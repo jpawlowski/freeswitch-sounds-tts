@@ -421,6 +421,9 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Ruble" filename="ruble.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Rubles" filename="rubles.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;schilling" filename="schilling.wav">
       <prompt/>
     </prompt>
@@ -553,6 +556,12 @@
     <prompt phrase="Novecientos" filename="900.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;billion" filename="billion.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;billions" filename="billions.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Punto" filename="dot.wav">
       <prompt/>
     </prompt>
@@ -646,6 +655,9 @@
     <prompt phrase="Mil" filename="thousand.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;thousands" filename="thousands.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Un" filename="un.wav">
       <prompt/>
     </prompt>
@@ -656,6 +668,9 @@
   </digits>
   <directory>
     <prompt phrase="...en la extensi&#xF3;n..." filename="dir-at_extension.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="dir-enter-person.wav" link="dir-enter_person.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Por favor introduzca las primeras letras del nombre buscado." filename="dir-enter_person.wav">
@@ -677,6 +692,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="...letras del nombre buscado." filename="dir-letters_of_person_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;There were no matching entries." filename="dir-no_match_entry.wav">
       <prompt/>
     </prompt>
     <prompt phrase="No hay resultados que coincidan con su busqueda." filename="dir-no_matching_results.wav">
@@ -703,13 +721,22 @@
     <prompt phrase="Necesita especificar un m&#xED;nimo de..." filename="dir-specify_mininum.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="dir-specify_mininum_first.wav" link="dir-specify_mininum.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Para empezar una nueva busqueda..." filename="dir-start_new_search.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="dir-to_make_new_search.wav" link="dir-to_start_new_search.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Para buscar por..." filename="dir-to_search_by.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Para seleccionar este resultado..." filename="dir-to_select_entry.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To start a new search&#10;" filename="dir-to_start_new_search.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Su busqueda genera demasiados resultados." filename="dir-too_many_result.wav">
@@ -1627,6 +1654,9 @@
     <prompt phrase="Usted esta a punto de asociar este tel&#xE9;fono a su cuenta..." filename="ivr-you_are_about_to_provision_this_phone.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You're doing it wrong, but I'll try to connect you anyway. (Douchebag!)" filename="ivr-you_are_doing_it_wrong.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Usted est&#xE1; ahora conectado." filename="ivr-you_are_now_logged_in.wav">
       <prompt/>
     </prompt>
@@ -1663,7 +1693,10 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Your caller ID number is blocked." filename="ivr-your_caller_id_number_is_blocked.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;You're doing it wrong, but I'll try to connect you anyway. (Douchebag!)" filename="ivr-youre_doing_it_wrong.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-youre_doing_it_wrong.wav" link="ivr-you_are_doing_it_wrong.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-youre_number_one.wav" link="ivr-you_are_number_one.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Y U NO Silent Drill?!" filename="ivr-yuno_silent_drill.wav">
@@ -1708,15 +1741,6 @@
     <prompt phrase="#TODO Please translate the following text:&#10;That is an invalid extension." filename="invalid_extension.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Andrew Thompson" filename="misc-Andrew_Thompson.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Anthony Minessale" filename="misc-Anthony_Minessale.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Brian West" filename="misc-Brian_West.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;It is held in downtown Chicago each summer." filename="misc-chicago_each_summer.wav">
       <prompt/>
     </prompt>
@@ -1759,9 +1783,6 @@
     <prompt phrase="#TODO Please translate the following text:&#10;We have a network of FreeSWITCH experts that includes the core FreeSWITCH development team." filename="misc-fss_network_of_experts.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Graham Saathoff" filename="misc-Graham_Saathoff.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;For information about FreeSWITCH, press..." filename="misc-information_about_freeswitch.wav">
       <prompt/>
     </prompt>
@@ -1777,31 +1798,10 @@
     <prompt phrase="#TODO Please translate the following text:&#10;To learn more about FreeSWITCH Solutions, press..." filename="misc-learn_more_about_freeswitch_solutions.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Mark Mann" filename="misc-Mark_Mann.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Michael Collins" filename="misc-Michael_Collins.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Michael Jerris" filename="misc-Michael_Jerris.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Nicholaus Belluni" filename="misc-Nicholaus_Belluni.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;OSTAG is advancing the next generation of telephony&#10;through open-source software. Learn more at www.ostag.org." filename="misc-ostag_learn_more.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Raymond Chandler" filename="misc-Raymond_Chandler.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Rudy Fleminger" filename="misc-Rudy_Fleminger.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Sangoma." filename="misc-Sangoma.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="Sean Heiney" filename="misc-Sean_Heiney.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;It's totally soccer mom shit!" filename="misc-soccer_mom.wav">
@@ -1820,9 +1820,6 @@
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;ClueCon brings together a wide range of VoIP engineers, software developers, and business persons." filename="misc-wide_range_of_persons.wav">
-      <prompt/>
-    </prompt>
-    <prompt phrase="William King" filename="misc-William_King.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Su llamada ha sido terminada." filename="misc-your_call_has_been_terminated.wav">
@@ -2056,6 +2053,12 @@
     <prompt phrase="Ma&#xF1;ana" filename="tomorrow.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;year" filename="year.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;years" filename="years.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Ayer" filename="yesterday.wav">
       <prompt/>
     </prompt>
@@ -2170,16 +2173,22 @@
     <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-main_menu_alt.wav" link="vm-main_menu.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Para marcar este mensaje como urgente..." filename="vm-mark-urgent.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-mark-urgent.wav" link="vm-mark_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;to mark this message as 'new'" filename="vm-mark_message_new.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Marcado urgente." filename="vm-marked-urgent.wav">
+    <prompt phrase="Para marcar este mensaje como urgente..." filename="vm-mark_urgent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-marked-urgent.wav" link="vm-marked_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;marked 'new'" filename="vm-marked_new.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Marcado urgente." filename="vm-marked_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Mensaje" filename="vm-message.wav">
@@ -2219,6 +2228,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="La persona con la que intenta hablar no est&#xE1; disponible y no tiene buz&#xF3;n de voz." filename="vm-not_available_no_voicemail.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-not_avaliable.wav" link="vm-not_available.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;...or press..." filename="vm-or_press.wav">
@@ -2273,6 +2285,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="Para devolver la llamada..." filename="vm-return_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;save" filename="vm-save.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;to save this message" filename="vm-save_message.wav">

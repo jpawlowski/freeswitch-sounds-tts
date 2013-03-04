@@ -1,2 +1,1 @@
-#TODO Please translate the following text:
-Please enter the first few letters of the persons
+Por favor introduza as primeiras letras do nome da pessoa.

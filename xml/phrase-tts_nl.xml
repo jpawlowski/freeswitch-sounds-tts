@@ -418,6 +418,9 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Ruble" filename="ruble.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;Rubles" filename="rubles.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;schilling" filename="schilling.wav">
       <prompt/>
     </prompt>
@@ -538,6 +541,12 @@
     <prompt phrase="Negentig" filename="90.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;billion" filename="billion.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;billions" filename="billions.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Punt" filename="dot.wav">
       <prompt/>
     </prompt>
@@ -607,7 +616,13 @@
     <prompt phrase="Honderd" filename="hundred.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;hundreds" filename="hundreds.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Miljoen" filename="million.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;millions" filename="millions.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Periode" filename="period.wav">
@@ -625,10 +640,16 @@
     <prompt phrase="Duizend" filename="thousand.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;thousands" filename="thousands.wav">
+      <prompt/>
+    </prompt>
     <digits/>
   </digits>
   <directory>
     <prompt phrase="...bij toestel..." filename="dir-at_extension.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="dir-enter-person.wav" link="dir-enter_person.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Geef de eerste paar letters op van de persoons" filename="dir-enter_person.wav">
@@ -650,6 +671,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="...letters van de naam opgeven." filename="dir-letters_of_person_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;There were no matching entries." filename="dir-no_match_entry.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Er zijn geen resultaten gevonden" filename="dir-no_matching_results.wav">
@@ -676,13 +700,22 @@
     <prompt phrase="U moet een minimum van..." filename="dir-specify_mininum.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="dir-specify_mininum_first.wav" link="dir-specify_mininum.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Om een nieuwe zoekopdracht te beginnen..." filename="dir-start_new_search.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="dir-to_make_new_search.wav" link="dir-to_start_new_search.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Om te zoeken met..." filename="dir-to_search_by.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Om deze te kiezen..." filename="dir-to_select_entry.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;To start a new search&#10;" filename="dir-to_start_new_search.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Er zijn teveel resultaten gevonden." filename="dir-too_many_result.wav">
@@ -1600,6 +1633,9 @@
     <prompt phrase="U staat op het punt om dit toestel te koppelen aan uw account..." filename="ivr-you_are_about_to_provision_this_phone.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;You're doing it wrong, but I'll try to connect you anyway. (Douchebag!)" filename="ivr-you_are_doing_it_wrong.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="U bent nu ingelogd" filename="ivr-you_are_now_logged_in.wav">
       <prompt/>
     </prompt>
@@ -1636,10 +1672,10 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Your caller ID number is blocked." filename="ivr-your_caller_id_number_is_blocked.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;You're doing it wrong, but I'll try to connect you anyway. (Douchebag!)" filename="ivr-youre_doing_it_wrong.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-youre_doing_it_wrong.wav" link="ivr-you_are_doing_it_wrong.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="U bent beller nummer 1. Uiteraard is *elke* beller nummer 1 bij ons dus het kan best dat u nog een tijdje moet wachten." filename="ivr-youre_number_one.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-youre_number_one.wav" link="ivr-you_are_number_one.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Y U NO Silent Drill?!" filename="ivr-yuno_silent_drill.wav">
@@ -1993,6 +2029,12 @@
     <prompt phrase="Morgen" filename="tomorrow.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;year" filename="year.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;years" filename="years.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Gisteren" filename="yesterday.wav">
       <prompt/>
     </prompt>
@@ -2107,7 +2149,7 @@
     <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-main_menu_alt.wav" link="vm-main_menu.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;to mark this message urgent" filename="vm-mark-urgent.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-mark-urgent.wav" link="vm-mark_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;to mark this message as 'new'" filename="vm-mark_message_new.wav">
@@ -2116,10 +2158,13 @@
     <prompt phrase="om dit bericht als dringend te markeren" filename="vm-mark_urgent.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="als dringend gemarkeerd" filename="vm-marked-urgent.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-marked-urgent.wav" link="vm-marked_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;marked 'new'" filename="vm-marked_new.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="als dringend gemarkeerd" filename="vm-marked_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="bericht" filename="vm-message.wav">
@@ -2155,13 +2200,13 @@
     <prompt phrase="#TODO Please translate the following text:&#10;No more messages." filename="vm-no_more_messages.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;is not available" filename="vm-not_available.wav">
+    <prompt phrase="is niet bereikbaar" filename="vm-not_available.wav">
       <prompt/>
     </prompt>
     <prompt phrase="De persoon die u probeert te bereiken is niet beschikbaar en heeft geen voicemail." filename="vm-not_available_no_voicemail.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="is niet bereikbaar" filename="vm-not_avaliable.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-not_avaliable.wav" link="vm-not_available.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;...or press..." filename="vm-or_press.wav">
@@ -2216,6 +2261,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="om nu terug te bellen" filename="vm-return_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;save" filename="vm-save.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;to save this message" filename="vm-save_message.wav">

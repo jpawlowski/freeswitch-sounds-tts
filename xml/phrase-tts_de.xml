@@ -433,6 +433,9 @@
     <prompt phrase="Rubel" filename="ruble.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Rubel" filename="rubles.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Schilling" filename="schilling.wav">
       <prompt/>
     </prompt>
@@ -556,6 +559,12 @@
     <prompt phrase="Neunzig" filename="90.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Milliarden" filename="billion.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Milliarden" filename="billions.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Punkt" filename="dot.wav">
       <prompt/>
     </prompt>
@@ -625,7 +634,13 @@
     <prompt phrase="Hundert" filename="hundred.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Hunderte" filename="hundreds.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Millionen" filename="million.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Millionen" filename="millions.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Komma" filename="period.wav">
@@ -646,10 +661,16 @@
     <prompt phrase="Tausend" filename="thousand.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Tausende" filename="thousands.wav">
+      <prompt/>
+    </prompt>
     <digits/>
   </digits>
   <directory>
     <prompt phrase="mit der Rufnummer" filename="dir-at_extension.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="dir-enter-person.wav" link="dir-enter_person.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Bitte geben Sie die ersten Buchstaben ein f&#xFC;r den" filename="dir-enter_person.wav">
@@ -671,6 +692,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="Buchstaben bestehen." filename="dir-letters_of_person_name.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Es gibt keine &#xFC;bereinstimmenden Eintr&#xE4;ge." filename="dir-no_match_entry.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Die Suche war ergebnis los." filename="dir-no_matching_results.wav">
@@ -697,13 +721,22 @@
     <prompt phrase="Die Suche muss aus mindestens" filename="dir-specify_mininum.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="dir-specify_mininum_first.wav" link="dir-specify_mininum.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="um einen neue Suche zu starten." filename="dir-start_new_search.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="dir-to_make_new_search.wav" link="dir-to_start_new_search.wav">
       <prompt/>
     </prompt>
     <prompt phrase="f&#xFC;r eine Suche nach" filename="dir-to_search_by.wav">
       <prompt/>
     </prompt>
     <prompt phrase="um diesen Eintrag auszuw&#xE4;hlen." filename="dir-to_select_entry.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Um eine neue Suche zu starten" filename="dir-to_start_new_search.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Ihre Suche ergab zu viele Ergebnisse." filename="dir-too_many_result.wav">
@@ -1624,6 +1657,9 @@
     <prompt phrase="Sie sind dabei Ihre Rufnummer mit diesem Endger&#xE4;t zu verbinden." filename="ivr-you_are_about_to_provision_this_phone.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Sie machen das nicht ganz richtig, ich versuche Sie trotzdem zu verbinden." filename="ivr-you_are_doing_it_wrong.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="Sie sind jetzt angemeldet." filename="ivr-you_are_now_logged_in.wav">
       <prompt/>
     </prompt>
@@ -1660,7 +1696,10 @@
     <prompt phrase="Ihre Rufnummer ist unterdr&#xFC;ckt." filename="ivr-your_caller_id_number_is_blocked.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Sie machen das nicht ganz richtig, ich versuche Sie trotzdem zu verbinden." filename="ivr-youre_doing_it_wrong.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-youre_doing_it_wrong.wav" link="ivr-you_are_doing_it_wrong.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="ivr-youre_number_one.wav" link="ivr-you_are_number_one.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Warum sind Sie nicht einmal kurz still?" filename="ivr-yuno_silent_drill.wav">
@@ -2026,6 +2065,12 @@
     <prompt phrase="morgen" filename="tomorrow.wav">
       <prompt/>
     </prompt>
+    <prompt phrase="Jahr" filename="year.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Jahre" filename="years.wav">
+      <prompt/>
+    </prompt>
     <prompt phrase="gestern" filename="yesterday.wav">
       <prompt/>
     </prompt>
@@ -2140,16 +2185,22 @@
     <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-main_menu_alt.wav" link="vm-main_menu.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="um diese Nachricht als 'dringend' zu markieren." filename="vm-mark-urgent.wav">
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-mark-urgent.wav" link="vm-mark_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="um diese Nachricht als 'neu' zu markieren." filename="vm-mark_message_new.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="als 'dringend' markiert." filename="vm-marked-urgent.wav">
+    <prompt phrase="um diese Nachricht als 'dringend' zu markieren." filename="vm-mark_urgent.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-marked-urgent.wav" link="vm-marked_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="als 'neu' markiert." filename="vm-marked_new.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="als 'dringend' markiert." filename="vm-marked_urgent.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Nachricht" filename="vm-message.wav">
@@ -2189,6 +2240,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="Die Person, die Sie versuchen zu erreichen, ist nicht erreichbar und hat keine Sprachbox aktiviert." filename="vm-not_available_no_voicemail.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="This file was renamed or is just an alternate intonation which is not possible with TTS." filename="vm-not_avaliable.wav" link="vm-not_available.wav">
       <prompt/>
     </prompt>
     <prompt phrase="oder dr&#xFC;cken Sie" filename="vm-or_press.wav">
@@ -2243,6 +2297,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="um jetzt zur&#xFC;ckzurufen" filename="vm-return_call.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="speichern" filename="vm-save.wav">
       <prompt/>
     </prompt>
     <prompt phrase="um diese Nachricht zu speichern" filename="vm-save_message.wav">
