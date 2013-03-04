@@ -2326,9 +2326,6 @@
     <prompt phrase="&#x42D;&#x442;&#x43E;&#x442; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x448;&#x438;&#x444;&#x440;&#x443;&#x435;&#x442;&#x441;&#x44F;" filename="call_secured.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;chinese" filename="chinese.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;german" filename="de.wav">
       <prompt/>
     </prompt>
@@ -2344,7 +2341,7 @@
     <prompt phrase="&#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x430;&#x435;&#x43C;&#x44B;&#x439; &#x43D;&#x430;&#x436;&#x430;&#x442;&#x438;&#x435;&#x43C; &#x43D;&#x430; &#x43A;&#x43B;&#x430;&#x432;&#x438;&#x448;&#x443; &#x440;&#x435;&#x448;&#x435;&#x442;&#x43A;&#x430;" filename="followed.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;french" filename="french.wav">
+    <prompt phrase="#TODO Please translate the following text:&#10;french" filename="fr.wav">
       <prompt/>
     </prompt>
     <prompt phrase="&#x415;&#x441;&#x43B;&#x438; &#x432;&#x44B; &#x44D;&#x442;&#x43E;&#x442; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x435;&#x43A;" filename="if_you_are_this_person.wav">
@@ -2443,19 +2440,19 @@
     <prompt phrase="&#x412;&#x430;&#x448; &#x437;&#x432;&#x43E;&#x43D;&#x43E;&#x43A; &#x431;&#x443;&#x434;&#x435;&#x442; &#x437;&#x430;&#x432;&#x435;&#x440;&#x448;&#x435;&#x43D; &#x447;&#x435;&#x440;&#x435;&#x437;" filename="misc-your_call_will_be_terminated_in.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;netherlandish" filename="netherlandish.wav">
+    <prompt phrase="#TODO Please translate the following text:&#10;netherlandish" filename="nl.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;This phone is not authorized to make outside calls." filename="phone_not_auth.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;portuguese" filename="portuguese.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="&#x41F;&#x440;&#x435;&#x434;&#x43E;&#x441;&#x442;&#x430;&#x432;&#x44C;&#x442;&#x435; &#x43D;&#x43E;&#x43C;&#x435;&#x440; &#x441;&#x441;&#x44B;&#x43B;&#x43A;&#x438;" filename="provide_reference_number.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="#TODO Please translate the following text:&#10;russian" filename="russian.wav">
+    <prompt phrase="#TODO Please translate the following text:&#10;portuguese" filename="pt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;russian" filename="ru.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;I'm sorry." filename="sorry.wav">
@@ -2468,6 +2465,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="&#x41C;&#x44B; &#x43F;&#x44B;&#x442;&#x430;&#x435;&#x43C;&#x441;&#x44F; &#x441;&#x432;&#x44F;&#x437;&#x430;&#x442;&#x44C;&#x441;&#x44F;..." filename="we_are_trying_to_reach.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="#TODO Please translate the following text:&#10;chinese" filename="zh_CN.wav">
       <prompt/>
     </prompt>
     <misc/>

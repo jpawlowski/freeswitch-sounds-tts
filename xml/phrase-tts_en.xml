@@ -3193,9 +3193,6 @@
     <prompt phrase="This call has been secured" filename="call_secured.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="chinese" filename="chinese.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="german" filename="de.wav">
       <prompt/>
     </prompt>
@@ -3211,7 +3208,7 @@
     <prompt phrase="Followed by pound" filename="followed.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="french" filename="french.wav">
+    <prompt phrase="french" filename="fr.wav">
       <prompt/>
     </prompt>
     <prompt phrase="If you are this person" filename="if_you_are_this_person.wav">
@@ -3310,19 +3307,19 @@
     <prompt phrase="Your call will be terminated in..." filename="misc-your_call_will_be_terminated_in.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="netherlandish" filename="netherlandish.wav">
+    <prompt phrase="netherlandish" filename="nl.wav">
       <prompt/>
     </prompt>
     <prompt phrase="This phone is not authorized to make outside calls." filename="phone_not_auth.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="portuguese" filename="portuguese.wav">
-      <prompt/>
-    </prompt>
     <prompt phrase="Provide reference number" filename="provide_reference_number.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="russian" filename="russian.wav">
+    <prompt phrase="portuguese" filename="pt.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="russian" filename="ru.wav">
       <prompt/>
     </prompt>
     <prompt phrase="I'm sorry." filename="sorry.wav">
@@ -3335,6 +3332,9 @@
       <prompt/>
     </prompt>
     <prompt phrase="We are trying to reach" filename="we_are_trying_to_reach.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="chinese" filename="zh_CN.wav">
       <prompt/>
     </prompt>
     <misc/>
