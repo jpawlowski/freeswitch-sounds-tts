@@ -10,6 +10,8 @@
  *
  */
 
+error_reporting(E_ALL ^ E_NOTICE);
+
 function find_files($path, $pattern, $callback) {
 	global $texts;
 	global $xml;
