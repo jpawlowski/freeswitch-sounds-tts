@@ -1,1 +1,2 @@
-O seu telefone indica que já confia neste sistema de retransmissão ZRTP para chamadas com o modo de segurança activo, portanto você já não precisa de fazer mais nada.
+O seu telefone indica que já confia neste sistema de retransmissão ZRTP para chamadas com
+o modo de segurança activo, portanto você já não precisa de fazer mais nada.

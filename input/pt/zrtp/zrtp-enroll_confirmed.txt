@@ -1,1 +1,4 @@
-Este sistema está preparado para suportar chamadas encriptadas ZRTP. Você deve determinar se deseja permitir que o sistema possa interceptar ou gravar as suas chamadas telefónicas com o modo de segurança activado. Você pode desligar após confirmar este comportamento.
+Este sistema está preparado para suportar chamadas encriptadas ZRTP.
+Você deve determinar se deseja permitir que o sistema possa interceptar
+ou gravar as suas chamadas telefónicas com o modo de segurança activado.
+Você pode desligar após confirmar este comportamento.

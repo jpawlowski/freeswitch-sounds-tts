@@ -1,1 +1,2 @@
-Necessita gravar o seu nome e sobrenome. Esta gravação é usada entre outros, no serviço de directório.
+Necessita gravar o seu nome e sobrenome.
+Esta gravação é usada entre outros, no serviço de directório.

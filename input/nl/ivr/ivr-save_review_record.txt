@@ -1,1 +1,3 @@
-Toets 1 om uw opnamen op te slaan. Toets 2 om uw opanmen te beluisteren. Toets 3 om overnieuw op te nemen.
+Toets 1 om uw opnamen op te slaan.
+Toets 2 om uw opanmen te beluisteren.
+Toets 3 om overnieuw op te nemen.
