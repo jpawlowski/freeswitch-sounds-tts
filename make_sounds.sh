@@ -144,8 +144,8 @@ if [[ x"$1" == x"googletts" ]]; then
 			if [[ -f "${OUTPUT_FILE}" ]]; then
 				echo "  > Optimizing ..."
 				sox "${OUTPUT_FILE}" -n stat -v 2> "${OUTPUT_FILE}.volc"
-				MAXVOL="`cat "${OUTPUT_FILE}.volc"`"
-				sox -v `echo ${MAXVOL}-0.15 | bc` "${OUTPUT_FILE}" "${OUTPUT_FILE}.volmax.wav"
+				MAXVOL="`cat "${OUTPUT_FILE}.volc" | grep "Volume adjustment" | cut -d ':' -f2 | tr -d ' '`"
+				[ x"${MAXVOL}" != x"" ] && sox -v `echo ${MAXVOL}-0.15 | bc` "${OUTPUT_FILE}" "${OUTPUT_FILE}.volmax.wav" || cp "${OUTPUT_FILE}" "${OUTPUT_FILE}.volmax.wav"
 				rm -f "${OUTPUT_FILE}"
 				sox "${OUTPUT_FILE}.volmax.wav" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
 				sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}.imp2.wav" silence 1 0.1 0.0% reverse
@@ -264,8 +264,8 @@ if [[ x"$1" == x"bingtts" ]]; then
 				echo "  > Optimizing ..."
 				mkdir -p "${OUTPUT_DIR}"
 				sox "${OUTPUT_FILE_TMP}" -n stat -v 2> "${OUTPUT_FILE}.volc"
-				MAXVOL="`cat "${OUTPUT_FILE}.volc"`"
-				sox -v `echo ${MAXVOL}-0.15 | bc` "${OUTPUT_FILE}" "${OUTPUT_FILE}.volmax.wav"
+				MAXVOL="`cat "${OUTPUT_FILE}.volc" | grep "Volume adjustment" | cut -d ':' -f2 | tr -d ' '`"
+				[ x"${MAXVOL}" != x"" ] && sox -v `echo ${MAXVOL}-0.15 | bc` "${OUTPUT_FILE_TMP}" "${OUTPUT_FILE}.volmax.wav" || cp "${OUTPUT_FILE}" "${OUTPUT_FILE}.volmax.wav"
 				sox "${OUTPUT_FILE}.volmax.wav" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
 				sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}" silence 1 0.1 0.0% reverse
 				rm -f "${OUTPUT_FILE}.volc" "${OUTPUT_FILE}.volmax.wav" "${OUTPUT_FILE}.imp.wav"
