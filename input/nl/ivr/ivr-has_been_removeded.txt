@@ -1,2 +1,1 @@
-#TODO Please translate the following text:
-has been removed.
+ivr-has_been_removed.txt

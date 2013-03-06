@@ -1,1 +1,1 @@
-Die Suche muss aus mindestens
+dir-specify_mininum.txt

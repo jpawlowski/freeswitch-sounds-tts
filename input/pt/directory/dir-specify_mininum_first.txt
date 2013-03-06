@@ -1,2 +1,1 @@
-#TODO Please translate the following text:
-You need to specify a minimum of...
+dir-specify_mininum.txt

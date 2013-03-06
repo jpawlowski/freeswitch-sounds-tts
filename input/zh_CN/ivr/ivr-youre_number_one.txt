@@ -1,3 +1,1 @@
-#TODO Please translate the following text:
-You are caller number one.Of course, *every* caller is number one in our book
-so you may be waiting a while.
+ivr-you_are_number_one.txt

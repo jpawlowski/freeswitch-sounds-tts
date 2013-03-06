@@ -1,1 +1,1 @@
-сообщения
+vm-messages.txt

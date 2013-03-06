@@ -1,1 +1,1 @@
-Geef de eerste paar letters op van de persoons
+dir-enter_person.txt

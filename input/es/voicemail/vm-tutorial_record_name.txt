@@ -1,2 +1,1 @@
-Necesito grabar su nombre y apellido.
-Esta grabación se usará entre otros en el servicio de directorio.
+Necesito grabar su nombre y apellido. Esta grabación se usará entre otros en el servicio de directorio.

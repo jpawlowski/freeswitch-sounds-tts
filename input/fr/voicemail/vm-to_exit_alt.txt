@@ -1,1 +1,1 @@
-pour quitter
+vm-to_exit.txt

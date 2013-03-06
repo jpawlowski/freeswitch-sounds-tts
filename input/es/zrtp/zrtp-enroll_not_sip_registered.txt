@@ -1,3 +1,1 @@
-Solo teléfonos autenticados pueden confiar en llamadas securizadas con ZRTP.
-Su teléfono no está autenticado con este sistema,
-por lo que esta llamada no estará securizada.
+Solo teléfonos autenticados pueden confiar en llamadas securizadas con ZRTP. Su teléfono no está autenticado con este sistema, por lo que esta llamada no estará securizada.

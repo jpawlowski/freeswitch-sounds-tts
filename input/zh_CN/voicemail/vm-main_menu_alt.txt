@@ -1,1 +1,1 @@
-主菜单
+vm-main_menu.txt
