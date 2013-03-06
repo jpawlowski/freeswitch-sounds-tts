@@ -138,7 +138,7 @@ if [[ x"$1" == x"googletts" ]]; then
 		fi
 
 		if [[ ! -f "${OUTPUT_FILE}" && -f "${OUTPUT_FILE_TMP}" ]]; then
-			echo "  > Converting to 16kHz ..."
+			echo "  > Converting from MP3 ..."
 			mkdir -p "${OUTPUT_DIR}"
 			mpg123 -q -w ${OUTPUT_FILE} ${OUTPUT_FILE_TMP}
 			if [[ -f "${OUTPUT_FILE}" ]]; then
