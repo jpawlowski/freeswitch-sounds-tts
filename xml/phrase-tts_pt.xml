@@ -898,7 +898,7 @@
     <prompt phrase="Para confirmar uma chamada de despertar..." filename="ivr-confirm_wakeup_call.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Felicidades, voc&#xEA; pressionou estrela. Isto n&#xE3;o significa que voc&#xEA; &#xE9; uma estrela. Apenas significa que pode pressionar teclas e que provavelmente tem dedos." filename="ivr-congratulations_you_pressed_star.wav">
+    <prompt phrase="Felicidades, voc&#xEA; pressionou estrela. Isto n&#xE3;o significa que voc&#xEA; &#xE9; uma estrela.&#10;Apenas significa que pode pressionar teclas e que provavelmente tem dedos." filename="ivr-congratulations_you_pressed_star.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Please hold while we connect you to an actual human being." filename="ivr-connect_actual_human_being.wav">
@@ -1099,7 +1099,7 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Gateway down" filename="ivr-gateway_down.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Obrigado por telefonar. Se conhece a extens&#xE3;o do destinat&#xE1;rio, marque-a agora, ou marque nove para ir para o direct&#xF3;rio." filename="ivr-generic_greeting.wav">
+    <prompt phrase="Obrigado por telefonar.&#10;Se conhece a extens&#xE3;o do destinat&#xE1;rio, marque-a agora, ou marque nove para ir para o direct&#xF3;rio." filename="ivr-generic_greeting.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Boa tarde." filename="ivr-good_afternoon.wav">
@@ -1297,7 +1297,7 @@
     <prompt phrase="Oh, tanto faz." filename="ivr-oh_whatever.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="A sua chamada &#xE9; muito importante para n&#xF3;s, mas a sua sa&#xFA;de mental n&#xE3;o, ent&#xE3;o estamos felizes por mant&#xEA;-lo em espera, torturando-o com a irritante m&#xFA;sica em espera." filename="ivr-on_hold_indefinitely.wav">
+    <prompt phrase="A sua chamada &#xE9; muito importante para n&#xF3;s, mas a sua sa&#xFA;de mental n&#xE3;o,&#10;ent&#xE3;o estamos felizes por mant&#xEA;-lo em espera, torturando-o com a irritante m&#xFA;sica em espera." filename="ivr-on_hold_indefinitely.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Um momento por favor." filename="ivr-one_moment_please.wav">
@@ -1474,7 +1474,7 @@
     <prompt phrase="Este &#xE9; um exemplo de um submenu IVR..." filename="ivr-sample_submenu.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Marque 1 para guardar a sua grava&#xE7;&#xE3;o. Marque 2 para ouvir a sua grava&#xE7;&#xE3;o. Marque 3 para gravar novamente." filename="ivr-save_review_record.wav">
+    <prompt phrase="Marque 1 para guardar a sua grava&#xE7;&#xE3;o.&#10;Marque 2 para ouvir a sua grava&#xE7;&#xE3;o. Marque 3 para gravar novamente." filename="ivr-save_review_record.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Por favor diga o seu nome depois do sinal." filename="ivr-say_name.wav">
@@ -1636,7 +1636,7 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Congratulations! You've earned 1500 Trollover minutes this month!" filename="ivr-trollover_minutes.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Neste momento o sistema &#xE9; incapaz de guardar o seu ficheiro de som. Por favor tente novamente mais tarde." filename="ivr-unable_save.wav">
+    <prompt phrase="Neste momento o sistema &#xE9; incapaz de guardar o seu ficheiro de som.&#10;Por favor tente novamente mais tarde." filename="ivr-unable_save.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Unallocated number" filename="ivr-unallocated_number.wav">
@@ -2452,10 +2452,10 @@
     <prompt phrase="Para gravar a sua sauda&#xE7;&#xE3;o..." filename="vm-record_greeting.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="ap&#xF3;s o sinal grave a sua mensagem, pressione qualquer tecla ou deixe de falar para parar a grava&#xE7;&#xE3;o." filename="vm-record_message.wav">
+    <prompt phrase="ap&#xF3;s o sinal grave a sua mensagem,&#10;pressione qualquer tecla ou deixe de falar para parar a grava&#xE7;&#xE3;o." filename="vm-record_message.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Ap&#xF3;s o sinal por favor diga o seu nome, pressione qualquer tecla ou deixe de falar para parar a grava&#xE7;&#xE3;o." filename="vm-record_name1.wav">
+    <prompt phrase="Ap&#xF3;s o sinal por favor diga o seu nome,&#10;pressione qualquer tecla ou deixe de falar para parar a grava&#xE7;&#xE3;o." filename="vm-record_name1.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Para gravar o seu nome..." filename="vm-record_name2.wav">
@@ -2506,13 +2506,13 @@
     <prompt phrase="O tamanho da sua grava&#xE7;&#xE3;o &#xE9; menor que o m&#xED;nimo aceite, por favor tente novamente." filename="vm-too-small.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="O n&#xFA;mero de identifica&#xE7;&#xE3;o pessoal ou PIN serve para impedir o  acesso de terceiros &#xE0;s suas mensagens. Deseja alterar o seu PIN agora?" filename="vm-tutorial_change_pin.wav">
+    <prompt phrase="O n&#xFA;mero de identifica&#xE7;&#xE3;o pessoal ou PIN serve para impedir o acesso de terceiros &#xE0;s suas mensagens.&#10;Deseja alterar o seu PIN agora?" filename="vm-tutorial_change_pin.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Necessita gravar o seu nome e sobrenome. Esta grava&#xE7;&#xE3;o &#xE9; usada entre outros, no servi&#xE7;o de direct&#xF3;rio." filename="vm-tutorial_record_name.wav">
+    <prompt phrase="Necessita gravar o seu nome e sobrenome.&#10;Esta grava&#xE7;&#xE3;o &#xE9; usada entre outros, no servi&#xE7;o de direct&#xF3;rio." filename="vm-tutorial_record_name.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Bem-Vindo ao seu voicemail. Para ouvir o tutorial e configurar o seu voicemail, pressione um. Para saltar-lo pressione dois." filename="vm-tutorial_yes_no.wav">
+    <prompt phrase="Bem-Vindo ao seu voicemail.&#10;Para ouvir o tutorial e configurar o seu voicemail, pressione um. Para saltar-lo pressione dois." filename="vm-tutorial_yes_no.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;to undelete this message" filename="vm-undelete_message.wav">
@@ -2539,19 +2539,19 @@
     <voicemail/>
   </voicemail>
   <zrtp>
-    <prompt phrase="Deve verificar a chave de autentica&#xE7;&#xE3;o com destinat&#xE1;rio. Se n&#xE3;o for igual, indica a presen&#xE7;a de uma escuta." filename="zrtp-check_sas.wav">
+    <prompt phrase="Deve verificar a chave de autentica&#xE7;&#xE3;o com destinat&#xE1;rio.&#10;Se n&#xE3;o for igual, indica a presen&#xE7;a de uma escuta." filename="zrtp-check_sas.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="O seu telefone indica que j&#xE1; confia neste sistema de retransmiss&#xE3;o ZRTP para chamadas com o modo de seguran&#xE7;a activo, portanto voc&#xEA; j&#xE1; n&#xE3;o precisa de fazer mais nada." filename="zrtp-enroll_already_enrolled.wav">
+    <prompt phrase="O seu telefone indica que j&#xE1; confia neste sistema de retransmiss&#xE3;o ZRTP para chamadas com&#10;o modo de seguran&#xE7;a activo, portanto voc&#xEA; j&#xE1; n&#xE3;o precisa de fazer mais nada." filename="zrtp-enroll_already_enrolled.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Este sistema est&#xE1; preparado para suportar chamadas encriptadas ZRTP. Voc&#xEA; deve determinar se deseja permitir que o sistema possa interceptar ou gravar as suas chamadas telef&#xF3;nicas com o modo de seguran&#xE7;a activado. Voc&#xEA; pode desligar ap&#xF3;s confirmar este comportamento." filename="zrtp-enroll_confirmed.wav">
+    <prompt phrase="Este sistema est&#xE1; preparado para suportar chamadas encriptadas ZRTP.&#10;Voc&#xEA; deve determinar se deseja permitir que o sistema possa interceptar&#10;ou gravar as suas chamadas telef&#xF3;nicas com o modo de seguran&#xE7;a activado.&#10;Voc&#xEA; pode desligar ap&#xF3;s confirmar este comportamento." filename="zrtp-enroll_confirmed.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Apenas telefones que est&#xE3;o autenticados podem ser configurados para usarem este sistema de retransmiss&#xE3;o ZRTP para chamadas com modo de seguran&#xE7;a activo. Se o seu telefone n&#xE3;o est&#xE1; autenticado com o sistema, esta chamada n&#xE3;o ter&#xE1; qualquer efeito." filename="zrtp-enroll_not_sip_registered.wav">
+    <prompt phrase="Apenas telefones que est&#xE3;o autenticados podem ser configurados para&#10;usarem este sistema de retransmiss&#xE3;o ZRTP para chamadas com modo de seguran&#xE7;a activo.&#10;Se o seu telefone n&#xE3;o est&#xE1; autenticado com o sistema, esta chamada n&#xE3;o ter&#xE1; qualquer efeito." filename="zrtp-enroll_not_sip_registered.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Apenas telefones equipados com o protocolo ZRTP podem usar esta extens&#xE3;o. O seu telefone n&#xE3;o suporta ZRTP, portanto esta chamada n&#xE3;o ter&#xE1; qualquer efeito." filename="zrtp-enroll_notzrtp.wav">
+    <prompt phrase="Apenas telefones equipados com o protocolo ZRTP podem usar esta extens&#xE3;o.&#10;O seu telefone n&#xE3;o suporta ZRTP, portanto esta chamada n&#xE3;o ter&#xE1; qualquer efeito." filename="zrtp-enroll_notzrtp.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Bem-vindo ao agente de registo ZRTP." filename="zrtp-enroll_welcome.wav">

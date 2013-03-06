@@ -2419,10 +2419,10 @@
     <prompt phrase="pour enregistrer un message d'accueil" filename="vm-record_greeting.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Au bip, enregistrez votre message, puis appuyez sur une touche ou arr&#xEA;tez de parler pour finir l'enregistrement." filename="vm-record_message.wav">
+    <prompt phrase="Au bip, enregistrez votre message,&#10;puis appuyez sur une touche ou arr&#xEA;tez de parler pour finir l'enregistrement." filename="vm-record_message.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Au bip, enregistrez votre nom, puis appuyez sur une touche ou arr&#xEA;tez de parler pour finir l'enregistrement." filename="vm-record_name1.wav">
+    <prompt phrase="Au bip, enregistrez votre nom,&#10;puis appuyez sur une touche ou arr&#xEA;tez de parler pour finir l'enregistrement." filename="vm-record_name1.wav">
       <prompt/>
     </prompt>
     <prompt phrase="pour enregistrer votre nom" filename="vm-record_name2.wav">
