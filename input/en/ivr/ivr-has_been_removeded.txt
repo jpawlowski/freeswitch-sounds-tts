@@ -1,1 +1,1 @@
-ivr-has_been_removed.txt
+has been removed.

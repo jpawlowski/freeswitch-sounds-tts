@@ -1,1 +1,1 @@
-dir-enter_person.txt
+Por favor introduza as primeiras letras do nome da pessoa.

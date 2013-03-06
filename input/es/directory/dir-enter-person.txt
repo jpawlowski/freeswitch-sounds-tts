@@ -1,1 +1,1 @@
-dir-enter_person.txt
+Por favor introduzca las primeras letras del nombre buscado.

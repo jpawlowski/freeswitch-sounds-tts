@@ -1,1 +1,1 @@
-ivr-you_are_number_one.txt
+Sie sind Anrufer Nummer 1! Allerdings ist das natürlich jeder, ggf. müssen Sie daher kurz warten.
