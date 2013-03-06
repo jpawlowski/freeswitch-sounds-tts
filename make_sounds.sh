@@ -143,11 +143,14 @@ if [[ x"$1" == x"googletts" ]]; then
 			mpg123 -q -w ${OUTPUT_FILE} ${OUTPUT_FILE_TMP}
 			if [[ -f "${OUTPUT_FILE}" ]]; then
 				echo "  > Optimizing ..."
-				sox "${OUTPUT_FILE}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
+				sox "${OUTPUT_FILE}" -n stat -v 2> "${OUTPUT_FILE}.volc"
+				MAXVOL="`cat "${OUTPUT_FILE}.volc"`"
+				sox -v `echo ${MAXVOL}-0.15 | bc` "${OUTPUT_FILE}" "${OUTPUT_FILE}.volmax.wav"
 				rm -f "${OUTPUT_FILE}"
+				sox "${OUTPUT_FILE}.volmax.wav" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
 				sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}.imp2.wav" silence 1 0.1 0.0% reverse
 				sox "${OUTPUT_FILE}.imp2.wav" "${OUTPUT_FILE}" tempo 1.25
-				rm -f "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}.imp2.wav"
+				rm -f "${OUTPUT_FILE}.volc" "${OUTPUT_FILE}.volmax.wav" "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}.imp2.wav"
 			fi
 		fi
 
@@ -260,9 +263,12 @@ if [[ x"$1" == x"bingtts" ]]; then
 			if [[ ! -f "${OUTPUT_FILE}" && -f "${OUTPUT_FILE_TMP}" ]]; then
 				echo "  > Optimizing ..."
 				mkdir -p "${OUTPUT_DIR}"
-				sox "${OUTPUT_FILE_TMP}" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
+				sox "${OUTPUT_FILE_TMP}" -n stat -v 2> "${OUTPUT_FILE}.volc"
+				MAXVOL="`cat "${OUTPUT_FILE}.volc"`"
+				sox -v `echo ${MAXVOL}-0.15 | bc` "${OUTPUT_FILE}" "${OUTPUT_FILE}.volmax.wav"
+				sox "${OUTPUT_FILE}.volmax.wav" "${OUTPUT_FILE}.imp.wav" silence 1 0.1 0.0% reverse
 				sox "${OUTPUT_FILE}.imp.wav" "${OUTPUT_FILE}" silence 1 0.1 0.0% reverse
-				rm -f "${OUTPUT_FILE}.imp.wav"
+				rm -f "${OUTPUT_FILE}.volc" "${OUTPUT_FILE}.volmax.wav" "${OUTPUT_FILE}.imp.wav"
 			fi
 
 			if [[ ! -f "${OUTPUT_FILE8k}" && -f "${OUTPUT_FILE}" ]]; then
@@ -273,6 +279,7 @@ if [[ x"$1" == x"bingtts" ]]; then
 		done
 	else
 		echo "Note: OAuth API credentials for BING missing in config file. See http://msdn.microsoft.com/en-us/library/hh454950.aspx"
+		exit 1
 	fi
 fi
 
