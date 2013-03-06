@@ -1,1 +1,2 @@
-Su teléfono indica que confia en este sistema para realizar llamadas seguras con ZRTP, no necesita hacer nada más.
+Su teléfono indica que confia en este sistema para realizar llamadas
+seguras con ZRTP, no necesita hacer nada más.
