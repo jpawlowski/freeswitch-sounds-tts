@@ -44,7 +44,7 @@ All in all it adds up to:
 * individual language files were transported to all other languages (if useful)
 * more ASCII phrases added
 * more currency related phrases added
-* identified tones and music files which should not really be 
+* identified [tones](https://github.com/jpawlowski/freeswitch-sounds-tts/tree/master/tone) and [music](https://github.com/jpawlowski/freeswitch-sounds-tts/tree/master/music) files which should not really be spoken but rather be tones
 
 (Not sure if this is really complete, though :-))
 All in all one could say that all languages were harmonized and standardized.
