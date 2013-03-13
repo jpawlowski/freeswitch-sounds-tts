@@ -215,6 +215,7 @@ if [[ x"$1" == x"bingtts" ]]; then
 
 					count=$(( count + 1 ))
 					LINE_ENCODED="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "${LINE}")"
+					[ "${LOCALE}" == "zh_CN" ] && LOCALE="zh-CHS"
 
 					curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" \
 						-H "Authorization: Bearer ${BING_OAUTH_TOKEN}" \
