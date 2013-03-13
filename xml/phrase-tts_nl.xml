@@ -868,7 +868,7 @@
     <prompt phrase="Om de wekdienst te bevestigen..." filename="ivr-confirm_wakeup_call.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Gefeliciteerd, U heeft op de ster gedrukt. Dit betekent overigens niet dat u een ster bent. Dit betekent dat u op knopjes kunt drukken en naar alle waarschijnlijkheid vingers heeft." filename="ivr-congratulations_you_pressed_star.wav">
+    <prompt phrase="Gefeliciteerd, U heeft op de ster gedrukt. Dit betekent overigens niet dat u een ster bent.&#10;Dit betekent dat u op knopjes kunt drukken en naar alle waarschijnlijkheid vingers heeft." filename="ivr-congratulations_you_pressed_star.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Please hold while we connect you to an actual human being." filename="ivr-connect_actual_human_being.wav">
@@ -934,7 +934,7 @@
     <prompt phrase="#TODO Please translate the following text:&#10;enabled" filename="ivr-enabled.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Al onze technische mederwerkers zijn bezig onze verkoop medewerkers te ondersteunen met het demonstreren hoe goed de CudaTel is." filename="ivr-engineers_busy_assisting_other_sales.wav">
+    <prompt phrase="Al onze technische mederwerkers zijn bezig onze verkoop medewerkers te ondersteunen&#10;met het demonstreren hoe goed de CudaTel is." filename="ivr-engineers_busy_assisting_other_sales.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Geniet van de muziek terwijl u wordt door geschakeld." filename="ivr-enjoy_music_while_transfer.wav">
@@ -1069,7 +1069,7 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Gateway down" filename="ivr-gateway_down.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Bedankt voor het bellen. Als u het toestel nummer weet van de persoon die u wilt bereiken, kunt u dat nu intoetsen of toets een 9 voor het telefoonboek." filename="ivr-generic_greeting.wav">
+    <prompt phrase="Bedankt voor het bellen.&#10;Als u het toestel nummer weet van de persoon die u wilt bereiken,&#10;kunt u dat nu intoetsen of toets een 9 voor het telefoonboek." filename="ivr-generic_greeting.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Goedemiddag." filename="ivr-good_afternoon.wav">
@@ -1267,7 +1267,7 @@
     <prompt phrase="Het zal wel!" filename="ivr-oh_whatever.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Uw oproep is erg belangrijk voor ons, maar uw geestelijke welzijn niet, dus we zullen u graag in de wacht houden, voor eeuwig martelen met onze vervelende wachtstandmuziek." filename="ivr-on_hold_indefinitely.wav">
+    <prompt phrase="Uw oproep is erg belangrijk voor ons, maar uw geestelijke welzijn niet,&#10;dus we zullen u graag in de wacht houden, voor eeuwig martelen met onze vervelende wachtstandmuziek." filename="ivr-on_hold_indefinitely.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Een moment geduld alstublieft." filename="ivr-one_moment_please.wav">
@@ -1444,7 +1444,7 @@
     <prompt phrase="Dit is een voorbeeld van een IVR submenu..." filename="ivr-sample_submenu.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Toets 1 om uw opnamen op te slaan. Toets 2 om uw opanmen te beluisteren. Toets 3 om overnieuw op te nemen." filename="ivr-save_review_record.wav">
+    <prompt phrase="Toets 1 om uw opnamen op te slaan.&#10;Toets 2 om uw opanmen te beluisteren.&#10;Toets 3 om overnieuw op te nemen." filename="ivr-save_review_record.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Spreek u naam in na de toon" filename="ivr-say_name.wav">
@@ -1606,7 +1606,7 @@
     <prompt phrase="#TODO Please translate the following text:&#10;Congratulations! You've earned 1500 Trollover minutes this month!" filename="ivr-trollover_minutes.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Het systeem is niet in staat om uw opanme op te slaan op dit moment, probeer het aub later nog een keer." filename="ivr-unable_save.wav">
+    <prompt phrase="Het systeem is niet in staat om uw opanme op te slaan op dit moment,&#10;probeer het aub later nog een keer." filename="ivr-unable_save.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;Unallocated number" filename="ivr-unallocated_number.wav">
@@ -2419,10 +2419,10 @@
     <prompt phrase="om een welkomstboodschap op te nemen" filename="vm-record_greeting.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="spreek uw bericht in na de toon en druk op een toets of stop met praten om de opname te be&#xEB;indigen" filename="vm-record_message.wav">
+    <prompt phrase="spreek uw bericht in na de toon en druk op een toets of stop&#10;met praten om de opname te be&#xEB;indigen" filename="vm-record_message.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="spreek uw naam in na de toon en druk op een toets of stop met praten om de opname te be&#xEB;indigen." filename="vm-record_name1.wav">
+    <prompt phrase="spreek uw naam in na de toon en druk op een toets of stop&#10;met praten om de opname te be&#xEB;indigen." filename="vm-record_name1.wav">
       <prompt/>
     </prompt>
     <prompt phrase="om uw naam op te nemen" filename="vm-record_name2.wav">
@@ -2473,13 +2473,13 @@
     <prompt phrase="Uw opname is korter dan de minimaal aanvaardbare lengte, probeer het opnieuw" filename="vm-too-small.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Uw persoonlijk identificatienummer, ofwel 'pin', wordt gebruikt om te voorkomen dat anderen toegang krijgen tot uw voicemailberichten. Wilt u deze nu wijzigen?" filename="vm-tutorial_change_pin.wav">
+    <prompt phrase="Uw persoonlijk identificatienummer, ofwel 'pin',&#10;wordt gebruikt om te voorkomen dat anderen toegang krijgen tot uw voicemailberichten.&#10;Wilt u deze nu wijzigen?" filename="vm-tutorial_change_pin.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Ik moet uw voor- en achternaam opnemen. Deze opname wordt gebruikt in het systeem zoals het bedrijfsmatige telefoonboek" filename="vm-tutorial_record_name.wav">
+    <prompt phrase="Ik moet uw voor- en achternaam opnemen.&#10;Deze opname wordt gebruikt in het systeem zoals het bedrijfsmatige telefoonboek" filename="vm-tutorial_record_name.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Welkom bij uw nieuwe voicemail. Om te luisteren naar een uitleg en het opzetten van uw voice mail box, druk op 1. Om dit over te slaan, druk op 2." filename="vm-tutorial_yes_no.wav">
+    <prompt phrase="Welkom bij uw nieuwe voicemail.&#10;Om te luisteren naar een uitleg en het opzetten van uw voice mail box, druk op 1.&#10;Om dit over te slaan, druk op 2." filename="vm-tutorial_yes_no.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;to undelete this message" filename="vm-undelete_message.wav">

@@ -1,1 +1,2 @@
-Obrigado por telefonar. Se conhece a extensão do destinatário, marque-a agora, ou marque nove para ir para o directório.
+Obrigado por telefonar.
+Se conhece a extensão do destinatário, marque-a agora, ou marque nove para ir para o directório.
