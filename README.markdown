@@ -55,7 +55,7 @@ At the moment the most complete languages are German and English.
 While the main focus during development of this toolkit was on German the English texts were also quite much improved and extended as this toolkit uses the English text definitions as it's basis.
 
 The other languages are nearly 1-to-1 imports from the original FreeSWITCH phrase files. There are also a lot of phrases missing for these languages.
-Those are currently marked as "#TODO" in [each file](https://github.com/jpawlowski/freeswitch-sounds-tts/tree/master/input) (or in the [XML export file](https://github.com/jpawlowski/freeswitch-sounds-tts/tree/master/xml)) and excluded from the export. If you would like to contribute to these languages, read on under FAQ.
+Those are currently marked as *#TODO* in [each file](https://github.com/jpawlowski/freeswitch-sounds-tts/tree/master/input) (or in the [XML export file](https://github.com/jpawlowski/freeswitch-sounds-tts/tree/master/xml)) and excluded from processing. If you would like to contribute to these languages, read on under [FAQ](#FAQ).
 
 #### ZRTP
 Support for ZRTP related BASE256 voice prompts is only available in english as of now.
