@@ -2467,7 +2467,7 @@
     <prompt phrase="um diese Nachricht jetzt zu senden" filename="vm-send_message_now.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Dies ist keine ung&#xFC;ltige Rufnummer." filename="vm-that_was_an_invalid_ext.wav">
+    <prompt phrase="Dies ist keine g&#xFC;ltige Rufnummer." filename="vm-that_was_an_invalid_ext.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Zum Verlassen" filename="vm-to_exit.wav">
@@ -2491,7 +2491,7 @@
     <prompt phrase="Ich nehme nun Ihren Vor- und Nachnamen auf." filename="vm-tutorial_record_name.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Willkommen zu Ihrer neuen Sprachbox!&#10;Zur Einf&#xFC;hrung und Einrichtung dr&#xFC;cken Sie 1, zum &#xFC;berspringen die 2." filename="vm-tutorial_yes_no.wav">
+    <prompt phrase="Willkommen zu Ihrer neuen Sprachbox!&#10;Zur Einf&#xFC;hrung und Einrichtung dr&#xFC;cken Sie Eins, zum &#xFC;berspringen die Zwei." filename="vm-tutorial_yes_no.wav">
       <prompt/>
     </prompt>
     <prompt phrase="um diese Nachricht wiederherzustellen." filename="vm-undelete_message.wav">
