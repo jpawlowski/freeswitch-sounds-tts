@@ -2434,7 +2434,7 @@
     <prompt phrase="#TODO Please translate the following text:&#10;The PIN you entered is below the minimum length." filename="vm-pin_below_minimum_length.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="N&#xE3;o est&#xE1; dispon&#xED;vel." filename="vm-play_greeting.wav">
+    <prompt phrase="#TODO Please translate:&#10;to listen to the greeting" filename="vm-play_greeting.wav">
       <prompt/>
     </prompt>
     <prompt phrase="#TODO Please translate the following text:&#10;to play the next message" filename="vm-play_next_message.wav">
