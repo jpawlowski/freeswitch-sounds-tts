@@ -1,1 +1,2 @@
-не доступно
+#TODO Please translate:
+to listen to the greeting

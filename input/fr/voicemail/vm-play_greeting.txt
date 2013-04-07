@@ -1,1 +1,2 @@
-n'est pas joignable
+#TODO Please translate:
+to listen to the greeting
