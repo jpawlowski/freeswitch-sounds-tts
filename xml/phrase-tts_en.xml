@@ -3940,7 +3940,7 @@
     <prompt phrase="The PIN you entered is below the minimum length." filename="vm-pin_below_minimum_length.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="is not available" filename="vm-play_greeting.wav">
+    <prompt phrase="to listen to the greeting" filename="vm-play_greeting.wav">
       <prompt/>
     </prompt>
     <prompt phrase="to play the next message" filename="vm-play_next_message.wav">

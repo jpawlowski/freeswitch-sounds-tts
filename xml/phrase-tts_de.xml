@@ -598,67 +598,193 @@
     <prompt phrase="Punkt" filename="dot.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Erster" filename="h-1.wav">
+    <prompt phrase="Erste" filename="h-1.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Zehnter" filename="h-10.wav">
+    <prompt phrase="Zehnte" filename="h-10.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Elfter" filename="h-11.wav">
+    <prompt phrase="Zehnter" filename="h-10_m.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Zw&#xF6;lfter" filename="h-12.wav">
+    <prompt phrase="Zehntes" filename="h-10_n.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Dreizehnter." filename="h-13.wav">
+    <prompt phrase="Elfte" filename="h-11.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Vierzehnter." filename="h-14.wav">
+    <prompt phrase="Elfter" filename="h-11_m.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="F&#xFC;nfzehnter." filename="h-15.wav">
+    <prompt phrase="Elftes" filename="h-11_n.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Sechszehnter." filename="h-16.wav">
+    <prompt phrase="Zw&#xF6;lfte" filename="h-12.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Siebzehnter." filename="h-17.wav">
+    <prompt phrase="Zw&#xF6;lfter" filename="h-12_m.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Achtzehnter." filename="h-18.wav">
+    <prompt phrase="Zw&#xF6;lftes" filename="h-12_n.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Neunzehnter." filename="h-19.wav">
+    <prompt phrase="Dreizehnte" filename="h-13.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Zweiter" filename="h-2.wav">
+    <prompt phrase="Dreizehnter" filename="h-13_m.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Zwanzigster." filename="h-20.wav">
+    <prompt phrase="Dreizehntes" filename="h-13_n.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Dritter" filename="h-3.wav">
+    <prompt phrase="Vierzehnte" filename="h-14.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Drei&#xDF;igster." filename="h-30.wav">
+    <prompt phrase="Vierzehnter" filename="h-14_m.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Vierter" filename="h-4.wav">
+    <prompt phrase="Vierzehntes" filename="h-14_n.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="F&#xFC;nfter" filename="h-5.wav">
+    <prompt phrase="F&#xFC;nfzehnte" filename="h-15.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Sechster" filename="h-6.wav">
+    <prompt phrase="F&#xFC;nfzehnter" filename="h-15_m.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Siebter" filename="h-7.wav">
+    <prompt phrase="F&#xFC;nfzehntes" filename="h-15_n.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Achter" filename="h-8.wav">
+    <prompt phrase="Sechszehnte" filename="h-16.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="Neunter" filename="h-9.wav">
+    <prompt phrase="Sechszehnter" filename="h-16_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Sechszehntes" filename="h-16_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Siebzehnte" filename="h-17.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Siebzehnter" filename="h-17_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Siebzehntes" filename="h-17_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Achtzehnte" filename="h-18.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Achtzehnter" filename="h-18_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Achtzehntes" filename="h-18_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Neunzehnte" filename="h-19.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Neunzehnter" filename="h-19_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Neunzehntes" filename="h-19_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Erster" filename="h-1_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Erstes" filename="h-1_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zweite" filename="h-2.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zwanzigste" filename="h-20.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zwanzigster" filename="h-20_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zwanzigstes" filename="h-20_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zweiter" filename="h-2_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Zweites" filename="h-2_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Dritte" filename="h-3.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Drei&#xDF;igste" filename="h-30.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Drei&#xDF;igster" filename="h-30_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Drei&#xDF;igstes" filename="h-30_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Dritter" filename="h-3_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Drittes" filename="h-3_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Vierte" filename="h-4.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Vierter" filename="h-4_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Viertes" filename="h-4_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="F&#xFC;nfte" filename="h-5.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="F&#xFC;nfter" filename="h-5_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="F&#xFC;nftes" filename="h-5_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Sechste" filename="h-6.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Sechster" filename="h-6_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Sechstes" filename="h-6_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Siebte" filename="h-7.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Siebter" filename="h-7_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Siebtes" filename="h-7_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Achte" filename="h-8.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Achter" filename="h-8_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Achtes" filename="h-8_n.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Neunte" filename="h-9.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Neunter" filename="h-9_m.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="Neuntes" filename="h-9_n.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Hundert" filename="hundred.wav">
@@ -686,6 +812,21 @@
       <prompt/>
     </prompt>
     <prompt phrase="Stern" filename="star.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="die" filename="the_fn.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="den" filename="the_ma.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="dem" filename="the_md.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="der" filename="the_mn.wav">
+      <prompt/>
+    </prompt>
+    <prompt phrase="das" filename="the_nn.wav">
       <prompt/>
     </prompt>
     <prompt phrase="Tausend" filename="thousand.wav">
@@ -2410,7 +2551,7 @@
     <prompt phrase="Die von Ihnen eingegebene Pin unterschreitet die Mindestl&#xE4;nge." filename="vm-pin_below_minimum_length.wav">
       <prompt/>
     </prompt>
-    <prompt phrase="ist nicht verf&#xFC;gbar." filename="vm-play_greeting.wav">
+    <prompt phrase="um die Begr&#xFC;&#xDF;ung anzuh&#xF6;ren." filename="vm-play_greeting.wav">
       <prompt/>
     </prompt>
     <prompt phrase="um die n&#xE4;chste Nachricht anzuh&#xF6;ren." filename="vm-play_next_message.wav">
