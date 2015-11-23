@@ -3,7 +3,7 @@
 This toolkit provides voice prompt file generation via Google Translate and Bing Translate Text-To-Speech engines (TTS) for [FreeSWITCH](http://www.freeswitch.org).
 
 Ready to install packages can be found here:
-http://repo.profhost.eu/static/freeswitch/
+http://repo.amooma.de/static/freeswitch/
 
 Currently the following languages are supported:
 
