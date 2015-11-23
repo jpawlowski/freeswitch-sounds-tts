@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # FreeSwitch
 # TTS Voice Prompt Generator
@@ -10,9 +10,19 @@
 set -e
 
 # Check for needed tools
-if [[ ! -d ./input || ! curl || ! sox || ! mpg123 || ! perl || ! php ]]; then
-	echo -e "\nFATAL ERROR: Either one of the following errors occured:\n\n- input directory does not exist\n- curl/sox/mpg123/perl/php are not installed\n"
-	exit 1
+MISSING_DEPENDENCIES=false
+for cmd in curl sox mpg123 perl php; do
+  hash "$cmd" 2>/dev/null || { echo -e "\nFATAL ERROR: I require "$cmd" but it's not installed.\n" >&2; MISSING_DEPENDENCIES=true; }
+done
+
+if [[ "${MISSING_DEPENDENCIES}" == "true" ]]; then
+  echo -e "Aborting due to missing dependencies.\n"
+  exit 1
+fi
+
+if [[ ! -d ./input ]]; then
+  echo -e "\nFATAL ERROR: input directory does not exist\n"
+  exit 1
 fi
 
 if [ "$1" == "" ]; then

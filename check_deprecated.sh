@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #
 # FreeSwitch
 # TTS Voice Prompt Generator
