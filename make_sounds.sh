@@ -103,7 +103,7 @@ if [[ x"$1" == x"googletts" ]]; then
 				LINE_ENCODED="$(perl -MURI::Escape -e 'print uri_escape($ARGV[0]);' "${LINE}")"
 
 				curl -A "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.60 Safari/537.17" \
-					-s "http://translate.google.com/translate_tts?tl=${LOCALE}&q=${LINE_ENCODED}" > "${OUTPUT_FILE_TMP}.${count}.mp3"
+					-s "http://translate.google.com/translate_tts?ie=UTF-8&total=1&idx=0&textlen=32&client=tw-ob&tl=${LOCALE}&q=${LINE_ENCODED}" > "${OUTPUT_FILE_TMP}.${count}.mp3"
 				
 				sleep 2s
 
